@@ -1,11 +1,12 @@
 {
-  "at": "2026-11-05T19:12:55.233Z",
-  "base": "http://127.0.0.1:4174/",
+  "at": "2026-11-05T19:25:56.166Z",
+  "base": "https://yangwei251003.github.io/manyou-knowledge-comics/",
   "desktopChapterRoutes": 115,
   "mobileChapterRoutes": 115,
   "subjectCatalogs": 5,
   "formulaCount": 446,
   "readableComicPages": 8,
+  "decodedHomeImages": 11,
   "newPrecisionModels": 5,
   "advancedMethodCard": true,
   "videoMetadata": {

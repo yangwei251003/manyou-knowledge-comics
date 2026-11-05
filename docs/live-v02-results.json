@@ -1,0 +1,198 @@
+{
+  "at": "2026-11-05T19:19:18.011449+00:00",
+  "base": "https://yangwei251003.github.io/manyou-knowledge-comics/",
+  "testedReleaseCommit": "000cdeb2922302e82f4ea818c827d60267bb8b5e",
+  "pagesBuild": {
+    "status": "built",
+    "commit": "000cdeb2922302e82f4ea818c827d60267bb8b5e",
+    "updatedAt": "2026-11-05T19:17:49Z"
+  },
+  "files": [
+    {
+      "file": "assets/comics/m13-page1-v2.png",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 2449231,
+      "contentType": "image/png"
+    },
+    {
+      "file": "assets/comics/math-07-v1.png",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 2955735,
+      "contentType": "image/png"
+    },
+    {
+      "file": "assets/comics/physics-06-v1.png",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 3115954,
+      "contentType": "image/png"
+    },
+    {
+      "file": "assets/comics/chemistry-15-v1.png",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 2921165,
+      "contentType": "image/png"
+    },
+    {
+      "file": "assets/comics/b05-page1-v2.png",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 2727300,
+      "contentType": "image/png"
+    },
+    {
+      "file": "assets/comics/biology-10-v1.png",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 3008020,
+      "contentType": "image/png"
+    },
+    {
+      "file": "assets/comics/geography-05-v1.png",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 3228005,
+      "contentType": "image/png"
+    },
+    {
+      "file": "assets/comics/g12-page1-v2.png",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 2341539,
+      "contentType": "image/png"
+    },
+    {
+      "file": "assets/video/conic-distance.mp4",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 3093526,
+      "contentType": "video/mp4"
+    },
+    {
+      "file": "assets/video/conic-poster.jpg",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 62604,
+      "contentType": "image/jpeg"
+    },
+    {
+      "file": "assets/video/conic-distance.vtt",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 1185,
+      "contentType": "text/vtt; charset=utf-8"
+    },
+    {
+      "file": "production/audio/conic-narration.wav",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 2837382,
+      "contentType": "audio/wav"
+    },
+    {
+      "file": "index.html",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 814,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "file": "src/app.js",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 20238,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "file": "src/course-library.js",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 37857,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "file": "src/precision-models.js",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 12618,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "file": "content/books.json",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 21663,
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "file": "content/courses.js",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 7729,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "file": "content/math.js",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 37096,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "file": "content/physics.js",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 55790,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "file": "content/chemistry.js",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 36755,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "file": "content/biology.js",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 47067,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "file": "content/geography.js",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 42610,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "file": "content/depth.js",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 14019,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "file": "content/legacy-links.js",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 1363,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "file": "production/video-manifest.json",
+      "httpStatus": 200,
+      "sha256Match": true,
+      "bytes": 890,
+      "contentType": "application/json; charset=utf-8"
+    }
+  ],
+  "videoRangeStatus": 206,
+  "teacherReview": "not-performed",
+  "realStudentValidation": "not-performed",
+  "fullVideoListeningReview": false
+}

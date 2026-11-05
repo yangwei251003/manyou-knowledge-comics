@@ -6,11 +6,22 @@ const base=process.env.PREVIEW_URL||'http://127.0.0.1:4173/';
 const browser=await chromium.launch({headless:true});
 const context=await browser.newContext({viewport:{width:1440,height:1000},reducedMotion:'reduce',acceptDownloads:true});
 const page=await context.newPage(),errors=[],failed=[];
+// A full-page screenshot does not itself wait for lazy images or SVG decoding.
+// Verify actual decoded media before recording a visual result.
+async function readyImages(){
+ await page.locator('img').evaluateAll(async imgs=>{
+  imgs.forEach(img=>{img.loading='eager';});
+  await Promise.all(imgs.map(async img=>{await img.decode();if(!img.naturalWidth)throw Error('Undecoded image: '+img.currentSrc);}));
+  await document.fonts.ready;
+ });
+}
 page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.status()>=400&&r.url().startsWith(base))failed.push(`${r.status()} ${r.url()}`);});
 await mkdir('docs/media',{recursive:true});await mkdir('tmp/full-test',{recursive:true});
 await page.goto(base);await page.locator('.subject-shelf').first().waitFor();
 assert.equal(await page.locator('.subject-shelf').count(),5);
 assert.equal(await page.locator('.pilot-cover').count(),Object.keys(pilotAssets).length);
+await readyImages();
+const decodedHomeImages=await page.locator('img').count();
 await page.screenshot({path:'docs/media/full-home-desktop.png',fullPage:true});
 let checked=0,patternCards=0;
 for(const c of chapters){
@@ -41,6 +52,7 @@ await page.locator('#worked-answer summary').click();assert(await page.locator('
 await page.locator('[data-recall="review"]').click();await page.reload();
 await page.locator('.chapter-heading').waitFor();assert(await page.locator('[data-read]').first().isChecked());
 assert.equal(await page.locator('#course-note').inputValue(),'先找焦点与距离约束，再联立直线方程。');
+await readyImages();
 await page.screenshot({path:'docs/media/full-chapter-desktop.png',fullPage:true});
 await page.goto(base+'#formulas');await page.locator('.formula-result').first().waitFor();assert.equal(await page.locator('.formula-result').count(),formulas.length);
 await page.locator('#formula-search').fill('机械能');assert((await page.locator('.formula-result').count())>0);
@@ -64,12 +76,12 @@ await page.goto(base+'#lesson/energy');await page.locator('[data-answer]').first
 await page.setViewportSize({width:375,height:812});
 let mobileChecked=0;
 for(const c of chapters){await page.goto(base+'#chapter/'+c.id);await page.locator('.chapter-heading').waitFor();const width=await page.evaluate(()=>({w:innerWidth,scroll:document.documentElement.scrollWidth}));assert(width.scroll<=width.w+2,`Mobile overflow ${c.id} ${JSON.stringify(width)}`);mobileChecked++;}
-await page.goto(base+'#home');await page.locator('.subject-shelf').first().waitFor();await page.screenshot({path:'docs/media/full-home-mobile.png',fullPage:true});
-await page.goto(base+'#chapter/m05');await page.locator('.chapter-heading').waitFor();await page.screenshot({path:'docs/media/full-chapter-mobile.png',fullPage:true});
-await page.goto(base+'#map/physics');await page.locator('.chapter-line').first().waitFor();await page.screenshot({path:'docs/media/full-physics-mobile.png',fullPage:true});
+await page.goto(base+'#home');await page.locator('.subject-shelf').first().waitFor();await readyImages();await page.screenshot({path:'docs/media/full-home-mobile.png',fullPage:true});
+await page.goto(base+'#chapter/m05');await page.locator('.chapter-heading').waitFor();await readyImages();await page.screenshot({path:'docs/media/full-chapter-mobile.png',fullPage:true});
+await page.goto(base+'#map/physics');await page.locator('.chapter-line').first().waitFor();await readyImages();await page.screenshot({path:'docs/media/full-physics-mobile.png',fullPage:true});
 await page.goto(base+'#coverage');await page.locator('.coverage-table').waitFor();assert.equal(await page.locator('.coverage-table tbody tr').count(),5);
 await page.goto(base+'#chapter/unknown');assert((await page.locator('h1').textContent()).includes('没有找到'));
 assert.deepEqual(errors,[]);assert.deepEqual(failed,[]);
-const result={at:new Date().toISOString(),base,desktopChapterRoutes:checked,mobileChapterRoutes:mobileChecked,subjectCatalogs:5,formulaCount:formulas.length,readableComicPages:Object.keys(pilotAssets).length,newPrecisionModels:5,advancedMethodCard:true,videoMetadata:metadata,videoPlaybackCheckedMuted:true,fullListeningReview:false,search:true,notesPersistence:true,readMarkers:true,bookmarks:true,hiddenWorkedAnswer:true,export:true,comicDialog:true,legacyModel:true,consoleErrors:errors,failedResources:failed};
+const result={at:new Date().toISOString(),base,desktopChapterRoutes:checked,mobileChapterRoutes:mobileChecked,subjectCatalogs:5,formulaCount:formulas.length,readableComicPages:Object.keys(pilotAssets).length,decodedHomeImages,newPrecisionModels:5,advancedMethodCard:true,videoMetadata:metadata,videoPlaybackCheckedMuted:true,fullListeningReview:false,search:true,notesPersistence:true,readMarkers:true,bookmarks:true,hiddenWorkedAnswer:true,export:true,comicDialog:true,legacyModel:true,consoleErrors:errors,failedResources:failed};
 await writeFile('docs/full-smoke-results.json',JSON.stringify(result,null,2)+'\n');
 console.log(JSON.stringify(result,null,2));await browser.close();
