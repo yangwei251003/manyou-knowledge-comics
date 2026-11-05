@@ -1,0 +1,3927 @@
+{
+  "schemaVersion": "1.0.0",
+  "updated": "2026-11-05",
+  "title": "广东2027届高三一轮五科可视化课程主干地图",
+  "status": "课程目录研究草案；不是已完成、已教审或官方认可课程",
+  "scope": {
+    "region": "广东",
+    "cohort": "2027届高考生",
+    "audience": "具备高中基础、进入高三一轮复习的学生",
+    "coverage": "五科必修和选择性必修主干主题，共160个聚合主题；每主题后续需拆成若干知识点、漫画与练习，未声称覆盖全部课标条目或全部题型。",
+    "examBaseline": "2026广东官方工作规定为最近已实际读取的考试组织基线；2027命题、卷型、范围、结构与评分要求待广东官方发布后逐项核对。",
+    "curriculumVersion": "2020版官方课标为本轮可实际读取的结构基线；已确认2025日常修订版存在，尚未取得并逐条核完五科完整修订正文，不能将2020称最新。",
+    "textbookMapping": "暂按跨版本主题组织，不冒称广东所有学校统一使用同一教材。教材出版社、版本、册次及校内复习进度尚待目标学校样本确认。"
+  },
+  "priorityLegend": {
+    "P0": "优先制作：核心机制、典型方法或高价值图像/实验；项目编辑判断，不是官方考频排名",
+    "P1": "随后扩展：必要主干与综合迁移；同样属于目录覆盖"
+  },
+  "contentReleaseRule": "目录planned→脚本draft→学科教师核对scientific-reviewed→画面与题目复核qa-passed→发布published；没有审核证据保持planned/draft。",
+  "sources": [
+    {
+      "id": "moe-2020",
+      "title": "教育部印发2017年版2020年修订高中课程方案及课标的通知",
+      "publisher": "中华人民共和国教育部",
+      "url": "https://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html",
+      "published": "2020-06-03",
+      "accessed": "2026-11-05",
+      "evidence": "搜索正文已读；直接打开重定向受阻，以人教社原件核课程结构。"
+    },
+    {
+      "id": "math-2020",
+      "title": "普通高中数学课程标准（2017年版2020年修订）",
+      "publisher": "教育部制定／人民教育出版社官方原件",
+      "url": "https://www.pep.com.cn/xw/zt/rjwy/gzkb2020/202205/P020220517519489596282.pdf",
+      "version": "2017年版2020年修订",
+      "accessed": "2026-11-05",
+      "evidence": "后台下载并读取课程结构与选课说明，PDF共188页；未逐页教审。"
+    },
+    {
+      "id": "physics-2020",
+      "title": "普通高中物理课程标准（2017年版2020年修订）",
+      "publisher": "教育部制定／人民教育出版社官方原件",
+      "url": "https://www.pep.com.cn/xw/zt/rjwy/gzkb2020/202205/P020220517520664858048.pdf",
+      "version": "2017年版2020年修订",
+      "accessed": "2026-11-05",
+      "evidence": "后台下载并读取课程结构，PDF共98页；未逐页教审。"
+    },
+    {
+      "id": "chemistry-2020",
+      "title": "普通高中化学课程标准（2017年版2020年修订）",
+      "publisher": "教育部制定／人民教育出版社官方原件",
+      "url": "https://www.pep.com.cn/xw/zt/rjwy/gzkb2020/202205/P020220517517668288401.pdf",
+      "version": "2017年版2020年修订",
+      "accessed": "2026-11-05",
+      "evidence": "网页PDF正文已打开，读取模块结构、选择性必修与实验索引；未逐条逐页教审。"
+    },
+    {
+      "id": "biology-2020",
+      "title": "普通高中生物学课程标准（2017年版2020年修订）",
+      "publisher": "教育部制定／人民教育出版社官方原件",
+      "url": "https://www.pep.com.cn/xw/zt/rjwy/gzkb2020/202205/P020220517519140545267.pdf",
+      "version": "2017年版2020年修订",
+      "accessed": "2026-11-05",
+      "evidence": "网页PDF正文已打开，读取课程结构与教学活动要求；未逐条逐页教审。"
+    },
+    {
+      "id": "geography-2020",
+      "title": "普通高中地理课程标准（2017年版2020年修订）",
+      "publisher": "教育部制定／人民教育出版社官方原件",
+      "url": "https://www.pep.com.cn/xw/zt/rjwy/gzkb2020/202205/P020220517516728907929.pdf",
+      "version": "2017年版2020年修订",
+      "accessed": "2026-11-05",
+      "evidence": "网页PDF正文已打开，读取课程结构、必修与选择性必修范围；未逐条逐页教审。"
+    },
+    {
+      "id": "ictr-2025",
+      "title": "课程方案及课程标准日常修订版（2017年版2025年修订）解读专刊目录",
+      "publisher": "教育部课程教材研究所",
+      "url": "https://www.ictr.edu.cn/Uploads/File/2025/12/01/2025%E5%B9%B412%E6%9C%88%E7%9B%AE%E5%BD%95.20251201190727.pdf",
+      "published": "2025-12",
+      "accessed": "2026-11-05",
+      "evidence": "官方目录PDF已打开，确认五科2025日常修订版及解读存在；仅目录，不能据此声称全文已核。"
+    },
+    {
+      "id": "scnu-physics-2025",
+      "title": "普通高中物理课程标准（2017年版2025年修订）",
+      "publisher": "华南师范大学国家教材建设重点研究基地（中小学物理教材研究）",
+      "url": "https://pmc.scnu.edu.cn/a/20251127/25.html",
+      "published": "2025-11-27",
+      "accessed": "2026-11-05",
+      "evidence": "官方高校基地页面已打开，确认修订版和核心素养结构；页面为摘要。"
+    },
+    {
+      "id": "swu-math-2026",
+      "title": "中小学课程方案和普通高中数学课程标准日常修订版深化实施培训顺利举行",
+      "publisher": "西南大学国家教材建设重点研究基地",
+      "url": "https://xbzprtjcyj.swu.edu.cn/info/1077/1335.htm",
+      "published": "2026-06-17",
+      "accessed": "2026-11-05",
+      "evidence": "官方高校页面已打开，确认2025修订版实施培训；可支持教学设计方向，不是广东2027命题通知。"
+    },
+    {
+      "id": "guangdong-2026",
+      "title": "广东省招生委员会关于做好广东省2026年普通高校招生工作的通知（含工作规定）",
+      "publisher": "广东省招生委员会／深圳市教育局托管原件",
+      "url": "https://szeb.sz.gov.cn/attachment/1/1713/1713627/12781791.pdf",
+      "published": "2026-05",
+      "accessed": "2026-11-05",
+      "evidence": "官方教育局PDF后台下载并读取，29页，第13页明确数学全国卷和广东选择性考试由省组织命题。"
+    },
+    {
+      "id": "gd-origin-2026",
+      "title": "广东省2026年普通高校招生工作通知原站入口",
+      "publisher": "广东省教育考试院",
+      "url": "https://eea.gd.gov.cn/tzgg/content/post_4896626.html",
+      "published": "2026-05",
+      "accessed": "2026-11-05",
+      "evidence": "原站访问受阻；仅作入口。关键条款以深圳市教育局托管PDF实际读取为据。"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "math",
+      "name": "数学",
+      "chapters": [
+        {
+          "id": "m-foundation",
+          "title": "逻辑、集合与不等式",
+          "points": [
+            {
+              "id": "math-01",
+              "title": "集合逻辑与充要条件",
+              "core": "用集合包含关系判断充分、必要与等价，注意命题量词和否定。",
+              "prerequisites": [],
+              "visualIdea": "把命题画成可进入的区域与单向通行门。",
+              "method": [
+                "明确论域",
+                "翻译集合",
+                "检验两个方向"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-02",
+              "title": "二次不等式与基本不等式",
+              "core": "符号区间由零点和开口决定；基本不等式须核对正数、定值与等号条件。",
+              "prerequisites": [
+                "math-01"
+              ],
+              "visualIdea": "抛物线穿越地面，乘积与和的天平同步变化。",
+              "method": [
+                "定定义域",
+                "分区间",
+                "检等号能否取到"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "m-functions",
+          "title": "函数与导数主线",
+          "points": [
+            {
+              "id": "math-03",
+              "title": "函数定义域与复合关系",
+              "core": "函数是输入到唯一输出的对应；复合函数的内层输出须落在外层定义域。",
+              "prerequisites": [
+                "math-01"
+              ],
+              "visualIdea": "两台串联机器对输入票据逐级验收。",
+              "method": [
+                "先内后外",
+                "求定义域",
+                "代回验证"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-04",
+              "title": "单调性、奇偶性与图像变换",
+              "core": "图像性质要与定义域对应；平移伸缩须依据自变量整体变化判断。",
+              "prerequisites": [
+                "math-03"
+              ],
+              "visualIdea": "曲线与坐标标尺同步移动，镜像门展示奇偶性。",
+              "method": [
+                "看域",
+                "拆变换",
+                "用特征点复核"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-05",
+              "title": "指数、对数与增长模型",
+              "core": "互为反函数的对应关系帮助比较增长；底数决定单调方向。",
+              "prerequisites": [
+                "math-03",
+                "math-04"
+              ],
+              "visualIdea": "等量增加与等比例增加的两支队伍分叉。",
+              "method": [
+                "定底数与域",
+                "转同一函数",
+                "比较或建模"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-06",
+              "title": "函数零点与方程根的分布",
+              "core": "零点是图像与横轴交点；存在性结论需核对连续性及区间端点。",
+              "prerequisites": [
+                "math-02",
+                "math-04",
+                "math-05"
+              ],
+              "visualIdea": "水平水位线移动，与曲线的交点逐个出现。",
+              "method": [
+                "转交点",
+                "分单调区间",
+                "检边界与重根"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-07",
+              "title": "导数：从割线到局部变化率",
+              "core": "割线斜率的极限刻画切线斜率；导数描述局部变化，不能把函数值与导数混同。",
+              "prerequisites": [
+                "math-04"
+              ],
+              "visualIdea": "两点靠近，斜率指针与切线同时显现。",
+              "method": [
+                "写差商",
+                "读切线",
+                "联系实际量纲"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-08",
+              "title": "导数求单调区间、极值与最值",
+              "core": "导数符号决定区间内增减；驻点不必是极值点，最值须比较端点。",
+              "prerequisites": [
+                "math-06",
+                "math-07"
+              ],
+              "visualIdea": "曲线行走地图按斜率染色，平坦点设陷阱。",
+              "method": [
+                "求域与导数",
+                "符号表",
+                "比较候选值"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-09",
+              "title": "导数与含参、不等式问题",
+              "core": "参数影响导数零点及符号；分离参数、构造函数需保留定义域和等价性。",
+              "prerequisites": [
+                "math-02",
+                "math-08"
+              ],
+              "visualIdea": "旋钮改变参数，零点与可行区域同步移动。",
+              "method": [
+                "确定目标",
+                "分类或分参",
+                "检查等价与端点"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "m-trigonometry",
+          "title": "三角函数与解三角形",
+          "points": [
+            {
+              "id": "math-10",
+              "title": "单位圆、三角函数与图像",
+              "core": "角、圆上投影和周期图像是一套对应；弧度保证角度与弧长一致。",
+              "prerequisites": [
+                "math-04"
+              ],
+              "visualIdea": "圆上角色投影变成正弦波，角与坐标联动。",
+              "method": [
+                "定象限",
+                "读投影",
+                "判断周期与相位"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-11",
+              "title": "三角恒等变换与辅助角",
+              "core": "公式用于把多个角或多项函数归一，变形须避免遗漏符号与适用条件。",
+              "prerequisites": [
+                "math-10"
+              ],
+              "visualIdea": "旋转箭头合成为一个振幅与相位。",
+              "method": [
+                "识结构",
+                "统一角/次数",
+                "复核范围"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-12",
+              "title": "正弦定理、余弦定理与三角形",
+              "core": "边角关系须满足三角形存在性；正弦定理可能产生两解。",
+              "prerequisites": [
+                "math-10",
+                "math-11"
+              ],
+              "visualIdea": "测量队用基线和角度定位远处塔楼。",
+              "method": [
+                "列已知",
+                "选定理",
+                "验两解与面积"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "m-vectors",
+          "title": "向量、复数与空间",
+          "points": [
+            {
+              "id": "math-13",
+              "title": "平面向量与数量积",
+              "core": "向量同时表大小与方向；数量积连接夹角、投影和长度。",
+              "prerequisites": [
+                "math-10"
+              ],
+              "visualIdea": "箭头首尾相接，影子长度构成点积。",
+              "method": [
+                "选基底/坐标",
+                "分解",
+                "求积或长度"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-14",
+              "title": "复数与复平面",
+              "core": "复数的代数运算可与平面点、向量对应；虚数单位满足i²=-1。",
+              "prerequisites": [
+                "math-13"
+              ],
+              "visualIdea": "数轴扩展成复平面，乘i触发四分之一转向。",
+              "method": [
+                "代数化",
+                "化简",
+                "用几何意义核验"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-15",
+              "title": "空间线面位置与证明链",
+              "core": "线面平行和垂直结论要靠判定定理与交线条件，不能只凭图感。",
+              "prerequisites": [
+                "math-13"
+              ],
+              "visualIdea": "透明立方体中高亮必要的交线与垂线。",
+              "method": [
+                "列目标",
+                "找定理条件",
+                "补中间关系"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-16",
+              "title": "空间向量、夹角与距离",
+              "core": "法向量把线面关系转化为坐标计算；区分线线角、线面角和二面角。",
+              "prerequisites": [
+                "math-13",
+                "math-15"
+              ],
+              "visualIdea": "空间图形旋转，同时展开法向量与投影。",
+              "method": [
+                "建系",
+                "求方向/法向量",
+                "选公式并验范围"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "m-analytic",
+          "title": "解析几何",
+          "points": [
+            {
+              "id": "math-17",
+              "title": "直线与圆的方程、位置关系",
+              "core": "代数方程与几何距离相互校验；斜率不存在时须单独处理。",
+              "prerequisites": [
+                "math-02",
+                "math-13"
+              ],
+              "visualIdea": "直线扫过圆，判别式与交点数同步显示。",
+              "method": [
+                "选表示",
+                "联立或用距离",
+                "检特殊方向"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-18",
+              "title": "圆锥曲线的定义与标准方程",
+              "core": "椭圆、双曲线和抛物线分别由距离约束定义，焦点位置决定标准式。",
+              "prerequisites": [
+                "math-17"
+              ],
+              "visualIdea": "一根绳或距离差轨道描出曲线，焦点固定。",
+              "method": [
+                "识定义",
+                "定焦点轴",
+                "列关系与方程"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-19",
+              "title": "直线与圆锥曲线的联立及弦问题",
+              "core": "韦达关系可避免显式求交点，但先确保交点存在并保留分母条件。",
+              "prerequisites": [
+                "math-17",
+                "math-18"
+              ],
+              "visualIdea": "直线截取曲线，交点移动而和积面板更新。",
+              "method": [
+                "设直线",
+                "联立消元",
+                "判别式与韦达",
+                "回验"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-20",
+              "title": "解析几何定点、定值与轨迹",
+              "core": "把几何约束转成代数关系后消参；轨迹要补充取值范围和遗漏点。",
+              "prerequisites": [
+                "math-13",
+                "math-19"
+              ],
+              "visualIdea": "拖动动点，候选轨迹与有效区间逐步显影。",
+              "method": [
+                "选变量",
+                "翻译条件",
+                "消参",
+                "检必要充分"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "m-sequences",
+          "title": "数列",
+          "points": [
+            {
+              "id": "math-21",
+              "title": "等差、等比数列的结构",
+              "core": "等差对应恒定增量，等比对应恒定倍数，通项与前n项和互相约束。",
+              "prerequisites": [
+                "math-05"
+              ],
+              "visualIdea": "阶梯增长与倍增仓库并排，单项和累积量区分。",
+              "method": [
+                "识差/比",
+                "定参数",
+                "区分an与Sn"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-22",
+              "title": "递推数列与构造转化",
+              "core": "通过累加、累乘、换元或构造差比把递推式转化为可求通项结构。",
+              "prerequisites": [
+                "math-21"
+              ],
+              "visualIdea": "递推机器逐步拆解成可逆齿轮。",
+              "method": [
+                "算前项猜结构",
+                "选转化",
+                "证明并验首项"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-23",
+              "title": "数列求和与放缩",
+              "core": "错位相减、裂项相消、分组适用不同结构；放缩方向和等号需保持。",
+              "prerequisites": [
+                "math-02",
+                "math-21",
+                "math-22"
+              ],
+              "visualIdea": "长队求和中成对抵消，保留下首尾边界。",
+              "method": [
+                "判结构",
+                "选方法",
+                "核对项数与边界"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "m-probability",
+          "title": "计数与概率",
+          "points": [
+            {
+              "id": "math-24",
+              "title": "排列组合与计数原理",
+              "core": "先分类还是先分步由事件结构决定，重复、相邻与不可区分对象会改变计数。",
+              "prerequisites": [
+                "math-01"
+              ],
+              "visualIdea": "任务树展开不同支路，并给重复路径标记。",
+              "method": [
+                "明确对象与顺序",
+                "分类/分步",
+                "去重校验"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-25",
+              "title": "二项式定理与系数",
+              "core": "展开式的一般项连接组合数、幂指数和指定项，项系数与二项式系数不同。",
+              "prerequisites": [
+                "math-24"
+              ],
+              "visualIdea": "二叉选择路径汇成帕斯卡三角并合并同类项。",
+              "method": [
+                "写通项",
+                "匹配幂次",
+                "验系数与项号"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-26",
+              "title": "条件概率与独立性",
+              "core": "条件概率改变样本空间；互斥与独立是不同关系。",
+              "prerequisites": [
+                "math-24"
+              ],
+              "visualIdea": "先筛选样本盒，再在保留区域内重新计数。",
+              "method": [
+                "定义事件",
+                "判断条件",
+                "用树图/公式",
+                "验分母"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-27",
+              "title": "离散随机变量与分布、期望方差",
+              "core": "概率分布须非负且和为1；期望是加权平均，方差衡量离散程度。",
+              "prerequisites": [
+                "math-26"
+              ],
+              "visualIdea": "概率筹码堆成分布，重心与散布同步出现。",
+              "method": [
+                "列取值",
+                "求概率",
+                "查和为1",
+                "算数字特征"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-28",
+              "title": "二项分布、超几何分布与正态分布",
+              "core": "是否放回、独立性及成功概率恒定决定模型；正态概率依赖标准化与对称性。",
+              "prerequisites": [
+                "math-24",
+                "math-26",
+                "math-27"
+              ],
+              "visualIdea": "放回与不放回抽球并行，分布形状随参数变化。",
+              "method": [
+                "查模型条件",
+                "定参数",
+                "计算并解释"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "m-statistics",
+          "title": "统计、建模与综合回顾",
+          "points": [
+            {
+              "id": "math-29",
+              "title": "抽样、分层估计与数据表达",
+              "core": "样本代表性比样本量本身更关键；图表尺度和分组会影响直觉。",
+              "prerequisites": [
+                "math-27"
+              ],
+              "visualIdea": "同一人群用偏倚抽样与分层抽样生成不同画像。",
+              "method": [
+                "明总体",
+                "看抽样设计",
+                "估计并说明限制"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-30",
+              "title": "相关、回归与独立性检验",
+              "core": "相关不等于因果；回归外推与显著性结论须说明适用范围。",
+              "prerequisites": [
+                "math-27",
+                "math-29"
+              ],
+              "visualIdea": "散点图与回归线变化，混杂变量揭开表面联系。",
+              "method": [
+                "读变量与数据",
+                "选模型/检验",
+                "解释不越界"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-31",
+              "title": "数学建模：现实问题到约束优化",
+              "core": "量、单位、假设与约束共同决定模型，数学最优需回到现实可行性。",
+              "prerequisites": [
+                "math-08",
+                "math-21",
+                "math-30"
+              ],
+              "visualIdea": "配送情境依次变成变量、约束区域和目标函数。",
+              "method": [
+                "定量与假设",
+                "建模求解",
+                "现实检验"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "math-32",
+              "title": "章节回顾：函数、方程、数形与分类讨论",
+              "core": "用同一问题比较函数法、方程法和几何法，建立方法选择依据。",
+              "prerequisites": [
+                "math-09",
+                "math-16",
+                "math-20",
+                "math-23",
+                "math-28",
+                "math-31"
+              ],
+              "visualIdea": "知识路线回合并，学生选工具并解释条件。",
+              "method": [
+                "识问题结构",
+                "选路径",
+                "对比方法",
+                "迁移变式"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "math-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics",
+      "name": "物理",
+      "chapters": [
+        {
+          "id": "p-motion",
+          "title": "运动表征与动力学",
+          "points": [
+            {
+              "id": "physics-01",
+              "title": "位移、速度、加速度与运动图像",
+              "core": "位置、速度与加速度是不同层级的量；图像斜率和面积各有特定物理意义。",
+              "prerequisites": [],
+              "visualIdea": "跑道运动与x-t、v-t图像逐帧同步。",
+              "method": [
+                "定方向",
+                "辨纵横轴",
+                "读斜率/面积",
+                "核单位"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-02",
+              "title": "匀变速运动与分段追及",
+              "core": "同一坐标系和时间原点连接多个物体，分段运动要连续衔接。",
+              "prerequisites": [
+                "physics-01"
+              ],
+              "visualIdea": "两辆车的轨迹与间距条同步变化。",
+              "method": [
+                "定参照",
+                "分过程",
+                "列方程",
+                "检时域"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-03",
+              "title": "受力分析、约束与牛顿定律",
+              "core": "力来自相互作用；加速度由合外力决定，不能把运动方向直接当受力方向。",
+              "prerequisites": [
+                "physics-01"
+              ],
+              "visualIdea": "拆开接触关系，受力箭头逐个从施力物体出现。",
+              "method": [
+                "选对象",
+                "画力",
+                "选轴",
+                "列F合=ma"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-04",
+              "title": "连接体、摩擦与临界问题",
+              "core": "整体法和隔离法服务不同未知量；静摩擦会自适应且有上限。",
+              "prerequisites": [
+                "physics-02",
+                "physics-03"
+              ],
+              "visualIdea": "传送带和叠块先共同运动，再在临界处分离。",
+              "method": [
+                "判相对趋势",
+                "分阶段",
+                "求临界",
+                "回验摩擦"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "p-energy",
+          "title": "功、能与动量",
+          "points": [
+            {
+              "id": "physics-05",
+              "title": "功、功率与动能定理",
+              "core": "功对应力在位移上的作用；合外力做功等于动能变化，功率描述快慢。",
+              "prerequisites": [
+                "physics-03"
+              ],
+              "visualIdea": "力的投影形成面积条，能量条随位移累积。",
+              "method": [
+                "选过程",
+                "列各力功",
+                "动能变化",
+                "验符号"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-06",
+              "title": "势能、机械能与能量守恒",
+              "core": "机械能是否守恒取决于做功机制；系统总能量守恒不等于机械能恒定。",
+              "prerequisites": [
+                "physics-05"
+              ],
+              "visualIdea": "滑道上动能、势能与内能分账转移。",
+              "method": [
+                "选系统",
+                "查非保守功",
+                "列能量账",
+                "验零点"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-07",
+              "title": "冲量、动量定理与碰撞",
+              "core": "力的时间累积改变动量；动量守恒需系统外力冲量满足条件。",
+              "prerequisites": [
+                "physics-03",
+                "physics-05"
+              ],
+              "visualIdea": "碰撞前后箭头叠加，力-时图阴影同步增长。",
+              "method": [
+                "选系统与时段",
+                "判外冲量",
+                "列动量",
+                "补能量约束"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-08",
+              "title": "多过程动力学与守恒方法选择",
+              "core": "不同过程可用不同规律，必须在共同状态量处连接。",
+              "prerequisites": [
+                "physics-04",
+                "physics-06",
+                "physics-07"
+              ],
+              "visualIdea": "运动关卡在接触、碰撞、滑行处切换规则卡。",
+              "method": [
+                "分段",
+                "判规律",
+                "连状态",
+                "检全程一致"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "p-curved",
+          "title": "曲线运动与引力",
+          "points": [
+            {
+              "id": "physics-09",
+              "title": "平抛与运动合成分解",
+              "core": "在忽略空气阻力的模型下，水平与竖直运动共用时间。",
+              "prerequisites": [
+                "physics-02",
+                "physics-03"
+              ],
+              "visualIdea": "同时释放的水平抛体与落体在竖直方向对齐。",
+              "method": [
+                "建轴",
+                "分量方程",
+                "用时间连接",
+                "验方向"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-10",
+              "title": "圆周运动与向心力来源",
+              "core": "向心力是沿半径指向圆心的合力分量，不是额外一种力。",
+              "prerequisites": [
+                "physics-03",
+                "physics-06"
+              ],
+              "visualIdea": "圆周上切向速度与径向加速度持续正交。",
+              "method": [
+                "找圆心",
+                "径向列式",
+                "切向分析",
+                "查接触条件"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-11",
+              "title": "万有引力、轨道与卫星",
+              "core": "引力提供轨道运动所需加速度；圆轨道关系不能直接套椭圆任意位置。",
+              "prerequisites": [
+                "physics-06",
+                "physics-10"
+              ],
+              "visualIdea": "不同半径圆轨道并排，速度与周期随半径变化。",
+              "method": [
+                "识轨道模型",
+                "引力列式",
+                "比较量",
+                "查条件"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-12",
+              "title": "曲线运动综合与临界条件",
+              "core": "轨迹、速度和受力需同时满足约束，临界点常由接触或张力边界决定。",
+              "prerequisites": [
+                "physics-08",
+                "physics-09",
+                "physics-10",
+                "physics-11"
+              ],
+              "visualIdea": "轨道转接处显示速度、能量和法向力三联图。",
+              "method": [
+                "分过程",
+                "能量连速率",
+                "径向求力",
+                "判临界"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "p-electric",
+          "title": "静电场与电路",
+          "points": [
+            {
+              "id": "physics-13",
+              "title": "电场强度、叠加与电场线",
+              "core": "电场强度由源电荷与位置决定；电场线是表征工具，不能当粒子轨迹。",
+              "prerequisites": [
+                "physics-03"
+              ],
+              "visualIdea": "试探电荷大小改变而同点场强箭头不变。",
+              "method": [
+                "选源场",
+                "叠加分量",
+                "判断方向",
+                "区分轨迹"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-14",
+              "title": "电势、电势能与带电粒子",
+              "core": "电势是标量，电势能还依赖电荷符号；电场力做功联系电势差。",
+              "prerequisites": [
+                "physics-06",
+                "physics-13"
+              ],
+              "visualIdea": "等势地形与正负电荷的能量变化并排。",
+              "method": [
+                "定电荷符号",
+                "求电势差",
+                "列能量",
+                "验正负"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-15",
+              "title": "电容器与匀强电场中的运动",
+              "core": "断开与保持电源连接决定不变量；粒子偏转可用运动分解。",
+              "prerequisites": [
+                "physics-09",
+                "physics-13",
+                "physics-14"
+              ],
+              "visualIdea": "极板间距改变，电荷/电压仪表按接线状态响应。",
+              "method": [
+                "判电路状态",
+                "定Q/U不变量",
+                "场强",
+                "运动"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-16",
+              "title": "直流电路、闭合电路与功率",
+              "core": "电源内阻与外电路共同决定电流和端电压，最大输出条件有模型前提。",
+              "prerequisites": [
+                "physics-05"
+              ],
+              "visualIdea": "负载旋钮改变，内外电阻能量条与端电压同步变化。",
+              "method": [
+                "画等效电路",
+                "列闭合电路",
+                "算功率",
+                "验极限"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "p-magnetic",
+          "title": "磁场与电磁感应",
+          "points": [
+            {
+              "id": "physics-17",
+              "title": "磁感应强度、安培力与洛伦兹力",
+              "core": "磁力方向与电荷符号、运动方向有关；磁场力对点电荷不做功。",
+              "prerequisites": [
+                "physics-10",
+                "physics-13"
+              ],
+              "visualIdea": "粒子在磁场中弯转，速度大小条保持不变。",
+              "method": [
+                "判方向",
+                "求垂直分量",
+                "圆周条件",
+                "验功"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-18",
+              "title": "带电粒子在复合场中的运动",
+              "core": "电场力可改变速率，磁场力改变方向；边界切换需保持状态连续。",
+              "prerequisites": [
+                "physics-09",
+                "physics-14",
+                "physics-17"
+              ],
+              "visualIdea": "选择器与偏转区分镜，轨迹到边界后换规律。",
+              "method": [
+                "分场区",
+                "受力",
+                "运动/能量",
+                "连接边界"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-19",
+              "title": "电磁感应、楞次定律与法拉第定律",
+              "core": "感应效应由穿过回路的磁通量变化决定；阻碍的是变化。",
+              "prerequisites": [
+                "physics-06",
+                "physics-16",
+                "physics-17"
+              ],
+              "visualIdea": "磁铁进入线圈，磁通计与感应电流方向同步。",
+              "method": [
+                "定回路与正向",
+                "判磁通变化",
+                "方向",
+                "大小"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-20",
+              "title": "感应综合、交流、变压器与电磁振荡",
+              "core": "力、路、能共同约束感应综合；理想变压器不变频，电磁振荡须区分电场能与磁场能转化。",
+              "prerequisites": [
+                "physics-08",
+                "physics-16",
+                "physics-19"
+              ],
+              "visualIdea": "导轨发电、交流与变压器分幕呈现，再用电容器和线圈能量交换引入振荡。",
+              "method": [
+                "画回路",
+                "列感应电动势",
+                "电路与受力",
+                "能量核账"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "p-waves",
+          "title": "振动、波与光",
+          "points": [
+            {
+              "id": "physics-21",
+              "title": "简谐运动与振动图像",
+              "core": "回复力指向平衡位置；位移、速度与加速度存在相位关系。",
+              "prerequisites": [
+                "physics-01",
+                "physics-03",
+                "physics-06"
+              ],
+              "visualIdea": "弹簧振子、能量条与三条时序图同步推进。",
+              "method": [
+                "定平衡位置",
+                "读相位",
+                "联系能量",
+                "判变化"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-22",
+              "title": "机械波、波动图像与传播",
+              "core": "介质质点振动，扰动传播；波形图与振动图描述不同对象。",
+              "prerequisites": [
+                "physics-21"
+              ],
+              "visualIdea": "波上质点只在原位附近振动，波峰向前传递。",
+              "method": [
+                "分清图像",
+                "定传播方向",
+                "读T/λ",
+                "用v=λf"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-23",
+              "title": "反射、折射与全反射",
+              "core": "全反射需光从光密到光疏且入射角达到临界条件。",
+              "prerequisites": [
+                "physics-10"
+              ],
+              "visualIdea": "光线由法线量角，随入射角变化分出反射折射。",
+              "method": [
+                "画法线",
+                "判介质",
+                "折射定律",
+                "查全反射条件"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-24",
+              "title": "干涉、衍射与电磁波",
+              "core": "相干叠加产生稳定干涉；衍射显著程度与孔缝尺度相对波长有关；电磁波谱的频率、波长与应用需区分。",
+              "prerequisites": [
+                "physics-22",
+                "physics-23"
+              ],
+              "visualIdea": "先联动双缝程差和条纹，再切换电磁波谱尺度尺，不拿同一画面复播。",
+              "method": [
+                "识实验结构",
+                "算程差",
+                "判明暗/衍射",
+                "查单位"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "p-thermal",
+          "title": "热学与近代物理",
+          "points": [
+            {
+              "id": "physics-25",
+              "title": "分子动理论、气体状态与物态性质",
+              "core": "宏观压强温度与微观运动相关；气体规律须核过程条件；晶体、液体表面现象等需从结构与作用解释。",
+              "prerequisites": [
+                "physics-05"
+              ],
+              "visualIdea": "活塞运动配合分子碰撞及p-V图，注明示意非按比例。",
+              "method": [
+                "定系统与过程",
+                "列状态量",
+                "选规律",
+                "验温标"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-26",
+              "title": "热力学第一定律与能量转化",
+              "core": "内能变化由热传递与做功共同决定，正负号约定必须统一。",
+              "prerequisites": [
+                "physics-06",
+                "physics-25"
+              ],
+              "visualIdea": "热量与机械功从不同入口改变同一内能账本。",
+              "method": [
+                "声明符号",
+                "辨Q与W",
+                "列ΔU",
+                "验过程"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-27",
+              "title": "光电效应、原子能级与波粒二象性",
+              "core": "光子能量由频率决定；能级跃迁满足能量差，不能用经典连续轨道代替。",
+              "prerequisites": [
+                "physics-05",
+                "physics-24"
+              ],
+              "visualIdea": "调频和调强度分两幕，电子逸出条件与能量分开显示。",
+              "method": [
+                "识量子过程",
+                "列能量关系",
+                "检阈值与单位"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-28",
+              "title": "原子核、衰变与核能",
+              "core": "核反应守恒质量数和电荷数；半衰期是大量原子核的统计规律。",
+              "prerequisites": [
+                "physics-27"
+              ],
+              "visualIdea": "核素卡变换保持总数账本，群体衰变曲线逐段显现。",
+              "method": [
+                "守恒配平",
+                "用半衰期关系",
+                "算质量能量",
+                "验尺度"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "p-experiments",
+          "title": "实验与综合建模",
+          "points": [
+            {
+              "id": "physics-29",
+              "title": "力学实验：图像、测量与拟合",
+              "core": "实验结论依赖装置条件、变量控制和不确定度，不能用单次数据替代规律。",
+              "prerequisites": [
+                "physics-01",
+                "physics-03",
+                "physics-06",
+                "physics-07"
+              ],
+              "visualIdea": "真实装置结构示意与拟合残差逐步展开。",
+              "method": [
+                "明原理",
+                "列测量",
+                "处理图像",
+                "分析系统误差"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-30",
+              "title": "电学实验：电表连接与电阻测量",
+              "core": "电表非理想性会改变电路；内外接和分压限流取决于实验目的。",
+              "prerequisites": [
+                "physics-16"
+              ],
+              "visualIdea": "接法切换后真实电流路径与误差方向高亮。",
+              "method": [
+                "定量程与目的",
+                "选电路",
+                "读数拟合",
+                "估误差"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-31",
+              "title": "传感器与数据建模",
+              "core": "传感器把待测量转成可读信号，标定曲线与适用范围决定解释。",
+              "prerequisites": [
+                "physics-16",
+                "physics-29",
+                "physics-30"
+              ],
+              "visualIdea": "被测量逐级转为电信号、数据点和反演结果。",
+              "method": [
+                "找转换机制",
+                "标定",
+                "读取",
+                "说明量程与误差"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "physics-32",
+              "title": "物理回顾：对象、过程、约束与守恒",
+              "core": "综合题先明确对象过程，再在动力学、运动学和守恒规律间选择。",
+              "prerequisites": [
+                "physics-12",
+                "physics-18",
+                "physics-20",
+                "physics-26",
+                "physics-31"
+              ],
+              "visualIdea": "同一情境拆成对象树、过程轴和规律卡。",
+              "method": [
+                "画图定对象",
+                "分过程",
+                "选规律",
+                "单位与极限校验"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "physics-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "化学",
+      "chapters": [
+        {
+          "id": "c-language",
+          "title": "反应语言与计量",
+          "points": [
+            {
+              "id": "chemistry-01",
+              "title": "物质的量、溶液与计量关系",
+              "core": "微粒数、质量、气体体积和浓度通过物质的量连接；气体摩尔体积受状态限制。",
+              "prerequisites": [],
+              "visualIdea": "不同计量单位经同一微粒车站换乘。",
+              "method": [
+                "明微粒与状态",
+                "转mol",
+                "按比例",
+                "核单位"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-02",
+              "title": "离子反应与离子方程式",
+              "core": "真实溶液中的主要微粒决定反应，配平要同时守恒元素与电荷。",
+              "prerequisites": [
+                "chemistry-01"
+              ],
+              "visualIdea": "旁观离子退到背景，参与反应微粒前景配对。",
+              "method": [
+                "判存在形式",
+                "拆强电解质",
+                "守恒配平",
+                "检条件"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-03",
+              "title": "氧化还原与电子守恒",
+              "core": "氧化数变化刻画电子转移，氧化剂与还原剂的计量受得失电子相等约束。",
+              "prerequisites": [
+                "chemistry-01",
+                "chemistry-02"
+              ],
+              "visualIdea": "电子账本从失电子方转到得电子方。",
+              "method": [
+                "标价态",
+                "找变化",
+                "电子守恒",
+                "元素电荷复核"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-04",
+              "title": "守恒思想与多步混合物计算",
+              "core": "元素、电荷与电子守恒可跨越中间步骤，但须明确系统边界。",
+              "prerequisites": [
+                "chemistry-01",
+                "chemistry-02",
+                "chemistry-03"
+              ],
+              "visualIdea": "复杂反应网折叠成可追踪的元素颜色账本。",
+              "method": [
+                "列最终体系",
+                "选守恒量",
+                "建方程",
+                "查过量"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "c-elements",
+          "title": "元素及其化合物",
+          "points": [
+            {
+              "id": "chemistry-05",
+              "title": "钠、氯与典型实验条件",
+              "core": "典型元素反应体现氧化还原及酸碱性质；条件和产物状态影响结论。",
+              "prerequisites": [
+                "chemistry-02",
+                "chemistry-03"
+              ],
+              "visualIdea": "同一元素在不同条件中切换反应通道。",
+              "method": [
+                "识反应物与条件",
+                "判主反应",
+                "配平",
+                "验现象"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-06",
+              "title": "铁、铝及其转化网络",
+              "core": "价态、酸碱性与氧化还原条件共同决定转化路径。",
+              "prerequisites": [
+                "chemistry-02",
+                "chemistry-03",
+                "chemistry-05"
+              ],
+              "visualIdea": "元素身份证在价态电梯与酸碱分区间移动。",
+              "method": [
+                "定价态/形态",
+                "选试剂",
+                "列方程",
+                "排副反应"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-07",
+              "title": "硫、氮及其环境关联",
+              "core": "不同价态含硫含氮物质通过反应互转，需区分热力学可能与实验条件。",
+              "prerequisites": [
+                "chemistry-03",
+                "chemistry-04"
+              ],
+              "visualIdea": "价态地图连接工业、环境与实验三条线。",
+              "method": [
+                "标价态",
+                "判氧化还原/酸碱",
+                "定条件",
+                "核物料"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-08",
+              "title": "无机推断与工业反应网络",
+              "core": "用元素、价态、沉淀及气体等证据缩小候选，流程条件约束转化。",
+              "prerequisites": [
+                "chemistry-04",
+                "chemistry-06",
+                "chemistry-07"
+              ],
+              "visualIdea": "反应侦探沿流程线逐个排除不合证据的物质。",
+              "method": [
+                "读条件",
+                "列候选",
+                "证据排除",
+                "方程与守恒复核"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "c-structure",
+          "title": "结构与性质",
+          "points": [
+            {
+              "id": "chemistry-09",
+              "title": "原子结构、电子排布与周期律",
+              "core": "电子层结构解释周期趋势，比较时要考虑同周期、同主族及特殊稳定结构。",
+              "prerequisites": [
+                "chemistry-03"
+              ],
+              "visualIdea": "电子排布与周期表位置同时点亮。",
+              "method": [
+                "写排布",
+                "定位置",
+                "用结构解释趋势",
+                "查例外"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-10",
+              "title": "化学键、极性与分子空间结构",
+              "core": "键的极性、分子构型和整体极性不同；空间结构要依据电子对分布。",
+              "prerequisites": [
+                "chemistry-09"
+              ],
+              "visualIdea": "电子云示意连接球棍模型，偶极箭头相互抵消或保留。",
+              "method": [
+                "看中心原子",
+                "计电子对",
+                "定构型",
+                "判极性"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-11",
+              "title": "分子间作用力、氢键与性质",
+              "core": "分子间作用力影响物理性质，不能与化学键断裂混同。",
+              "prerequisites": [
+                "chemistry-10"
+              ],
+              "visualIdea": "相邻分子间连接以虚线显示，加热先打散分子群。",
+              "method": [
+                "分键内/分子间",
+                "比较结构",
+                "解释熔沸点/溶解性"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-12",
+              "title": "晶体、配位与结构计算",
+              "core": "晶体类型决定主要作用机制；晶胞计数要按共享比例，配位键需供受电子条件。",
+              "prerequisites": [
+                "chemistry-09",
+                "chemistry-10",
+                "chemistry-11"
+              ],
+              "visualIdea": "透明晶胞拆成角棱面内的共享份额。",
+              "method": [
+                "识晶体",
+                "确定粒子与键",
+                "计数/配位",
+                "核密度单位"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "c-equilibrium",
+          "title": "反应能量、速率与平衡",
+          "points": [
+            {
+              "id": "chemistry-13",
+              "title": "反应热、盖斯定律与反应方向",
+              "core": "反应焓取决于始末状态；活化能影响速率，催化剂不改变总反应焓；反应方向需综合温度、焓与熵，不能仅凭放热判断。",
+              "prerequisites": [
+                "chemistry-01",
+                "chemistry-03"
+              ],
+              "visualIdea": "反应物与产物能量高度固定，中间山路因催化降低。",
+              "method": [
+                "写状态与计量",
+                "反转倍乘",
+                "叠加",
+                "核符号"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-14",
+              "title": "反应速率与影响因素",
+              "core": "速率是浓度随时间变化的量；改变条件影响机理，平均速率与瞬时速率不同。",
+              "prerequisites": [
+                "chemistry-01",
+                "chemistry-13"
+              ],
+              "visualIdea": "有效碰撞与浓度-时间斜率同步变化。",
+              "method": [
+                "定时间段",
+                "按计量比较",
+                "分因素",
+                "解释碰撞"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-15",
+              "title": "动态平衡与平衡常数",
+              "core": "平衡时正逆速率相等且都未停止，浓度不必相等；K在给定温度下反映平衡关系。",
+              "prerequisites": [
+                "chemistry-14"
+              ],
+              "visualIdea": "正逆两条通道同时通行，存量保持稳定。",
+              "method": [
+                "判体系与温度",
+                "写K",
+                "比较Q与K",
+                "定方向"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-16",
+              "title": "平衡移动、转化率与图像",
+              "core": "改变量、温度和压强的作用要结合体系；催化剂不改变平衡组成。",
+              "prerequisites": [
+                "chemistry-13",
+                "chemistry-14",
+                "chemistry-15"
+              ],
+              "visualIdea": "一次只改一个条件，速率突变与后续平衡分镜显示。",
+              "method": [
+                "定变因",
+                "用Q/K或能量",
+                "列三段式",
+                "读图回验"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "c-solution",
+          "title": "水溶液中的离子平衡",
+          "points": [
+            {
+              "id": "chemistry-17",
+              "title": "弱电解质电离与水的电离",
+              "core": "弱电解质存在电离平衡；水的离子积随温度变化，中性不总是pH=7。",
+              "prerequisites": [
+                "chemistry-02",
+                "chemistry-15"
+              ],
+              "visualIdea": "水中离子对不断形成和复合，用数量条表平衡。",
+              "method": [
+                "定温度",
+                "列平衡关系",
+                "守恒",
+                "检近似"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-18",
+              "title": "酸碱溶液、pH与滴定曲线",
+              "core": "混合和滴定先算反应后算平衡；体积变化、弱酸弱碱及指示剂范围影响结果。",
+              "prerequisites": [
+                "chemistry-01",
+                "chemistry-17"
+              ],
+              "visualIdea": "滴定体积沿横轴推进，微粒组成与pH同时变化。",
+              "method": [
+                "先计量",
+                "判剩余",
+                "求平衡",
+                "选指示剂与误差方向"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-19",
+              "title": "盐类水解与三大守恒",
+              "core": "弱酸弱碱根离子水解改变溶液组成，微粒浓度比较须综合物料、电荷和质子关系。",
+              "prerequisites": [
+                "chemistry-02",
+                "chemistry-17",
+                "chemistry-18"
+              ],
+              "visualIdea": "离子与水间质子转移，三本守恒账同步配平。",
+              "method": [
+                "判水解",
+                "列守恒",
+                "比较主次",
+                "验电中性"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-20",
+              "title": "沉淀溶解平衡与分离",
+              "core": "溶度积与离子积比较决定沉淀趋势；不同化学计量的Ksp不能直接比溶解度。",
+              "prerequisites": [
+                "chemistry-15",
+                "chemistry-19"
+              ],
+              "visualIdea": "离子积仪表跨越阈值后晶体从溶液析出。",
+              "method": [
+                "写Ksp",
+                "算Qsp",
+                "判趋势",
+                "结合守恒与pH"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "c-electro",
+          "title": "电化学",
+          "points": [
+            {
+              "id": "chemistry-21",
+              "title": "原电池与电子、离子流",
+              "core": "氧化在负极、还原在正极；电子经外电路，盐桥离子迁移保持电中性。",
+              "prerequisites": [
+                "chemistry-03",
+                "chemistry-17"
+              ],
+              "visualIdea": "电子和离子用不同路径与图例，禁止电子穿盐桥。",
+              "method": [
+                "判氧化还原",
+                "分半反应",
+                "定迁移",
+                "守恒合并"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-22",
+              "title": "电解池与电极反应",
+              "core": "电源驱动非自发过程；电极材料、溶液组成与放电条件共同决定产物。",
+              "prerequisites": [
+                "chemistry-03",
+                "chemistry-21"
+              ],
+              "visualIdea": "电源接入后电极反应及离子消耗逐步显现。",
+              "method": [
+                "判阴阳极",
+                "分析电极/微粒",
+                "写半反应",
+                "算电子"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-23",
+              "title": "腐蚀、防护与新型电源",
+              "core": "腐蚀及防护可用电化学解释；新电源仍遵守反应物、介质和电子守恒约束。",
+              "prerequisites": [
+                "chemistry-19",
+                "chemistry-21",
+                "chemistry-22"
+              ],
+              "visualIdea": "金属表面微电池与牺牲阳极并排对照。",
+              "method": [
+                "看材料与介质",
+                "判电极",
+                "列反应",
+                "解释防护"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-24",
+              "title": "电化学综合计算与陌生装置",
+              "core": "陌生装置需先按物质与能量流拆解，不能只凭电极名称套模板。",
+              "prerequisites": [
+                "chemistry-04",
+                "chemistry-21",
+                "chemistry-22",
+                "chemistry-23"
+              ],
+              "visualIdea": "装置外壳退场，留下电子、离子和物料三条通道。",
+              "method": [
+                "识输入输出",
+                "定半反应",
+                "电子守恒",
+                "物料核账"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "c-organic",
+          "title": "有机化学",
+          "points": [
+            {
+              "id": "chemistry-25",
+              "title": "有机结构、官能团与结构测定",
+              "core": "官能团决定主要反应位点；异构体按骨架、位置与类别去重，红外与核磁等证据可约束候选结构。",
+              "prerequisites": [
+                "chemistry-09",
+                "chemistry-10"
+              ],
+              "visualIdea": "分子积木按官能团着色，旋转与真正异构对比。",
+              "method": [
+                "定分子式与不饱和度",
+                "读官能团与谱图证据",
+                "分类枚举并去重",
+                "核对全部条件"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-26",
+              "title": "烃、卤代烃与典型转化",
+              "core": "结构和反应条件决定取代、加成或消去等转化，须追踪碳骨架。",
+              "prerequisites": [
+                "chemistry-25"
+              ],
+              "visualIdea": "高亮反应位点与条件开关，骨架以同色追踪。",
+              "method": [
+                "认结构",
+                "找位点",
+                "定条件",
+                "写产物并守恒"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-27",
+              "title": "醇、酚、醛、酸与酯的关联",
+              "core": "官能团间可相互转化，氧化还原及酯化水解要核对条件与断键位置。",
+              "prerequisites": [
+                "chemistry-25",
+                "chemistry-26"
+              ],
+              "visualIdea": "含氧官能团在转化地铁图换乘，断键位置明确。",
+              "method": [
+                "标官能团",
+                "判反应类型",
+                "定键变化",
+                "核产物"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-28",
+              "title": "有机合成、保护与逆向分析",
+              "core": "从目标结构倒推关键成键和官能团转换，同时检查选择性与副反应。",
+              "prerequisites": [
+                "chemistry-26",
+                "chemistry-27"
+              ],
+              "visualIdea": "目标分子逆向拆解，再沿正向路线验证。",
+              "method": [
+                "比碳骨架",
+                "逆推关键步",
+                "补条件",
+                "逐步正验"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "c-inquiry",
+          "title": "实验、流程与综合回顾",
+          "points": [
+            {
+              "id": "chemistry-29",
+              "title": "糖类、蛋白质、核酸与合成高分子",
+              "core": "大分子结构与单体、官能团及聚合类型关联；核酸是遗传信息载体，不把结构示意当真实比例。",
+              "prerequisites": [
+                "chemistry-25",
+                "chemistry-27",
+                "chemistry-28"
+              ],
+              "visualIdea": "单体按成键规则拼接长链，缩合时小分子单列。",
+              "method": [
+                "识单体/官能团",
+                "判加聚缩聚",
+                "写结构",
+                "查物料"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-30",
+              "title": "实验装置、分离提纯与定量测定",
+              "core": "方法选择依据物性差异和反应选择性；装置顺序与误差需对应原理。",
+              "prerequisites": [
+                "chemistry-01",
+                "chemistry-02",
+                "chemistry-18"
+              ],
+              "visualIdea": "实验流程依次开启，气流液流与读数分层标注。",
+              "method": [
+                "明目的",
+                "选方法",
+                "定装置与操作",
+                "评误差"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-31",
+              "title": "实验探究与工业流程综合",
+              "core": "探究要有可证伪假设、对照和证据链；流程结合反应、分离、循环与绿色目标。",
+              "prerequisites": [
+                "chemistry-08",
+                "chemistry-16",
+                "chemistry-20",
+                "chemistry-24",
+                "chemistry-30"
+              ],
+              "visualIdea": "流程中各单元以输入、转化、输出和回收四格呈现。",
+              "method": [
+                "读原料目标",
+                "逐步解释条件",
+                "守恒计算",
+                "评价方案"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "chemistry-32",
+              "title": "化学回顾：结构—性质—转化与多重表征",
+              "core": "宏观现象、微观解释与符号表达必须一致，陌生题用守恒和条件约束求解。",
+              "prerequisites": [
+                "chemistry-12",
+                "chemistry-28",
+                "chemistry-29",
+                "chemistry-31"
+              ],
+              "visualIdea": "同一反应在实验台、微粒层和方程式三窗同步。",
+              "method": [
+                "找结构与条件",
+                "解释现象",
+                "写符号",
+                "守恒复核"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "chemistry-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "biology",
+      "name": "生物",
+      "chapters": [
+        {
+          "id": "b-cell",
+          "title": "分子、细胞与物质运输",
+          "points": [
+            {
+              "id": "biology-01",
+              "title": "生物大分子与结构功能",
+              "core": "蛋白质、核酸等分子的基本组成与空间结构支持不同功能，模型需注明尺度。",
+              "prerequisites": [],
+              "visualIdea": "分子模块组装后对应催化、信息和支撑任务。",
+              "method": [
+                "识组成与键",
+                "联系结构",
+                "解释功能",
+                "核实验依据"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-02",
+              "title": "细胞器分工与生物膜系统",
+              "core": "细胞结构在物质和信息交换中协作；真核与原核差异不能只靠外形判断。",
+              "prerequisites": [
+                "biology-01"
+              ],
+              "visualIdea": "分泌蛋白的运输包裹沿核糖体、内质网与高尔基体推进。",
+              "method": [
+                "定细胞类型",
+                "追踪物质",
+                "联系结构",
+                "解释证据"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-03",
+              "title": "膜的选择透过性与物质运输",
+              "core": "运输方式由方向、载体与能量等条件区分；水的移动需结合水势或浓度情境。",
+              "prerequisites": [
+                "biology-02"
+              ],
+              "visualIdea": "同一膜上扩散、协助扩散与主动运输分幕对照。",
+              "method": [
+                "判物质与梯度",
+                "看载体/能量",
+                "选机制",
+                "验条件"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-04",
+              "title": "渗透、质壁分离与实验推断",
+              "core": "活细胞膜选择透过性与内外溶液差异共同影响失水吸水，复原有生理条件。",
+              "prerequisites": [
+                "biology-03"
+              ],
+              "visualIdea": "植物细胞壁保持轮廓，原生质层随水进出变化。",
+              "method": [
+                "明材料与溶液",
+                "观测可逆性",
+                "作对照",
+                "限度解释"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "b-metabolism",
+          "title": "代谢与实验",
+          "points": [
+            {
+              "id": "biology-05",
+              "title": "酶、ATP与能量耦联",
+              "core": "酶降低活化能而不改变反应平衡；ATP水解与吸能过程通过机制耦联。",
+              "prerequisites": [
+                "biology-01",
+                "biology-03"
+              ],
+              "visualIdea": "反应能垒与ATP能量转移分两窗，不画能量凭空产生。",
+              "method": [
+                "辨催化/供能",
+                "查条件",
+                "读曲线",
+                "解释对照"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-06",
+              "title": "细胞呼吸与物质能量流",
+              "core": "有氧呼吸各阶段位置与物质转化不同，无氧呼吸类型依细胞而异。",
+              "prerequisites": [
+                "biology-02",
+                "biology-05"
+              ],
+              "visualIdea": "碳原子标签穿过代谢站点，ATP与热另列能量账。",
+              "method": [
+                "定条件和场所",
+                "追踪物质",
+                "核计量",
+                "解释能量"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-07",
+              "title": "光合作用与限制因素",
+              "core": "光反应与碳反应相互依赖；总光合、净光合和呼吸量须按实验定义区分。",
+              "prerequisites": [
+                "biology-05",
+                "biology-06"
+              ],
+              "visualIdea": "叶绿体双区域联动，光/CO₂改变后中间产物先后变化。",
+              "method": [
+                "辨总净",
+                "定限制因素",
+                "追过程",
+                "读实验曲线"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-08",
+              "title": "代谢实验、图像与生产应用",
+              "core": "变量控制和测量指标决定结论；单点相关不能替代机制或最适条件。",
+              "prerequisites": [
+                "biology-04",
+                "biology-05",
+                "biology-06",
+                "biology-07"
+              ],
+              "visualIdea": "装置、变量、数据图和机制解释按证据链展开。",
+              "method": [
+                "明目的",
+                "设对照",
+                "识因变量",
+                "以证据限度作答"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "b-division",
+          "title": "细胞生命历程与遗传规律",
+          "points": [
+            {
+              "id": "biology-09",
+              "title": "有丝分裂、细胞周期与DNA含量",
+              "core": "染色体、染色单体和DNA数量不是同一概念，计数依阶段和细胞边界。",
+              "prerequisites": [
+                "biology-01",
+                "biology-02"
+              ],
+              "visualIdea": "细胞分裂中着丝粒与DNA计数器分开变化。",
+              "method": [
+                "认阶段",
+                "看着丝粒",
+                "分清每细胞/每核",
+                "画曲线"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-10",
+              "title": "减数分裂与受精作用",
+              "core": "同源染色体分离与非同源自由组合产生遗传多样性，复制和分裂次数要区分。",
+              "prerequisites": [
+                "biology-09"
+              ],
+              "visualIdea": "亲本染色体用色带追踪，配子组合再接受精。",
+              "method": [
+                "定同源关系",
+                "追复制分离",
+                "计数",
+                "联系配子"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-11",
+              "title": "分离定律与遗传推断",
+              "core": "等位基因分离以减数分裂为细胞基础；表型比例受显隐性和存活等条件影响。",
+              "prerequisites": [
+                "biology-10"
+              ],
+              "visualIdea": "一对等位基因随染色体分开，再用棋盘格组合。",
+              "method": [
+                "定显隐与基因型",
+                "列配子",
+                "求概率",
+                "验比例条件"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-12",
+              "title": "自由组合、伴性遗传与系谱",
+              "core": "自由组合需基因关系满足条件；伴性遗传要结合性别与染色体位置。",
+              "prerequisites": [
+                "biology-10",
+                "biology-11"
+              ],
+              "visualIdea": "系谱证据逐条点亮，多假设模型同时排除。",
+              "method": [
+                "判遗传方式",
+                "定关键个体",
+                "算概率",
+                "核条件"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "b-information",
+          "title": "遗传信息、变异与进化",
+          "points": [
+            {
+              "id": "biology-13",
+              "title": "DNA复制、转录与翻译",
+              "core": "信息传递依赖模板与配对规则，复制、转录、翻译的原料和场所不同。",
+              "prerequisites": [
+                "biology-01",
+                "biology-10"
+              ],
+              "visualIdea": "模板方向标明，复制叉、RNA和核糖体接力。",
+              "method": [
+                "识模板与方向",
+                "列配对",
+                "追信息",
+                "核场所原料"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-14",
+              "title": "基因表达、调控与性状",
+              "core": "基因通过产物影响性状，性状受基因与环境共同作用，不能画成基因直接变器官。",
+              "prerequisites": [
+                "biology-13"
+              ],
+              "visualIdea": "基因开关经RNA、蛋白质到表型，环境在多处介入。",
+              "method": [
+                "找调控层",
+                "连证据",
+                "解释表型",
+                "排绝对化"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-15",
+              "title": "变异、育种与遗传检测",
+              "core": "基因突变、重组与染色体变异机制不同；育种策略需匹配目标与材料。",
+              "prerequisites": [
+                "biology-10",
+                "biology-12",
+                "biology-13",
+                "biology-14"
+              ],
+              "visualIdea": "三种变异在序列、片段和染色体层级对照。",
+              "method": [
+                "辨变化层级",
+                "推遗传后果",
+                "选育种/检测",
+                "核限制"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-16",
+              "title": "现代进化理论与种群遗传",
+              "core": "进化可用种群基因频率变化描述，自然选择作用于表型且不定向产生所需变异。",
+              "prerequisites": [
+                "biology-11",
+                "biology-15"
+              ],
+              "visualIdea": "已有差异在环境筛选后改变频率，避免“主动进化”拟人化。",
+              "method": [
+                "算频率",
+                "区分变异选择",
+                "析隔离",
+                "用证据解释"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "b-homeostasis",
+          "title": "稳态与神经—体液调节",
+          "points": [
+            {
+              "id": "biology-17",
+              "title": "内环境与稳态、负反馈",
+              "core": "稳态是动态相对稳定，由多系统协调维持；负反馈抑制偏离。",
+              "prerequisites": [
+                "biology-03",
+                "biology-06"
+              ],
+              "visualIdea": "受控变量围绕设定范围波动，反馈回路逐步闭合。",
+              "method": [
+                "定变量",
+                "找感受/调节/效应",
+                "判反馈",
+                "验变化链"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-18",
+              "title": "兴奋产生、传导与突触传递",
+              "core": "膜电位变化与离子通道相关；神经纤维传导与突触传递机制不同。",
+              "prerequisites": [
+                "biology-03",
+                "biology-17"
+              ],
+              "visualIdea": "膜两侧离子与电位同步变化，突触处切成化学传递。",
+              "method": [
+                "定部位",
+                "追电/化学信号",
+                "判方向",
+                "析阻断实验"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-19",
+              "title": "神经系统与反射调节",
+              "core": "反射依完整反射弧及相应条件；受损位置决定信号和反应表现。",
+              "prerequisites": [
+                "biology-18"
+              ],
+              "visualIdea": "信号沿反射弧逐站推进，断点后观察可测输出。",
+              "method": [
+                "找刺激与反应",
+                "定位通路",
+                "分析损伤",
+                "证据验证"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-20",
+              "title": "激素调节与血糖、体温和水盐",
+              "core": "激素通过靶细胞作用；不同稳态任务采用神经—体液反馈网络协同。",
+              "prerequisites": [
+                "biology-17",
+                "biology-18",
+                "biology-19"
+              ],
+              "visualIdea": "三个独立案例切换，每个先扰动再展示反馈恢复。",
+              "method": [
+                "定偏离量",
+                "追激素/神经",
+                "找效应",
+                "回路核对"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "b-regulation",
+          "title": "免疫与植物调节",
+          "points": [
+            {
+              "id": "biology-21",
+              "title": "免疫系统与体液、细胞免疫",
+              "core": "抗原识别、细胞增殖与效应阶段分工不同，抗体不等于直接杀死所有病原体。",
+              "prerequisites": [
+                "biology-01",
+                "biology-14",
+                "biology-17"
+              ],
+              "visualIdea": "病原入侵后，呈递、识别、增殖与清除依次展开。",
+              "method": [
+                "辨对象与细胞",
+                "串阶段",
+                "分体液/细胞",
+                "核记忆"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-22",
+              "title": "免疫应用、异常与实验分析",
+              "core": "疫苗、抗体、过敏和自身免疫机制不同，实验结论须限定样本和时间。",
+              "prerequisites": [
+                "biology-21"
+              ],
+              "visualIdea": "主动免疫与被动免疫的起效和持续时间示意对比。",
+              "method": [
+                "定处理与指标",
+                "分机制",
+                "读曲线",
+                "排过度结论"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-23",
+              "title": "植物激素、运输与生长响应",
+              "core": "激素作用依浓度、器官与环境，向性与分布相关但不能忽略生长能力。",
+              "prerequisites": [
+                "biology-03",
+                "biology-14"
+              ],
+              "visualIdea": "幼苗受单侧光后激素分布和两侧伸长顺序展示。",
+              "method": [
+                "定部位",
+                "追运输/分布",
+                "判作用",
+                "解释对照"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-24",
+              "title": "植物调节综合与农业实验",
+              "core": "多激素与环境共同调节，实验要区分促进生长、生根、成熟等具体指标。",
+              "prerequisites": [
+                "biology-08",
+                "biology-23"
+              ],
+              "visualIdea": "同批植株分组处理，不同指标用独立刻度。",
+              "method": [
+                "定指标",
+                "设计浓度梯度与对照",
+                "重复",
+                "结论限域"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "b-ecology",
+          "title": "生态系统",
+          "points": [
+            {
+              "id": "biology-25",
+              "title": "种群数量、增长与调查",
+              "core": "种群参数和环境共同决定增长，J型与S型是有条件的模型。",
+              "prerequisites": [
+                "biology-16"
+              ],
+              "visualIdea": "种群数量与资源供给双面板，环境容量可随条件变动。",
+              "method": [
+                "定种群与时段",
+                "选调查/模型",
+                "算参数",
+                "解释条件"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-26",
+              "title": "群落结构、演替与生态位",
+              "core": "群落变化受物种相互作用及环境影响，演替趋势不是每地相同的固定剧本。",
+              "prerequisites": [
+                "biology-25"
+              ],
+              "visualIdea": "同一地点随扰动后时间推进，空间分层逐步显现。",
+              "method": [
+                "看物种与环境",
+                "识关系",
+                "判阶段",
+                "比较原因"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-27",
+              "title": "生态系统能量流动与物质循环",
+              "core": "能量单向流动、逐级传递并散失；元素在生物与无机环境间循环。",
+              "prerequisites": [
+                "biology-06",
+                "biology-07",
+                "biology-26"
+              ],
+              "visualIdea": "能量箭头与碳循环用两套图例，避免能量循环误解。",
+              "method": [
+                "定边界",
+                "读同化/传递量",
+                "算比例",
+                "核碳流"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-28",
+              "title": "信息传递、稳定性与生态保护",
+              "core": "生态系统稳定性与结构及反馈有关，抵抗力与恢复力须结合情境分析。",
+              "prerequisites": [
+                "biology-17",
+                "biology-26",
+                "biology-27"
+              ],
+              "visualIdea": "扰动前后食物网与反馈恢复分幕，展示不同时间尺度。",
+              "method": [
+                "识扰动",
+                "找关联路径",
+                "判反馈与稳定性",
+                "提措施"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "b-technology",
+          "title": "生物技术与实验设计",
+          "points": [
+            {
+              "id": "biology-29",
+              "title": "发酵、微生物培养与无菌技术",
+              "core": "培养条件、选择培养和鉴别培养各有目的；无菌操作贯穿流程。",
+              "prerequisites": [
+                "biology-05",
+                "biology-06",
+                "biology-08"
+              ],
+              "visualIdea": "培养流程区分接种、培养、计数与污染对照。",
+              "method": [
+                "定微生物与目标",
+                "选培养条件",
+                "设对照",
+                "解读菌落"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-30",
+              "title": "植物、动物细胞工程与胚胎工程",
+              "core": "工程技术依细胞生物学原理，培养、融合、分化及发育过程有不同条件。",
+              "prerequisites": [
+                "biology-09",
+                "biology-14",
+                "biology-29"
+              ],
+              "visualIdea": "细胞来源、处理、培养与检测依流程推进。",
+              "method": [
+                "找原理",
+                "定材料与操作",
+                "识关键条件",
+                "验证产物"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-31",
+              "title": "基因工程、PCR与检测流程",
+              "core": "载体构建、导入和表达检测不同；PCR扩增依模板、引物与温度循环。",
+              "prerequisites": [
+                "biology-13",
+                "biology-14",
+                "biology-15",
+                "biology-29"
+              ],
+              "visualIdea": "目标片段从设计到扩增、组装、导入、验证逐站接力。",
+              "method": [
+                "识目标",
+                "选元件与工具",
+                "设计流程",
+                "分层验证"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "biology-32",
+              "title": "生物回顾：结构功能、信息与实验因果",
+              "core": "结构、物质能量和信息三条线解释生命现象；实验优先检验因果。",
+              "prerequisites": [
+                "biology-08",
+                "biology-12",
+                "biology-16",
+                "biology-20",
+                "biology-22",
+                "biology-24",
+                "biology-28",
+                "biology-31"
+              ],
+              "visualIdea": "跨层级概念图最后由学生补关键箭头与证据。",
+              "method": [
+                "找层级",
+                "连机制",
+                "设对照",
+                "用证据作限定结论"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "biology-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "地理",
+      "chapters": [
+        {
+          "id": "g-tools",
+          "title": "地图与地球运动",
+          "points": [
+            {
+              "id": "geography-01",
+              "title": "经纬网、等高线与图像判读",
+              "core": "位置、方向、比例尺与等值线是读取空间信息的基础工具，应嵌入真实问题复习。",
+              "prerequisites": [],
+              "visualIdea": "等高线逐层升起为地形，同时保留平面地图。",
+              "method": [
+                "定位置方向",
+                "看尺度",
+                "读数值与疏密",
+                "联系地形"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-02",
+              "title": "地球自转、地方时与日界线",
+              "core": "地方时由经度差联系，日期判断要统一时间基准并区分自然与人为日界线。",
+              "prerequisites": [
+                "geography-01"
+              ],
+              "visualIdea": "地球转动配合经线时钟，日期区间随时刻改变。",
+              "method": [
+                "定基准",
+                "算经差",
+                "判东西",
+                "处理日期"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-03",
+              "title": "公转、太阳直射与昼夜长短",
+              "core": "地轴倾斜与公转导致直射点及昼长季节变化，不能用远近解释四季。",
+              "prerequisites": [
+                "geography-02"
+              ],
+              "visualIdea": "空间模型与侧视昼夜圈联动，保持地轴方向一致。",
+              "method": [
+                "定日期半球",
+                "找直射纬度",
+                "判昼长",
+                "验极值"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-04",
+              "title": "正午太阳高度与光照综合",
+              "core": "太阳高度取决于纬度和直射点位置；光照图要核对视角和运动方向。",
+              "prerequisites": [
+                "geography-01",
+                "geography-02",
+                "geography-03"
+              ],
+              "visualIdea": "同日不同纬度的影长与太阳轨迹对照。",
+              "method": [
+                "识视角",
+                "定日期/直射点",
+                "算纬差",
+                "核半球"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "g-atmosphere",
+          "title": "大气与气候",
+          "points": [
+            {
+              "id": "geography-05",
+              "title": "大气受热与热力环流",
+              "core": "辐射收支影响温度，冷热不均驱动垂直运动和近地面气压差。",
+              "prerequisites": [
+                "geography-03"
+              ],
+              "visualIdea": "地表增温、空气抬升、等压面变化逐幕展开。",
+              "method": [
+                "定冷热",
+                "判升降",
+                "推气压",
+                "连风向"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-06",
+              "title": "水平风、气压场与天气系统",
+              "core": "风受水平气压梯度、地转偏向及摩擦影响，不同高度与半球方向有差异。",
+              "prerequisites": [
+                "geography-01",
+                "geography-02",
+                "geography-05"
+              ],
+              "visualIdea": "等压线图叠加三力箭头，近地面与高空对照。",
+              "method": [
+                "认半球与高度",
+                "定梯度",
+                "加偏向/摩擦",
+                "读天气"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-07",
+              "title": "气压带风带、季风与季节移动",
+              "core": "全球环流受热力与地转作用影响，季风还与海陆热力差异等因素相关。",
+              "prerequisites": [
+                "geography-03",
+                "geography-05",
+                "geography-06"
+              ],
+              "visualIdea": "全球带状环流随季节移动，再放大东亚局部。",
+              "method": [
+                "定纬度季节",
+                "找环流",
+                "判风向",
+                "解释海陆差异"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-08",
+              "title": "气候成因、气候图与区域比较",
+              "core": "气候由纬度、环流、海陆、地形与洋流等共同塑造，不能单凭降水曲线认类型。",
+              "prerequisites": [
+                "geography-04",
+                "geography-06",
+                "geography-07"
+              ],
+              "visualIdea": "同纬度不同海陆位置逐项开关因子，对照温降水图。",
+              "method": [
+                "定位",
+                "读季节特征",
+                "析主导因子",
+                "区域比较"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "g-water",
+          "title": "水体与海洋",
+          "points": [
+            {
+              "id": "geography-09",
+              "title": "水循环与流域水量平衡",
+              "core": "水循环连接水体，区域水量平衡需明确空间边界与时间尺度。",
+              "prerequisites": [
+                "geography-05",
+                "geography-08"
+              ],
+              "visualIdea": "流域剖面按降水、径流、蒸散与储量流动。",
+              "method": [
+                "定流域与时段",
+                "列收支",
+                "找变化",
+                "解释影响"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-10",
+              "title": "河流补给、径流与水文过程",
+              "core": "补给类型与气候、地形和人类活动共同决定河流过程，汛期不能只靠纬度判断。",
+              "prerequisites": [
+                "geography-01",
+                "geography-08",
+                "geography-09"
+              ],
+              "visualIdea": "流量过程线与雨雪融水来源随月份同步切换。",
+              "method": [
+                "定位",
+                "识补给",
+                "读过程线",
+                "分自然与人为"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-11",
+              "title": "海水性质、洋流与气候影响",
+              "core": "海温、盐度和密度受多因子影响；洋流的热量输送与局地气候作用有条件。",
+              "prerequisites": [
+                "geography-07",
+                "geography-08",
+                "geography-09"
+              ],
+              "visualIdea": "海面性质分层配色，洋流路径和沿岸温湿对照。",
+              "method": [
+                "定区域季节",
+                "识洋流",
+                "析热盐收支",
+                "连沿岸影响"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-12",
+              "title": "水资源配置与流域治理",
+              "core": "治理需权衡上下游、用水部门及生态需求，工程措施不能代替流域整体分析。",
+              "prerequisites": [
+                "geography-09",
+                "geography-10",
+                "geography-11"
+              ],
+              "visualIdea": "上中下游水量与需求账本联动，方案呈现多方后果。",
+              "method": [
+                "列需求与约束",
+                "析供需",
+                "比较方案",
+                "评跨区影响"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "g-landscape",
+          "title": "地貌与自然环境整体性",
+          "points": [
+            {
+              "id": "geography-13",
+              "title": "地壳物质循环与板块构造",
+              "core": "岩石转化由地质过程驱动，板块边界类型关联地貌但不等于单一地形必然。",
+              "prerequisites": [
+                "geography-01"
+              ],
+              "visualIdea": "岩石循环与剖面地质过程分层叠加。",
+              "method": [
+                "识岩石/构造",
+                "找过程",
+                "定相对顺序",
+                "证据回验"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-14",
+              "title": "内外力作用与地貌演化",
+              "core": "地貌是多过程长期作用的结果，河流、风、冰川和海浪形成不同证据。",
+              "prerequisites": [
+                "geography-09",
+                "geography-10",
+                "geography-13"
+              ],
+              "visualIdea": "同一地貌按阶段演化，侵蚀搬运堆积分别标注。",
+              "method": [
+                "描述形态",
+                "匹配动力",
+                "排时间顺序",
+                "检沉积证据"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-15",
+              "title": "土壤、植被与自然环境整体性",
+              "core": "气候、地形、水文、土壤与生物相互联系，一要素改变会产生连锁效应。",
+              "prerequisites": [
+                "geography-08",
+                "geography-09",
+                "geography-14"
+              ],
+              "visualIdea": "坡地剖面扰动后，水土植被关系按时间推进。",
+              "method": [
+                "抓主变化",
+                "连因果链",
+                "分直接间接",
+                "说明尺度"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-16",
+              "title": "地域分异与山地垂直地带性",
+              "core": "自然带变化受热量水分及地形共同影响，山地阴阳坡与迎背风坡要分别判断。",
+              "prerequisites": [
+                "geography-04",
+                "geography-08",
+                "geography-15"
+              ],
+              "visualIdea": "山体两坡同步升高，温湿与自然带边界变化。",
+              "method": [
+                "定纬度",
+                "看水热",
+                "析坡向",
+                "比基带与带谱"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "g-human",
+          "title": "人口、城乡与产业",
+          "points": [
+            {
+              "id": "geography-17",
+              "title": "人口分布、迁移与人口问题",
+              "core": "人口格局由自然与社会经济因素共同影响，迁移原因和影响需分迁入迁出地。",
+              "prerequisites": [
+                "geography-01",
+                "geography-08"
+              ],
+              "visualIdea": "人口流以方向和规模箭头连接两地，分别显示影响。",
+              "method": [
+                "定时空",
+                "分推拉力",
+                "看结构",
+                "析双向影响"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-18",
+              "title": "城镇化、功能区与空间结构",
+              "core": "城市形态、功能与土地利用受交通、地价和历史等共同影响，模式不是固定模板。",
+              "prerequisites": [
+                "geography-17"
+              ],
+              "visualIdea": "城市随交通扩展，功能区和出行成本逐层显现。",
+              "method": [
+                "识阶段",
+                "找区位机制",
+                "读结构",
+                "评问题与措施"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-19",
+              "title": "农业区位与生产变化",
+              "core": "农业区位需区分自然基础、市场技术及政策条件，主导因素随时间改变。",
+              "prerequisites": [
+                "geography-08",
+                "geography-09",
+                "geography-15",
+                "geography-17"
+              ],
+              "visualIdea": "同一作物在传统与设施农业条件下重排限制因素。",
+              "method": [
+                "定作物与区域",
+                "析限制/优势",
+                "连市场技术",
+                "评变化"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-20",
+              "title": "工业、服务业与交通区位",
+              "core": "区位决策需对原料、能源、市场、劳动力、技术及交通等权衡。",
+              "prerequisites": [
+                "geography-17",
+                "geography-18",
+                "geography-19"
+              ],
+              "visualIdea": "工厂与服务网点在候选地之间比较成本和联系。",
+              "method": [
+                "识行业需求",
+                "匹配条件",
+                "比变化",
+                "论迁移与集聚"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "g-region",
+          "title": "区域联系与区域发展",
+          "points": [
+            {
+              "id": "geography-21",
+              "title": "区域认知、差异与联系",
+              "core": "区域边界服务分析目的，比较要统一尺度、指标与时间。",
+              "prerequisites": [
+                "geography-01",
+                "geography-08",
+                "geography-15",
+                "geography-20"
+              ],
+              "visualIdea": "同指标双区地图并列，并用联系箭头突破孤立比较。",
+              "method": [
+                "定位",
+                "同尺度描述",
+                "析差异",
+                "找联系"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-22",
+              "title": "资源型区域转型与产业升级",
+              "core": "转型依产业、人口、环境和制度条件，不能把换产业当唯一答案。",
+              "prerequisites": [
+                "geography-20",
+                "geography-21"
+              ],
+              "visualIdea": "区域投入产出与就业结构随转型方案变化。",
+              "method": [
+                "识衰退机制",
+                "列约束",
+                "比较路径",
+                "评长期影响"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-23",
+              "title": "城市群、产业转移与区域协同",
+              "core": "联系网络影响功能分工，产业转移对转入转出地的作用有阶段差异。",
+              "prerequisites": [
+                "geography-18",
+                "geography-20",
+                "geography-21"
+              ],
+              "visualIdea": "城市群交通与产业网络随成本、技术变化重组。",
+              "method": [
+                "识联系",
+                "析动力",
+                "看双地影响",
+                "评协同条件"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-24",
+              "title": "跨区域资源调配与生态协作",
+              "core": "资源调配连接输出输入区并影响沿线生态，评价需兼顾经济社会生态。",
+              "prerequisites": [
+                "geography-12",
+                "geography-21",
+                "geography-23"
+              ],
+              "visualIdea": "资源通道与三地收益/成本账并排。",
+              "method": [
+                "定供需",
+                "析路线约束",
+                "看多地影响",
+                "提配套措施"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "g-security",
+          "title": "资源、环境与国家安全",
+          "points": [
+            {
+              "id": "geography-25",
+              "title": "资源、能源与国家安全",
+              "core": "资源安全涉及可得性、供应稳定、利用效率与环境代价，储量不等于全部安全。",
+              "prerequisites": [
+                "geography-20",
+                "geography-21",
+                "geography-24"
+              ],
+              "visualIdea": "能源供应链从产地到消费端，风险点依次点亮。",
+              "method": [
+                "识资源链",
+                "析风险",
+                "比替代与节约",
+                "评韧性"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-26",
+              "title": "粮食、耕地与生态安全",
+              "core": "安全问题是生产、分配、消费与生态的系统问题，措施要对准具体风险。",
+              "prerequisites": [
+                "geography-15",
+                "geography-19",
+                "geography-25"
+              ],
+              "visualIdea": "粮食链与耕地水资源约束联动，展示政策情境。",
+              "method": [
+                "定风险与尺度",
+                "列因果链",
+                "提对应措施",
+                "查副作用"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-27",
+              "title": "环境污染、碳循环与可持续发展",
+              "core": "污染物、温室气体和生态影响不能混为一谈；治理要匹配来源与传输路径。",
+              "prerequisites": [
+                "geography-07",
+                "geography-09",
+                "geography-15",
+                "geography-25"
+              ],
+              "visualIdea": "源—通道—受体展开后分别呈现减排和适应方案。",
+              "method": [
+                "定物质与来源",
+                "追过程",
+                "评影响",
+                "分治理措施"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-28",
+              "title": "海洋开发、权益与综合管理",
+              "core": "海洋利用需统筹生态、资源与安全；涉及地图和权益表述须用规范来源。",
+              "prerequisites": [
+                "geography-11",
+                "geography-24",
+                "geography-25",
+                "geography-27"
+              ],
+              "visualIdea": "近岸到深海的活动和生态压力按空间层次展示。",
+              "method": [
+                "定空间与资源",
+                "析利用冲突",
+                "核规范材料",
+                "提统筹方案"
+              ],
+              "priority": "P1",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        },
+        {
+          "id": "g-inquiry",
+          "title": "灾害、地理技术与综合探究",
+          "points": [
+            {
+              "id": "geography-29",
+              "title": "自然灾害、风险与防灾减灾",
+              "core": "灾害风险由致灾因子、暴露度与脆弱性共同决定，不等同于自然现象强度。",
+              "prerequisites": [
+                "geography-06",
+                "geography-10",
+                "geography-14",
+                "geography-17"
+              ],
+              "visualIdea": "同一台风路径作用不同城市，比较暴露和防御条件。",
+              "method": [
+                "识灾种过程",
+                "析孕灾/承灾",
+                "评风险",
+                "提分阶段措施"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-30",
+              "title": "遥感、定位、GIS与数据证据",
+              "core": "不同地理技术解决不同问题，数据分辨率与获取时间限制解释。",
+              "prerequisites": [
+                "geography-01",
+                "geography-21",
+                "geography-29"
+              ],
+              "visualIdea": "遥感影像、定位轨迹和GIS图层逐项接入案例。",
+              "method": [
+                "明任务",
+                "选技术",
+                "叠证据",
+                "说明精度与时效"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-31",
+              "title": "地理实践与综合题因果表达",
+              "core": "观察、调查和实验需问题、证据与解释一致；综合题避免无条件套模板。",
+              "prerequisites": [
+                "geography-12",
+                "geography-16",
+                "geography-23",
+                "geography-27",
+                "geography-29",
+                "geography-30"
+              ],
+              "visualIdea": "实地问题依次变成资料卡、因果箭头和规范答题句。",
+              "method": [
+                "审设问",
+                "定位提信息",
+                "建因果链",
+                "分点带条件表述"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            },
+            {
+              "id": "geography-32",
+              "title": "广东情境回顾：珠江、季风与湾区",
+              "core": "用珠江流域、华南天气和大湾区联系复盘跨章机制，案例不等于押题。",
+              "prerequisites": [
+                "geography-08",
+                "geography-10",
+                "geography-12",
+                "geography-18",
+                "geography-23",
+                "geography-24",
+                "geography-26",
+                "geography-31"
+              ],
+              "visualIdea": "从全球环流缩放到珠江与湾区，再返回全科知识图。",
+              "method": [
+                "定尺度",
+                "连自然人文",
+                "用材料验证",
+                "迁移新区域"
+              ],
+              "priority": "P0",
+              "sourceIds": [
+                "geography-2020"
+              ],
+              "status": "planned",
+              "sourceMapping": "主题层级参考；教学表述与先修关系为本项目原创编排，尚未逐条教审"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "pointCount": 160,
+    "subjects": {
+      "数学": 32,
+      "物理": 32,
+      "化学": 32,
+      "生物": 32,
+      "地理": 32
+    },
+    "uniqueIds": true,
+    "allPrerequisitesExist": true,
+    "acyclic": true,
+    "verifiedAt": "2026-11-05",
+    "limits": "本地结构校验；不等于学科教师审核、教材版本全量映射或学生学习效果实测。"
+  }
+}

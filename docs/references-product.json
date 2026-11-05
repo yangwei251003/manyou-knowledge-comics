@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-05",
+  "timezone": "Asia/Shanghai",
+  "scope": "产品、漫画表达、学习科学；课程与图像工具能力由其他研究记录负责",
+  "method": "公开网页原文、原论文PDF、后台Playwright局部截图；未登录、未提交、未操作前台桌面",
+  "studentResearchConducted": false,
+  "learningEffectValidated": false,
+  "sources": [
+    {
+      "id": "p01",
+      "title": "The Essence of Calculus",
+      "publisher": "3Blue1Brown",
+      "url": "https://www.3blue1brown.com/lessons/essence-of-calculus/",
+      "publishedAt": "2017-04-28",
+      "access": "opened-html-and-headless-screenshot",
+      "supports": [
+        "具体问题引入、几何分解与符号联系",
+        "课文内的问题",
+        "章节/视频/文章结构"
+      ],
+      "limits": "未连续观看完整原视频；不能直接充当中国高中课程范围"
+    },
+    {
+      "id": "p02",
+      "title": "Brilliant current homepage",
+      "publisher": "Brilliant",
+      "url": "https://brilliant.org/",
+      "access": "opened-html-and-headless-screenshot",
+      "supports": [
+        "当前Koji视觉互动家教定位",
+        "双角色行动入口",
+        "宽留白与交互题预览"
+      ],
+      "limits": "公开营销界面；未登录体验课程或验证其学习效果"
+    },
+    {
+      "id": "p03",
+      "title": "What are Learning Paths?",
+      "publisher": "Brilliant",
+      "url": "https://brilliant.org/help/features/what-are-learning-paths/",
+      "updatedAt": "2026-10-07",
+      "access": "opened-html",
+      "supports": [
+        "逻辑主题顺序、交互概念、检查点"
+      ],
+      "limits": "功能说明，不代表已实际完成路径体验"
+    },
+    {
+      "id": "p04",
+      "title": "Facilitation Strategies for Inquiry-based, In-class Activities using PhET Simulations",
+      "publisher": "PhET Interactive Simulations, University of Colorado Boulder",
+      "url": "https://phet.colorado.edu/files/guides/TeacherGuide_StrategiesForFacilitation_en.pdf",
+      "access": "opened-pdf",
+      "supports": [
+        "以探究、问题与讨论组织模拟活动"
+      ],
+      "limits": "教师指引；其历史许可文字不能覆盖2026最新模拟文件许可"
+    },
+    {
+      "id": "p05",
+      "title": "Projectile Motion HTML simulation",
+      "publisher": "PhET Interactive Simulations, University of Colorado Boulder",
+      "url": "https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_all.html",
+      "access": "headless-screenshot-launcher-only",
+      "supports": [
+        "Intro、Vectors、Drag、Lab四种入口"
+      ],
+      "limits": "只观察启动界面；未操作参数、未验证模拟结果"
+    },
+    {
+      "id": "p06",
+      "title": "GeoGebra tools and resources",
+      "publisher": "GeoGebra",
+      "url": "https://www.geogebra.org/?lang=en",
+      "access": "opened-html-and-headless-screenshot",
+      "supports": [
+        "按主题的资源与按任务的计算器入口",
+        "首页左文右插画、双行动按钮与主题区"
+      ],
+      "limits": "未实际开展学生/教师课堂活动"
+    },
+    {
+      "id": "p07",
+      "title": "GeoGebra Apps",
+      "publisher": "GeoGebra",
+      "url": "https://www.geogebra.org/download?lang=en",
+      "access": "opened-html",
+      "supports": [
+        "绘图、几何、3D等任务区分"
+      ],
+      "limits": "应用页信息，不是所有功能实测"
+    },
+    {
+      "id": "p08",
+      "title": "GeoGebra Calculator Suite",
+      "publisher": "GeoGebra",
+      "url": "https://www.geogebra.org/calculator",
+      "access": "headless-screenshot-partial-load",
+      "supports": [
+        "标题栏、工作区、底部数学键盘"
+      ],
+      "limits": "截图工作区仍有载入提示，未完成绘图"
+    },
+    {
+      "id": "p09",
+      "title": "HHMI BioInteractive homepage",
+      "publisher": "HHMI BioInteractive",
+      "url": "https://www.biointeractive.org/?ResourceId=19",
+      "access": "opened-html; headless-render-security-verification",
+      "supports": [
+        "按资源类型和学科主题组织内容",
+        "真实研究与教学支持定位"
+      ],
+      "limits": "实际后台浏览器被安全验证拦截，未绕过，不能声称已视觉审阅首页完整布局"
+    },
+    {
+      "id": "p10",
+      "title": "Interactive Video Builder: Explore",
+      "publisher": "HHMI BioInteractive",
+      "url": "https://interactive-video-tool.biointeractive.org/explore",
+      "access": "opened-html",
+      "supports": [
+        "暂停点、标签与问题设计",
+        "真实研究案例与交互视频库"
+      ],
+      "limits": "未登录创建或实际完成一段视频"
+    },
+    {
+      "id": "p11",
+      "title": "系列科普漫画",
+      "publisher": "中国科学院上海有机化学研究所",
+      "url": "https://sioc.cas.cn/science/kppp/202306/t20230606_6774942.html",
+      "pageDateLabel": "2023-06-06",
+      "access": "opened-html",
+      "supports": [
+        "拟人元素、关联故事、生活提问和角色对话的公开案例"
+      ],
+      "limits": "页面内容含后续出版信息，页首日期不必然等于全部内容更新时间；图片请求超时，未完整逐格审阅漫画；无高三学习效果数据"
+    },
+    {
+      "id": "p12",
+      "title": "《薛定谔的加菲猫》（一）",
+      "publisher": "中国科学院物理研究所",
+      "url": "https://www.iop.cas.cn/kxcb/kpwz/lzsbqzl/201009/t20100926_2974353.html",
+      "publishedAt": "2010-09-26",
+      "access": "opened-html-image-links; image-request-timeout",
+      "supports": [
+        "官方连续漫画发布案例"
+      ],
+      "limits": "未看全原图，不作具体逐格画风结论；未获得再利用许可"
+    },
+    {
+      "id": "l01",
+      "title": "When Learning Is Just a Click Away: Does Simple User Interaction Foster Deeper Understanding of Multimedia Messages?",
+      "authors": "Richard E. Mayer; Paul Chandler",
+      "publishedAt": "2001",
+      "url": "https://tecfa.unige.ch/tecfa/teaching/methodo/Mayer_Chandler01.pdf",
+      "access": "opened-original-paper-pdf",
+      "supports": [
+        "分段与简单学习者控制的实验依据"
+      ],
+      "limits": "特定闪电动画和实验条件，不是全学科普遍保证"
+    },
+    {
+      "id": "l02",
+      "title": "Nine Ways to Reduce Cognitive Load in Multimedia Learning",
+      "authors": "Richard E. Mayer; Roxana Moreno",
+      "publishedAt": "2003",
+      "doi": "10.1207/S15326985EP3801_6",
+      "url": "https://www.umassmed.edu/globalassets/pediatrics/pediatrics-residency-program/woo-insider/resources/nine-ways-to-reduce-cognitive-load-in-multimedia-learning.pdf",
+      "access": "opened-original-paper-pdf",
+      "supports": [
+        "有限容量、主动建构、认知负荷、迁移检验"
+      ],
+      "limits": "设计原则与研究汇总，不能替代本平台实验；论文不作为公开站点素材再发布"
+    },
+    {
+      "id": "l03",
+      "title": "A meta-analysis of signaling principle in multimedia learning environments",
+      "authors": "David Alpizar; Olusola O. Adesope; Rachel M. Wong",
+      "publishedAt": "2020-02-27",
+      "doi": "10.1007/s11423-020-09748-7",
+      "url": "https://link.springer.com/article/10.1007/s11423-020-09748-7",
+      "access": "opened-publisher-abstract",
+      "supports": [
+        "信号提示总体收益及条件依赖"
+      ],
+      "limits": "全文付费，仅使用公开摘要可支持的结论，不把总体效应当本平台效果"
+    },
+    {
+      "id": "l04",
+      "title": "The Critical Importance of Retrieval for Learning",
+      "authors": "Jeffrey D. Karpicke; Henry L. Roediger III",
+      "publishedAt": "2008-02-15",
+      "doi": "10.1126/science.1152408",
+      "url": "https://learninglab.psych.purdue.edu/downloads/2008/2008_Karpicke_Roediger_Science.pdf",
+      "access": "opened-author-lab-original-paper-pdf",
+      "supports": [
+        "词汇学习反复检索与一周延迟回忆",
+        "自评与实际表现区分"
+      ],
+      "limits": "大学生词汇实验，不能直接推导广东高考迁移题增益"
+    },
+    {
+      "id": "l05",
+      "title": "Distributed Practice in Verbal Recall Tasks: A Review and Quantitative Synthesis",
+      "authors": "Nicholas J. Cepeda; Harold Pashler; Edward Vul; John T. Wixted; Doug Rohrer",
+      "publishedAt": "2006",
+      "doi": "10.1037/0033-2909.132.3.354",
+      "url": "https://www.evullab.org/pdf/CepedaPashlerVulWixtedRohrer-PB-2006.pdf",
+      "access": "opened-author-original-paper-pdf",
+      "supports": [
+        "练习间隔与保持间隔共同影响回忆"
+      ],
+      "limits": "回忆任务范围；不支持固定1/3/7天为所有题型最优"
+    },
+    {
+      "id": "r01",
+      "title": "GeoGebra License",
+      "publisher": "GeoGebra",
+      "url": "https://www.geogebra.org/license",
+      "access": "opened-html",
+      "supports": [
+        "按用途与资产类型区分许可；商业用途需核查"
+      ],
+      "limits": "实施前应核对实际版本和拟用资产，不以摘要代替许可原文"
+    },
+    {
+      "id": "r02",
+      "title": "PhET Licensing Information",
+      "publisher": "PhET Interactive Simulations, University of Colorado Boulder",
+      "url": "https://phet.colorado.edu/en/licensing",
+      "access": "opened-js-shell; current-official-indexed-body-readable",
+      "supports": [
+        "当前常规HTML模拟CC BY-NC 4.0的许可线索；需核对版本"
+      ],
+      "limits": "正文在web open中未完整呈现；旧CC BY官方文档仍存在。正式引入前再次读取实际文件许可，本轮未嵌入"
+    },
+    {
+      "id": "r03",
+      "title": "BioInteractive FAQ",
+      "publisher": "HHMI BioInteractive",
+      "url": "https://www.biointeractive.org/faq",
+      "access": "opened-html",
+      "supports": [
+        "按具体资源查看Terms of Use",
+        "AI辅助作品仍经科学家与教育者审查的公开流程案例"
+      ],
+      "limits": "不能称所有资源统一开放商用；不构成本项目已获专家审核"
+    },
+    {
+      "id": "r04",
+      "title": "Manim Community documentation",
+      "publisher": "Manim Community",
+      "url": "https://docs.manim.community/en/stable/",
+      "access": "opened-html",
+      "supports": [
+        "引擎与受保护角色/素材的权利区分"
+      ],
+      "limits": "使用引擎不自动取得3Blue1Brown成片、角色和音乐许可"
+    }
+  ],
+  "screenshotAudit": {
+    "location": "任务临时目录；不纳入公开仓库或站点素材",
+    "fontNote": "后续截图阻止远程字体并使用本机回退字体，仅用于布局观察",
+    "brilliant": "observed-homepage",
+    "geogebraHomepage": "observed-homepage",
+    "geogebraCalculator": "observed-loading-shell-only",
+    "threeBlueOneBrown": "observed-lesson-header-only",
+    "phetProjectileMotion": "observed-launcher-only",
+    "biointeractive": "security-verification-page-only"
+  }
+}

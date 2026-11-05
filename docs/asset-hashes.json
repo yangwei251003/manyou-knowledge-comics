@@ -1,0 +1,17 @@
+{
+  "checked": "2026-11-05",
+  "assets": [
+    {
+      "path": "assets/favicon.svg",
+      "bytes": 339,
+      "sha256": "1322983f557e8d8ad20420bd5b110ca9b761706213c2877c6123a87cdc6cfcb2",
+      "origin": "project-original-vector"
+    },
+    {
+      "path": "assets/knowledge-atlas.svg",
+      "bytes": 5436,
+      "sha256": "183e39ac79154693d75bed6ce41cabe31dbf55fab0ee09e7afbac6ad8f7f42c5",
+      "origin": "project-original-vector"
+    }
+  ]
+}
