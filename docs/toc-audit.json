@@ -1,0 +1,269 @@
+{
+  "date": "2026-11-06",
+  "method": "NFKC normalization and punctuation/whitespace removal, matching section titles against cached public textbook front matter. This checks catalogue mapping, not scientific correctness or all knowledge coverage.",
+  "books": [
+    {
+      "book": "m-b1",
+      "title": "必修 第一册",
+      "chapters": 5,
+      "sections": 24,
+      "sourcePdfSha256": "51dd54ceab1c2d37b4dfb0f61a2c7f401dc5e2138a7e1f236f1f9d9927bf662b",
+      "frontMatterTextSha256": "741b2298facb1ff41a7f2ebebb64c045d8c3dd6b73f8c0f02b079d3a4737b71a",
+      "exactNormalisedTitleMatches": 24,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "m-b2",
+      "title": "必修 第二册",
+      "chapters": 5,
+      "sections": 19,
+      "sourcePdfSha256": "d54f89313043a8b2cfb2fb0f0a76c4b939e0482dfa7e6bcfaef681bb0e11347f",
+      "frontMatterTextSha256": "e6580ab1cddb2267bc4d4e09b6bec08f9e8a521c27055d2787197c844d11ae4d",
+      "exactNormalisedTitleMatches": 19,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "m-s1",
+      "title": "选择性必修 第一册",
+      "chapters": 3,
+      "sections": 12,
+      "sourcePdfSha256": "52a40d8d65cbce83b17707c87c18985065147441faa080491a635c865dd614ae",
+      "frontMatterTextSha256": "f3a8e0e0a27231a8c15813a6b6d18d53b5ffad1d2dd19e303ef8810d1b5d0a06",
+      "exactNormalisedTitleMatches": 12,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "m-s2",
+      "title": "选择性必修 第二册",
+      "chapters": 2,
+      "sections": 7,
+      "sourcePdfSha256": "8e6a392c4fe703c327344b1c5237a895aa5a6eb3f24e79c59833734740095453",
+      "frontMatterTextSha256": "1d7e4622bfebc0872ecf309278b13fa9cabe8b62bc2797aaaf5ab6fb8def3637",
+      "exactNormalisedTitleMatches": 7,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "m-s3",
+      "title": "选择性必修 第三册",
+      "chapters": 3,
+      "sections": 11,
+      "sourcePdfSha256": "f1c9d9863aedc86fdad2d07fcb8b89b8c9bb98c1bf2fef731a0c9a384e87d9cf",
+      "frontMatterTextSha256": "d094e8403028bb82bfd76e56f8945a65e28b9f4dc650282a041bd494130739cd",
+      "exactNormalisedTitleMatches": 11,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "p-b1",
+      "title": "必修 第一册",
+      "chapters": 4,
+      "sections": 19,
+      "sourcePdfSha256": "b0a84622a6ddc13c693ace0c5f4c8e906d7343ce2da47aa5ff396d063b88052a",
+      "frontMatterTextSha256": "d367d0a1eaa4465955de4c1b72d2c233cc44d99db3a72516190a428c06622e41",
+      "exactNormalisedTitleMatches": 19,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "p-b2",
+      "title": "必修 第二册",
+      "chapters": 4,
+      "sections": 18,
+      "sourcePdfSha256": "367414e1cffd74c8f9a4d3ceac666f675a2b005f31c558449ebbef4f70183d8e",
+      "frontMatterTextSha256": "df76fd6c79d180b5558d660188d5bc1f87393186a709031f371b191903ca6796",
+      "exactNormalisedTitleMatches": 18,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "p-b3",
+      "title": "必修 第三册",
+      "chapters": 5,
+      "sections": 23,
+      "sourcePdfSha256": "0067ec9533094c02e85e619e6f713b6aedff7f704410753cb72df124b93d4951",
+      "frontMatterTextSha256": "efb7cc929ba55cc80c4d2035c7ee3a57e3f680944e7b170e678752fbdc40b038",
+      "exactNormalisedTitleMatches": 23,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "p-s1",
+      "title": "选择性必修 第一册",
+      "chapters": 4,
+      "sections": 23,
+      "sourcePdfSha256": "4e9e5e29e6420035e008e2b0494c9d6ee2c64600c6d861f96bc63ec139aae79a",
+      "frontMatterTextSha256": "7296442b8d2d53858de6f8c9d59346966086693adb1f720021e98165baeb5b14",
+      "exactNormalisedTitleMatches": 23,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "p-s2",
+      "title": "选择性必修 第二册",
+      "chapters": 5,
+      "sections": 19,
+      "sourcePdfSha256": "e134c14fbfe6d4242a6dcb8677d43bd889fe6a6d48b3dc7358ed911f86033bed",
+      "frontMatterTextSha256": "4689a7b32c7fd84ec03805083445bdb166167d785ba413bc607db8a4716b8804",
+      "exactNormalisedTitleMatches": 19,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "p-s3",
+      "title": "选择性必修 第三册",
+      "chapters": 5,
+      "sections": 23,
+      "sourcePdfSha256": "f8c2e78365349f773f03185b70790c3088225de6c7469e5078c4049a12cfab9e",
+      "frontMatterTextSha256": "af76095b5cd2174144ec2470869874b5a5cc9215f79dbff258c05fa7748dbd5e",
+      "exactNormalisedTitleMatches": 23,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "c-b1",
+      "title": "必修 第一册",
+      "chapters": 4,
+      "sections": 11,
+      "sourcePdfSha256": "26697bcbfb058051aefe2533789b81312759a28f3c0e6e507295ac5e2fddaf8b",
+      "frontMatterTextSha256": "b2760e80be9e5f28fde4cfd21a6ab552dccf6caf6aee7ae507e4800130e50650",
+      "exactNormalisedTitleMatches": 11,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "c-b2",
+      "title": "必修 第二册",
+      "chapters": 4,
+      "sections": 12,
+      "sourcePdfSha256": "fbaa88aa65396838361bf028f0c9f1490dd98bb4960cdefc7e265575ba527d61",
+      "frontMatterTextSha256": "3959cf1680592ac98b4dd25ca212a1090f05e2f80d07af6f4305afd9ad9288ef",
+      "exactNormalisedTitleMatches": 12,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "c-s1",
+      "title": "选择性必修1 化学反应原理",
+      "chapters": 4,
+      "sections": 13,
+      "sourcePdfSha256": "6fdb6f0a8b3245882fe327a8b0174fbb1c46afe2072c639c98412216e6d14c46",
+      "frontMatterTextSha256": "a7a401328be6c1765ce0fd6fe29a431d8a4faa7fac11cacea8be063005028380",
+      "exactNormalisedTitleMatches": 13,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "c-s2",
+      "title": "选择性必修2 物质结构与性质",
+      "chapters": 3,
+      "sections": 9,
+      "sourcePdfSha256": "80bd01587de4d10cd78949e707477df14b2b6848cbc37c9154c72dfc37eedce3",
+      "frontMatterTextSha256": "b701b5d44fa714064874489c24284ff1c33137ec5fc44123a8391d0adda8c5ef",
+      "exactNormalisedTitleMatches": 9,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "c-s3",
+      "title": "选择性必修3 有机化学基础",
+      "chapters": 5,
+      "sections": 15,
+      "sourcePdfSha256": "2ecb6f80c879131a0bb8cf14bb58751b638e5d849fa1cded2c6ef72cc70fab40",
+      "frontMatterTextSha256": "4dd610be0761302ed28a185c36ee6ff367141c4542a8c417579fb0244c153a7d",
+      "exactNormalisedTitleMatches": 15,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "b-b1",
+      "title": "必修1 分子与细胞",
+      "chapters": 6,
+      "sections": 19,
+      "sourcePdfSha256": "b02fac36b03bce0898410915fb4abecb3f62f287ee9aafb776f7b758b06806c6",
+      "frontMatterTextSha256": "c0c1f36a2e39c3f8c6bbf37771bfcc0a8a93ab0cd715362116a058b5e9eeba53",
+      "exactNormalisedTitleMatches": 19,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "b-b2",
+      "title": "必修2 遗传与进化",
+      "chapters": 6,
+      "sections": 18,
+      "sourcePdfSha256": "be085dbfa35af897050f58a1f411785840fa7f515220014acf14416cb3092dd1",
+      "frontMatterTextSha256": "4c39ffed53c399f6cec7b529a2cf8a8312061b98111c2e7b91ff5a8a1c424c4e",
+      "exactNormalisedTitleMatches": 18,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "b-s1",
+      "title": "选择性必修1 稳态与调节",
+      "chapters": 5,
+      "sections": 18,
+      "sourcePdfSha256": "e2589ed4c0a9f8d302f27a3b96ae9bdd15322e97fae23303f9d0b1c2e54808d0",
+      "frontMatterTextSha256": "da65319d0c6037ea7f2a7fe887cca1fd1f99efa7cb63a964217133d4d52bde87",
+      "exactNormalisedTitleMatches": 18,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "b-s2",
+      "title": "选择性必修2 生物与环境",
+      "chapters": 4,
+      "sections": 14,
+      "sourcePdfSha256": "ad61d8470304b8c239a9fffd27bad2efd1e8b6eedec1f50a7a26afecb86b2349",
+      "frontMatterTextSha256": "36346d4312b5266b4c4992a66c3c20eafbfeecf8e8e929fc9ca51ead766ddea0",
+      "exactNormalisedTitleMatches": 14,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "b-s3",
+      "title": "选择性必修3 生物技术与工程",
+      "chapters": 4,
+      "sections": 13,
+      "sourcePdfSha256": "487485b1aceb316873b73ab0c581fd70c92f9bd287560a8e0352700bf037e60a",
+      "frontMatterTextSha256": "92d044561cce3eb8e526af84658d6386114a92472003cf0b4ae4429dd0a4fd56",
+      "exactNormalisedTitleMatches": 13,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "g-b1",
+      "title": "必修 第一册",
+      "chapters": 6,
+      "sections": 17,
+      "sourcePdfSha256": "4cae01e59becda4c627006cfd745c399bb082605b00e068739e9abfca3fb3c13",
+      "frontMatterTextSha256": "86c955acf3455a6b5752dfe768fedc8d85a227a33adaf7b0d1c4727de5dc9095",
+      "exactNormalisedTitleMatches": 17,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "g-b2",
+      "title": "必修 第二册",
+      "chapters": 5,
+      "sections": 14,
+      "sourcePdfSha256": "64ae72ffac101c4d129c5c3775a4fd60c3f30c064e7703609097ebced9fc5231",
+      "frontMatterTextSha256": "f4fbcce85d2a9b3b59a7468a2c87dddd21165bf38164967bed32ed1ab42127d5",
+      "exactNormalisedTitleMatches": 14,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "g-s1",
+      "title": "选择性必修1 自然地理基础",
+      "chapters": 5,
+      "sections": 13,
+      "sourcePdfSha256": "ca4000b901ce3142d7b97ab54f45add4ebbf800e0d330b7a2b9df8fdfb610889",
+      "frontMatterTextSha256": "2fa1d5ac07c530ef3c4a3f4a642029bf8381cf4b4e1410c639bd2475cf719bbe",
+      "exactNormalisedTitleMatches": 13,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "g-s2",
+      "title": "选择性必修2 区域发展",
+      "chapters": 4,
+      "sections": 11,
+      "sourcePdfSha256": "63a7bf9c238c36955ae1c158be3b4fed9d4a3cca9b15ed705bea664271c56777",
+      "frontMatterTextSha256": "bfcdfa5562c5fb01dc7c3f247c3134adf853a663143479321e436797022871e0",
+      "exactNormalisedTitleMatches": 11,
+      "manualComparisonNeeded": []
+    },
+    {
+      "book": "g-s3",
+      "title": "选择性必修3 资源、环境与国家安全",
+      "chapters": 4,
+      "sections": 14,
+      "sourcePdfSha256": "e787b9896d918e4ef9c3318769a37bbe76d3a211c8ce4a906b0960bc104aa2c4",
+      "frontMatterTextSha256": "33089b63798ad7a430125262e13a87874521f295af2c50e1c91a9442228784d6",
+      "exactNormalisedTitleMatches": 14,
+      "manualComparisonNeeded": []
+    }
+  ],
+  "exactTitleMatches": 409,
+  "sectionCount": 409,
+  "manualComparisonNeeded": []
+}

@@ -1,0 +1,9 @@
+Use case: scientific-educational / illustration-story. Create ONE finished STATIC educational comic page for Chinese high-school seniors. Portrait layout, two columns by three rows, six clearly separated panels, readable crisp art. Original orange fox student in a blue hoodie and a short-haired teenage girl guide are consistent throughout. Warm cream paper, dark ink outlines, coral orange and muted teal; lively sophisticated science comic, not preschool.
+Topic: derivative as instantaneous rate of change, using a curving mountain road as a LIMITED analogy for the exact graph y=x². Six DIFFERENT scenes, read left-to-right then down.
+1: mountain lookout: equally high platforms, one descending path and one ascending; student puzzled. Short Chinese bubble "一样高，坡度也一样？"
+2: cut to precise coordinate graph y=x², P(1,1), Q(2,4), secant through both. Label "平均变化率".
+3: zoom in, Q approaches P along the SAME parabola; girl moves a little marker, slope approaches a limiting tangent. Label "让 Q 靠近 P".
+4: exact tangent at P(1,1), y=2x−1, slope 2; student realizes. Bubble "这一刻的坡度！"
+5: a new composition compares descending left branch x<0 and ascending right branch x>0. Label "导数看变化".
+6: desk-solving scene, P(-1,1) on the SAME parabola, downhill tangent slope −2; student checks the point. Bubble "先定切点，再求斜率".
+Scientific accuracy is essential: tangent passes through its point, do not confuse height and slope, do not set a difference-quotient denominator to zero. Restrict text to the short Chinese captions specified; reserve clean bottom strips for editable exact equations in the website. Distinct viewpoints and meaningful story progression, no repeated identical panel, no watermark, no UI. Output a static comic image, never GIF.

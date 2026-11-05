@@ -1,17 +1,66 @@
 {
-  "checked": "2026-11-05",
+  "updated": "2026-11-06",
+  "note": "Published original art, video outputs and original synthetic narration. Rejected drafts and third-party textbook/music originals excluded.",
   "assets": [
     {
-      "path": "assets/favicon.svg",
-      "bytes": 339,
-      "sha256": "1322983f557e8d8ad20420bd5b110ca9b761706213c2877c6123a87cdc6cfcb2",
-      "origin": "project-original-vector"
+      "file": "assets/comics/m13-page1-v2.png",
+      "sha256": "687afd277a4c166bdcc4b53ac3a51863090e0034b1e130ec2dae9e1de5f2d1b2",
+      "bytes": 2449231
     },
     {
-      "path": "assets/knowledge-atlas.svg",
-      "bytes": 5436,
-      "sha256": "183e39ac79154693d75bed6ce41cabe31dbf55fab0ee09e7afbac6ad8f7f42c5",
-      "origin": "project-original-vector"
+      "file": "assets/comics/math-07-v1.png",
+      "sha256": "34c3b2f856f99652fc9370f87d30e76b1ba684bef7e8dab92f7758a0f546a020",
+      "bytes": 2955735
+    },
+    {
+      "file": "assets/comics/physics-06-v1.png",
+      "sha256": "8e356f210ba0949071ac98fedc1a3a8d8651793434b5e006d5f1926cde80e55a",
+      "bytes": 3115954
+    },
+    {
+      "file": "assets/comics/chemistry-15-v1.png",
+      "sha256": "e5549a18f41008f14b655337c007b2311e69788940f9f29ef3bf85cdc3f103b5",
+      "bytes": 2921165
+    },
+    {
+      "file": "assets/comics/b05-page1-v2.png",
+      "sha256": "de0dad2ab736d8b2b41a364872d2b1f14d97bd35f9e0906d736a87e4544dc1b2",
+      "bytes": 2727300
+    },
+    {
+      "file": "assets/comics/biology-10-v1.png",
+      "sha256": "8036515a1b99340b38b5e9dd934a5581e97d9eeb1be0820f576c1fd832aa4cc0",
+      "bytes": 3008020
+    },
+    {
+      "file": "assets/comics/geography-05-v1.png",
+      "sha256": "1d8141d5c3f3b589e87740913294dcfbdc4982ce83b9b1818fadac4a5f49888d",
+      "bytes": 3228005
+    },
+    {
+      "file": "assets/comics/g12-page1-v2.png",
+      "sha256": "95c5262f2f7911e9e0def598b02dc97e0c209320f5c9b1a11ee82f31d2f2d009",
+      "bytes": 2341539
+    },
+    {
+      "file": "assets/video/conic-distance.mp4",
+      "sha256": "1f24cbb54c12c7c1b277509b1f6b6b3b69bdef5f61037de29f81a09f99d9e54c",
+      "bytes": 3093526
+    },
+    {
+      "file": "assets/video/conic-poster.jpg",
+      "sha256": "f9f2db1fd0f173ed80b7f21ce2f390d514c0e2549e637da7a4faf9b33d5fed7a",
+      "bytes": 62604
+    },
+    {
+      "file": "assets/video/conic-distance.vtt",
+      "sha256": "f76a6012eb60a97aecf4da2ad7412cea35d19a8a74de6093d7f40238d799924b",
+      "bytes": 1185
+    },
+    {
+      "file": "production/audio/conic-narration.wav",
+      "sha256": "aced38887664130ab80296c8fb80fbff53c78b92efa60d3b6fd0a91dcbea774e",
+      "bytes": 2837382
     }
   ]
 }

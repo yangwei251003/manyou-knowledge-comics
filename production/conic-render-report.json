@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-05T18:59:55.978Z",
+  "frames": 1500,
+  "fps": 24,
+  "duration": 62.5,
+  "width": 1280,
+  "height": 720,
+  "sceneSamples": [
+    {
+      "id": "question",
+      "start": 0,
+      "end": 8.54,
+      "reviewFrame": "tmp/video-review/01-question.png",
+      "frameAt": 5.550999999999999
+    },
+    {
+      "id": "ellipse",
+      "start": 8.54,
+      "end": 17.5,
+      "reviewFrame": "tmp/video-review/02-ellipse.png",
+      "frameAt": 14.364
+    },
+    {
+      "id": "hyperbola",
+      "start": 17.5,
+      "end": 26.2,
+      "reviewFrame": "tmp/video-review/03-hyperbola.png",
+      "frameAt": 23.155
+    },
+    {
+      "id": "parabola",
+      "start": 26.2,
+      "end": 36.7,
+      "reviewFrame": "tmp/video-review/04-parabola.png",
+      "frameAt": 33.025000000000006
+    },
+    {
+      "id": "choose",
+      "start": 36.7,
+      "end": 44.48,
+      "reviewFrame": "tmp/video-review/05-choose.png",
+      "frameAt": 41.757
+    },
+    {
+      "id": "example",
+      "start": 44.48,
+      "end": 53.74,
+      "reviewFrame": "tmp/video-review/06-example.png",
+      "frameAt": 50.499
+    },
+    {
+      "id": "connect",
+      "start": 53.74,
+      "end": 59.7,
+      "reviewFrame": "tmp/video-review/07-connect.png",
+      "frameAt": 57.614000000000004
+    },
+    {
+      "id": "credits",
+      "start": 59.7,
+      "end": 62.5,
+      "reviewFrame": "tmp/video-review/08-credits.png",
+      "frameAt": 61.52
+    }
+  ],
+  "renderer": "Original deterministic HTML/SVG via Playwright, FFmpeg H.264",
+  "externalVideoFootage": 0,
+  "comicImagesInserted": 0,
+  "uniqueSceneIds": [
+    "question",
+    "ellipse",
+    "hyperbola",
+    "parabola",
+    "choose",
+    "example",
+    "connect",
+    "credits"
+  ],
+  "browserErrors": [],
+  "renderedSilent": true,
+  "continuousWatch": false,
+  "listenedFull": false
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-06",
+  "narration": {
+    "engine": "Local Qwen CustomVoice 0.6B",
+    "voice": "温柔女声",
+    "speed": 1.05,
+    "file": "production/audio/conic-narration.wav",
+    "sha256": "aced38887664130ab80296c8fb80fbff53c78b92efa60d3b6fd0a91dcbea774e",
+    "rawDurationSeconds": 59.1105,
+    "fullListeningReview": false
+  },
+  "music": {
+    "title": "A Kind Of Hope",
+    "artist": "Scott Buckley",
+    "page": "https://www.scottbuckley.com.au/library/a-kind-of-hope/",
+    "download": "https://www.scottbuckley.com.au/library/wp-content/uploads/2022/10/AKindOfHope.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sha256": "d0dc554c0db9ea208b4f59e4f0c1b4446aa7ef622c7bfeffca278130a46c51f1",
+    "acquired": "Official public download link in an isolated headless browser; no user cookies or authentication.",
+    "excerptStartSeconds": 12,
+    "excerptDurationSeconds": 62.5,
+    "changes": "Excerpted, faded, volume adjusted, side-chain ducked and mixed with original synthetic narration. No artist endorsement implied.",
+    "attribution": "‘A Kind Of Hope’ by Scott Buckley — released under CC BY 4.0. www.scottbuckley.com.au"
+  },
+  "mix": {
+    "sidechainDucking": true,
+    "continuousMusic": true,
+    "musicLooped": false,
+    "peakLimiterLinear": 0.84,
+    "fullListeningReview": false,
+    "note": "Signal measurement and ASR do not establish naturalness or mix listening review."
+  }
+}

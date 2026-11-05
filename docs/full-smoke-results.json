@@ -1,0 +1,28 @@
+{
+  "at": "2026-11-05T19:12:55.233Z",
+  "base": "http://127.0.0.1:4174/",
+  "desktopChapterRoutes": 115,
+  "mobileChapterRoutes": 115,
+  "subjectCatalogs": 5,
+  "formulaCount": 446,
+  "readableComicPages": 8,
+  "newPrecisionModels": 5,
+  "advancedMethodCard": true,
+  "videoMetadata": {
+    "duration": 62.5,
+    "width": 1280,
+    "height": 720
+  },
+  "videoPlaybackCheckedMuted": true,
+  "fullListeningReview": false,
+  "search": true,
+  "notesPersistence": true,
+  "readMarkers": true,
+  "bookmarks": true,
+  "hiddenWorkedAnswer": true,
+  "export": true,
+  "comicDialog": true,
+  "legacyModel": true,
+  "consoleErrors": [],
+  "failedResources": []
+}

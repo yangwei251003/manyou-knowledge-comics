@@ -1,0 +1,26 @@
+{
+  "updated": "2026-11-06",
+  "videos": [
+    {
+      "id": "conic-distance",
+      "title": "三种曲线，三种距离约定",
+      "chapter": "m13",
+      "file": "assets/video/conic-distance.mp4",
+      "poster": "assets/video/conic-poster.jpg",
+      "captions": "assets/video/conic-distance.vtt",
+      "duration": 62.5,
+      "width": 1280,
+      "height": 720,
+      "fps": 24,
+      "bytes": 3093526,
+      "sha256": "1f24cbb54c12c7c1b277509b1f6b6b3b69bdef5f61037de29f81a09f99d9e54c",
+      "narration": "synthetic",
+      "music": "A Kind Of Hope — Scott Buckley · CC BY 4.0",
+      "rendered": true,
+      "continuousVisualReview": false,
+      "fullListeningReview": false,
+      "teacherReview": "not-performed",
+      "scope": "A short explanation of conic distance definitions and one ellipse calculation; not a whole-chapter recap or full course coverage."
+    }
+  ]
+}

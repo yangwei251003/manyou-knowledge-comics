@@ -1,12 +1,13 @@
 {
   "name": "manyou-knowledge-comics",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
-  "description": "漫游知识：面向广东2027届高三的五科可视化复习研究与互动原型",
+  "description": "广东2027届五科26册114章原创复习提要、ImageGen漫画与精确科学模型",
   "scripts": {
     "dev": "node scripts/serve.mjs",
-    "check": "node scripts/check-content.mjs"
+    "check": "node scripts/check-content.mjs && node scripts/check-full-curriculum.mjs",
+    "test:browser": "node scripts/full-smoke.mjs"
   },
   "devDependencies": {
     "playwright": "1.61.1"

@@ -1,0 +1,210 @@
+{
+  "updated": "2026-11-06",
+  "generator": "built-in image_gen",
+  "modelId": null,
+  "assets": [
+    {
+      "chapter": "b05",
+      "title": "叶绿体里的两条接力",
+      "file": null,
+      "width": 1024,
+      "height": 1536,
+      "bytes": 3142050,
+      "sha256": "fcb885a6f1ad3a054a675472121f62907061c0ea1358cf2c2bff15ad24887217",
+      "prompt": "production/prompts/b05-page1.txt",
+      "coveredKnowledgeIds": [
+        "b05-s04-k1",
+        "b05-s04-k2",
+        "b05-s04-k3",
+        "b05-s04-k4"
+      ],
+      "contentReview": "rejected",
+      "teacherReview": "not-performed",
+      "note": "A focused comic page, not a claim that every chapter point is illustrated.",
+      "version": 1,
+      "published": false,
+      "reasons": [
+        "初版把C5再生误写同时消耗NADPH，已改为消耗ATP。"
+      ],
+      "sourceFileName": "b05-page1-v1.png"
+    },
+    {
+      "chapter": "b05",
+      "version": 2,
+      "title": "叶绿体里的两条接力",
+      "file": "assets/comics/b05-page1-v2.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2727300,
+      "sha256": "de0dad2ab736d8b2b41a364872d2b1f14d97bd35f9e0906d736a87e4544dc1b2",
+      "prompt": "production/prompts/b05-page1-edit-v2.txt",
+      "coveredKnowledgeIds": [
+        "b05-s04-k1",
+        "b05-s04-k2",
+        "b05-s04-k3",
+        "b05-s04-k4"
+      ],
+      "contentReview": "self-checked",
+      "teacherReview": "not-performed",
+      "note": "A focused comic page, not a claim that every chapter point is illustrated.",
+      "published": true,
+      "reviewNote": "已按具体错误返修并目视复核；示意图不按比例，配套原生模型核算精确关系。教师审核未进行。"
+    },
+    {
+      "chapter": "c18",
+      "title": "官能团的换乘路线",
+      "file": null,
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2914738,
+      "sha256": "12efd20a205020f9091f9ba927cfa98e0e64394cfc1fd2cf8ddff51a877c2afd",
+      "prompt": "production/prompts/c18-page1.txt",
+      "coveredKnowledgeIds": [
+        "c18-s01-k1",
+        "c18-s01-k2",
+        "c18-s02-k1",
+        "c18-s03-k1",
+        "c18-s04-k2",
+        "c18-s05-k1"
+      ],
+      "contentReview": "rejected",
+      "teacherReview": "not-performed",
+      "note": "A focused comic page, not a claim that every chapter point is illustrated.",
+      "version": 1,
+      "published": false,
+      "reasons": [
+        "多个官能团中文标签错误，退回，不入站。"
+      ],
+      "sourceFileName": "c18-page1-v1.png"
+    },
+    {
+      "chapter": "g12",
+      "title": "太阳高度与季节的几何",
+      "file": null,
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2548405,
+      "sha256": "b36e07ce7a6bdc71b388e198cd87c07918f0b8af9374a1fbb13870d391b46259",
+      "prompt": "production/prompts/g12-page1.txt",
+      "coveredKnowledgeIds": [
+        "g12-s01-k1",
+        "g12-s01-k2",
+        "g12-s01-k3",
+        "g12-s02-k1",
+        "g12-s02-k2",
+        "g12-s02-k3"
+      ],
+      "contentReview": "rejected",
+      "teacherReview": "not-performed",
+      "note": "A focused comic page, not a claim that every chapter point is illustrated.",
+      "version": 1,
+      "published": false,
+      "reasons": [
+        "初版10°N与30°N位置倒置、夏季轴倾方向错误，已参考几何图返修。"
+      ],
+      "sourceFileName": "g12-page1-v1.png"
+    },
+    {
+      "chapter": "g12",
+      "version": 2,
+      "title": "太阳高度与季节的几何",
+      "file": "assets/comics/g12-page1-v2.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2341539,
+      "sha256": "95c5262f2f7911e9e0def598b02dc97e0c209320f5c9b1a11ee82f31d2f2d009",
+      "prompt": "production/prompts/g12-page1-edit-v2.txt",
+      "coveredKnowledgeIds": [
+        "g12-s01-k1",
+        "g12-s01-k2",
+        "g12-s01-k3",
+        "g12-s02-k1",
+        "g12-s02-k2",
+        "g12-s02-k3"
+      ],
+      "contentReview": "self-checked",
+      "teacherReview": "not-performed",
+      "note": "A focused comic page, not a claim that every chapter point is illustrated.",
+      "published": true,
+      "reviewNote": "已按具体错误返修并目视复核；示意图不按比例，配套原生模型核算精确关系。教师审核未进行。"
+    },
+    {
+      "chapter": "m13",
+      "title": "三条曲线，三种距离约定",
+      "file": null,
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2620251,
+      "sha256": "344b9a39a6fa151498e931e857e93c765e710746570005fee059696008f0832d",
+      "prompt": "production/prompts/m13-page1.txt",
+      "coveredKnowledgeIds": [
+        "m13-s01-k1",
+        "m13-s01-k2",
+        "m13-s02-k1",
+        "m13-s02-k2",
+        "m13-s03-k1",
+        "m13-s03-k2"
+      ],
+      "contentReview": "rejected",
+      "teacherReview": "not-performed",
+      "note": "A focused comic page, not a claim that every chapter point is illustrated.",
+      "version": 1,
+      "published": false,
+      "reasons": [
+        "初版中右双曲线开口方向错误，已用精确几何参考图返修。"
+      ],
+      "sourceFileName": "m13-page1-v1.png"
+    },
+    {
+      "chapter": "m13",
+      "version": 2,
+      "title": "三条曲线，三种距离约定",
+      "file": "assets/comics/m13-page1-v2.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2449231,
+      "sha256": "687afd277a4c166bdcc4b53ac3a51863090e0034b1e130ec2dae9e1de5f2d1b2",
+      "prompt": "production/prompts/m13-page1-edit-v2.txt",
+      "coveredKnowledgeIds": [
+        "m13-s01-k1",
+        "m13-s01-k2",
+        "m13-s02-k1",
+        "m13-s02-k2",
+        "m13-s03-k1",
+        "m13-s03-k2"
+      ],
+      "contentReview": "self-checked",
+      "teacherReview": "not-performed",
+      "note": "A focused comic page, not a claim that every chapter point is illustrated.",
+      "published": true,
+      "reviewNote": "已按具体错误返修并目视复核；示意图不按比例，配套原生模型核算精确关系。教师审核未进行。"
+    },
+    {
+      "chapter": "p18",
+      "title": "磁场只拐弯，不给粒子加速率",
+      "file": null,
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2729510,
+      "sha256": "e38853fb8cb261cebdca2bac71cd9becd4cab8a2cc43db1960df242db5c30381",
+      "prompt": "production/prompts/p18-page1.txt",
+      "coveredKnowledgeIds": [
+        "p18-s02-k1",
+        "p18-s02-k2",
+        "p18-s03-k1",
+        "p18-s03-k2",
+        "p18-s03-k3",
+        "p18-s04-k1"
+      ],
+      "contentReview": "rejected",
+      "teacherReview": "not-performed",
+      "note": "A focused comic page, not a claim that every chapter point is illustrated.",
+      "version": 1,
+      "published": false,
+      "reasons": [
+        "第3、4格磁力、曲率及速度方向不一致，退回，不入站。"
+      ],
+      "sourceFileName": "p18-page1-v1.png"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-11-06",
+  "generator": "built-in image_gen",
+  "modelId": null,
+  "assets": {
+    "math-07": {
+      "path": "assets/comics/math-07-v1.png",
+      "version": 1,
+      "sha256": "34c3b2f856f99652fc9370f87d30e76b1ba684bef7e8dab92f7758a0f546a020",
+      "bytes": 2955735,
+      "width": 1024,
+      "height": 1536,
+      "frames": 1,
+      "prompt": "production/prompts/math-07.txt",
+      "contentReview": "self-checked",
+      "teacherReview": "not-performed",
+      "panels": 6,
+      "reviewNote": "已目视核对样章主要概念与计数；网站另补六格准确文字及类比边界。教师教审未进行。"
+    },
+    "physics-06": {
+      "path": "assets/comics/physics-06-v1.png",
+      "version": 1,
+      "sha256": "8e356f210ba0949071ac98fedc1a3a8d8651793434b5e006d5f1926cde80e55a",
+      "bytes": 3115954,
+      "width": 1024,
+      "height": 1536,
+      "frames": 1,
+      "prompt": "production/prompts/physics-06.txt",
+      "contentReview": "self-checked",
+      "teacherReview": "not-performed",
+      "panels": 6,
+      "reviewNote": "已目视核对样章主要概念与计数；网站另补六格准确文字及类比边界。教师教审未进行。"
+    },
+    "chemistry-15": {
+      "path": "assets/comics/chemistry-15-v1.png",
+      "version": 1,
+      "sha256": "e5549a18f41008f14b655337c007b2311e69788940f9f29ef3bf85cdc3f103b5",
+      "bytes": 2921165,
+      "width": 1024,
+      "height": 1536,
+      "frames": 1,
+      "prompt": "production/prompts/chemistry-15.txt",
+      "contentReview": "self-checked",
+      "teacherReview": "not-performed",
+      "panels": 6,
+      "reviewNote": "已目视核对样章主要概念与计数；网站另补六格准确文字及类比边界。教师教审未进行。"
+    },
+    "biology-10": {
+      "path": "assets/comics/biology-10-v1.png",
+      "version": 1,
+      "sha256": "8036515a1b99340b38b5e9dd934a5581e97d9eeb1be0820f576c1fd832aa4cc0",
+      "bytes": 3008020,
+      "width": 1024,
+      "height": 1536,
+      "frames": 1,
+      "prompt": "production/prompts/biology-10.txt",
+      "contentReview": "self-checked",
+      "teacherReview": "not-performed",
+      "panels": 6,
+      "reviewNote": "已目视核对样章主要概念与计数；网站另补六格准确文字及类比边界。教师教审未进行。"
+    },
+    "geography-05": {
+      "path": "assets/comics/geography-05-v1.png",
+      "version": 1,
+      "sha256": "1d8141d5c3f3b589e87740913294dcfbdc4982ce83b9b1818fadac4a5f49888d",
+      "bytes": 3228005,
+      "width": 1024,
+      "height": 1536,
+      "frames": 1,
+      "prompt": "production/prompts/geography-05.txt",
+      "contentReview": "self-checked",
+      "teacherReview": "not-performed",
+      "panels": 6,
+      "reviewNote": "已目视核对样章主要概念与计数；网站另补六格准确文字及类比边界。教师教审未进行。"
+    }
+  }
+}
