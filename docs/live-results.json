@@ -1,0 +1,18 @@
+{
+  "checked": "2026-11-05",
+  "url": "https://yangwei251003.github.io/manyou-knowledge-comics/",
+  "status": "PASS",
+  "mode": "headless-chromium",
+  "checks": [
+    "public HTTP 200",
+    "5 visible sample lessons",
+    "negative tangent and quiz feedback",
+    "biology map 32 themes",
+    "live JSON 160 themes",
+    "original SVG cover HTTP 200",
+    "mobile biology terminology and layout",
+    "no runtime errors or failing project resources"
+  ],
+  "errors": [],
+  "failures": []
+}

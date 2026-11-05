@@ -2,6 +2,8 @@
 
 面向广东2027届高三一轮复习的五科知识漫画平台研究与互动原型。让抽象机制看得见，让知识按依赖连起来，让理解能回到解题。
 
+**[在线体验](https://yangwei251003.github.io/manyou-knowledge-comics/)** · [五科知识地图](https://yangwei251003.github.io/manyou-knowledge-comics/#map) · [研究与制作蓝图](docs/RESEARCH-BRIEF.md)
+
 **当前是研究与体验版。** 五科40章160个聚合主题是待制作目录；5节互动样章可以阅读、操作和答题。没有把目录称为160篇漫画，也没有将网页动画称为GIF或视频成品。
 
 ![桌面首页真实截图](docs/media/home-desktop.png)
