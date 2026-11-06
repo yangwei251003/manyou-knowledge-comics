@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 人口. Story: 一张会搬家的人口拼图.
+Situation: 栗栗把地图上的人均匀铺开。阿澄带它跟着迁居故事，看人为什么聚、为什么走、怎样判断承载。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 虚构地图上人口筹码在河谷与城镇集聚，在山地较稀疏，学生用交通与水资源透明层比较。
+PANEL 2 (MIDDLE): 一位携行李的毕业生在乡村车站与城市岗位之间选择，阿澄在两地分别摆出机会和成本卡。
+PANEL 3 (BOTTOM): 城镇模型的水库、住房、公共服务与贸易货车围着居民区，栗栗把两种容量记号放开。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

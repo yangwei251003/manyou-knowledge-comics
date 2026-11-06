@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 自然环境与人类社会. Story: 湿地开出的多种服务单.
+Situation: 栗栗给湿地只标了鱼的价格。阿澄邀请它走过观鸟台、蓄水区和受污染的支流，把看不见的服务也算进去。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 虚构湿地远景同场呈现居民取用资源、洪水滞蓄、观鸟休闲和栖息地，角色从不同角度记录。
+PANEL 2 (MIDDLE): 同一地区水井、森林、风机和矿石样品分区摆放，学生对照不同恢复时间和使用条件。
+PANEL 3 (BOTTOM): 河岸污染源与受影响的农田、湿地和取水点用一段连通地景展示，学生依次在上游下游取样。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

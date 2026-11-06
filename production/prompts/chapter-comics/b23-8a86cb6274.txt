@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 细胞工程. Story: 从一小片叶子到育苗室.
+Situation: 栗栗看到一块组织生出小苗，就把所有细胞培养都叫克隆整株。阿澄打开植物、动物和胚胎三间工作室。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 封闭培养架依次展示植物外植体、愈伤组织样块和再生小苗，学生按阶段整理瓶子。
+PANEL 2 (MIDDLE): 动物细胞培养展分开一瓶培养细胞、两种细胞融合模型和细胞核移植的示意卡，学生用不同托盘归置。
+PANEL 3 (BOTTOM): 胚胎工程工作台的观察屏展示几阶段的非写实早期胚胎模型，旁边有受体动物模型与记录表。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

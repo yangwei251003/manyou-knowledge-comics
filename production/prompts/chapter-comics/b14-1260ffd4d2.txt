@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 神经调节. Story: 比“哎呀”更早的缩手.
+Situation: 热杯旁的缩手反应来得比栗栗的惊呼还快。阿澄在安全演示台追踪信号走过的五站。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 神经系统教学模型分开脑和脊髓主轴及其向外分支，旁边放细长神经元模型。
+PANEL 2 (ROW 1 RIGHT): 手部接触热物体的动作通过安全假手模型展示，桌上依次有感受、传入、脊髓、传出和肌肉装置。
+PANEL 3 (ROW 2 LEFT): 放大的神经纤维模型上有局部信号经过，末端与下一细胞间有小间隙，学生在间隙两侧放不同信号筹码。
+PANEL 4 (ROW 2 RIGHT): 阿澄在演示板上把脊髓的局部控制和脑的上级调控分别接到人体姿势模型，栗栗观察同一个动作。
+PANEL 5 (ROW 3 LEFT): 实验结束，阿澄让同学按提示说出刚才的顺序，再把记忆卡和语言卡放到脑功能展台。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

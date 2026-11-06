@@ -1,0 +1,17 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 电路及其应用. Story: 灯串断了一盏以后.
+Situation: 义卖会的灯串突然变暗，栗栗拿表就想测。阿澄先让它找电源、支路和能安全量到的量。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 低压电池盒和小灯装在校园手工灯架，阿澄顺着回路指出电源与开关，狐狸看着通断前后。
+PANEL 2 (ROW 1 RIGHT): 材料桌摆着同材质的长短粗细不同导线样品，学生分组只换一种尺寸。
+PANEL 3 (ROW 2 LEFT): 低压实验室里阿澄用螺旋测微器量一段细金属丝的直径，旁边有伏安记录表。
+PANEL 4 (ROW 2 RIGHT): 两套对照灯组，一套多个灯依次装在一条可见支架，另一套分为独立支路，各有一盏熄灭。
+PANEL 5 (ROW 3 LEFT): 灯架断开电源，阿澄手持多用表核对低压灯串的断线，栗栗先把表笔收稳。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.
+
+ImageGen revision:
+Edit the supplied finished six-panel comic. This is a scientific correction. Preserve the 2-column by 3-row layout, panel borders, characters, scene settings, and all panels except row 2 right and row 3 left. In row 2 right, the LEFT demonstration board has a series string with one bulb unscrewed and sitting beside the open socket. ALL of the other bulbs on this LEFT board are completely DARK, with no yellow glow or halo. On the RIGHT demonstration board keep two bulbs lit and the middle parallel branch dark. In row 3 left, remove the cells from the battery holder and set the loose cells on the table beside the empty battery holder to make the disconnection unmistakable before resistance measurement. The meter probes remain in the characters' hands. Keep inked warm ivory comic style and every other part unchanged. Do not add text, letters, formulas, or extra frames.

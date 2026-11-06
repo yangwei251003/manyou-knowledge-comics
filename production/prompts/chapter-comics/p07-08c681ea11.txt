@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 万有引力与宇宙航行. Story: 给海岛送去一颗卫星.
+Situation: 海岛学校等一张云图。栗栗只想给卫星加速，阿澄从轨道形状、引力与测时逐步找出合适方案。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 天文馆内椭圆形轨道模型围着偏离中心的太阳球，近处与远处标出两段小时间的轨迹弧。
+PANEL 2 (ROW 1 RIGHT): 阿澄比较同一中心球与不同远近的两颗小质量球，尺只连接球心。
+PANEL 3 (ROW 2 LEFT): 观测站通过望远镜记录一颗绕行天体，学生利用轨道位置卡反推看不见的中心天体。
+PANEL 4 (ROW 2 RIGHT): 海边的模拟发射屏展示近地轨道与更高圆轨道两个清晰同心环，学生在轨道站选择路径。
+PANEL 5 (ROW 3 LEFT): 卫星云图终于接入学校，阿澄把地面时钟与卫星时钟做比对，狐狸把两张时钟卡谨慎分开。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

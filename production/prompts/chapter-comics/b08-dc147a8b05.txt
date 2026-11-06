@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 基因和染色体的关系. Story: 染色体行李的两次分发.
+Situation: 配子车站只允许每个旅客带一套行李。栗栗第一次分发时把同源和姐妹搞混，阿澄换了两套颜色来辨认。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 车站两轮分拣用成对的两色行李牌作染色体类比，第一轮分不同颜色的同源牌，第二轮分同色复制牌。
+PANEL 2 (MIDDLE): 用放大镜沿着染色体样的长路线寻找固定标记点，果蝇小展箱在背景中提供遗传实验情境。
+PANEL 3 (BOTTOM): 家系树记录台上分开男女两类记号，栗栗用颜色筹码追踪亲代向子代传递的一条染色体。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

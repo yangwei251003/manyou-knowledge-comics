@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 地球上的水. Story: 一滴水的三段海边旅行.
+Situation: 栗栗把从海边捡回的水滴当成永远不动的样品。阿澄随它从云、河口到海面，查水量和性质怎样变。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 虚构流域剖面从海上云、山地降水、坡面下渗与河道汇流连到海湾，学生用水滴棋子走完整路线。
+PANEL 2 (MIDDLE): 河口观测艇旁，学生用封闭采水器取海面和下层样品，背景有河流入海与晴朗海面蒸发的对照。
+PANEL 3 (BOTTOM): 远景同一海湾有岸边波浪、潮位标尺和离岸较宽的水流带，栗栗在安全栈道对比三种记录。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 地貌. Story: 给石头侦探画现场.
+Situation: 栗栗在野外见到奇形怪状的岩石，一眼就叫它“风吹的”。阿澄先描述形态，再把位置、材料和过程拼起来。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 开场，画清故事的起因和主角遇到的困难。
+栗栗在野外见到奇形怪状的岩石，一眼就叫它“风吹的”。阿澄先描述形态，再把位置、材料和过程拼起来。
+PANEL 2 (MIDDLE): 地貌馆的野外桌依次放河岸沉积地形、石灰岩溶蚀形态、风沙丘和海蚀崖的小型地景。
+PANEL 3 (BOTTOM): 阿澄站在安全观察台用远景框看山谷整体，再在岩石近景量局部坡度，栗栗在笔记里画剖面草图。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

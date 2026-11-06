@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 静电场及其应用. Story: 总粘毛的展柜.
+Situation: 学校展品擦完又吸满细毛。栗栗怀疑展柜在“吃灰”，阿澄从电荷怎样产生、怎样作用查到解决方法。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 低风险静电演示台上塑料棒吸起少量纸屑，阿澄比较摩擦前后两件材料。
+PANEL 2 (ROW 1 RIGHT): 用绝缘支架分开的两个带电小球，学生只改球心距离，观察悬线偏转程度。
+PANEL 3 (ROW 2 LEFT): 透明演示台上阿澄在不同位置移动一只很小的探针球，离开后保持原来的源电荷装置。
+PANEL 4 (ROW 2 RIGHT): 展柜接好静电泄放措施后恢复洁净，旁边是封闭的静电集尘示范模型。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

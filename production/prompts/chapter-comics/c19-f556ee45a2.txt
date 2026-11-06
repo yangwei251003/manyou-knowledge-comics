@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 生物大分子. Story: 生命仓库的三份长链订单.
+Situation: 栗栗把三条长链混放，仓库找不到糖、蛋白质和核酸。阿澄按单体和连接把订单分回来。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 仓库一边摆糖单元拼成的短链与长链，旁边对照日常食物样品，学生分出可还原与不可直接检验的模型。
+PANEL 2 (MIDDLE): 一条氨基酸串珠折成三维形状，阿澄把受热散开形状的模型与切断链的模型放两边。
+PANEL 3 (BOTTOM): 编码货架上两股互补链与一股单链模型并列，学生依次指着骨架和决定信息顺序的彩色部件。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

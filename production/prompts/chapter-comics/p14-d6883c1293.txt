@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 动量守恒定律. Story: 冰场快递的反冲.
+Situation: 冰上小车相撞后偏离了停靠点。栗栗说动能肯定守恒，阿澄用一组快递滑车找出该算哪一本账。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 冰面两辆质量不同的滑车以可比较速度滑行，一辆载满箱子，一辆空载。
+PANEL 2 (ROW 1 RIGHT): 阿澄用软垫接住滑来的小车，旁边硬挡板作对照，狐观察接触时间不同。
+PANEL 3 (ROW 2 LEFT): 光滑轨道上的两辆小车在一小段碰撞中互推，学生将两车一并圈作一个研究系统。
+PANEL 4 (ROW 2 RIGHT): 学生用同一条水平实验轨道上的光电门读两车碰撞前后速度，桌上另有称量设备。
+PANEL 5 (ROW 3 LEFT): 同一轨道一组弹性缓冲车分开，另一组带粘合接口的车碰后连在一起。
+PANEL 6 (ROW 3 RIGHT): 冰上快递结束，栗栗在一辆滑车上把一件轻包向后推出，车向前滑，安全空场远景。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

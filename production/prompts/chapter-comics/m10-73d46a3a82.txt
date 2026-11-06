@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 概率. Story: 抽奖箱的记性.
+Situation: 栗栗负责义卖抽奖，它以为上一轮没中奖，下一轮就该轮到自己。阿澄拿来两套抽奖装置。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 画面像俯拍游戏桌，各个结果用图案筹码放入相交的两块透明区域。
+PANEL 2 (MIDDLE): 两台独立摇号机与一个不放回抽球的透明箱并置，狐把刚抽的球放在箱外。
+PANEL 3 (BOTTOM): 长桌上许多组掷硬币结果依次摊开，学生对比短样本和长样本的正面比例。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

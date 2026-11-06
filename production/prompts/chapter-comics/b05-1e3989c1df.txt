@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 细胞的能量供应和利用. Story: 叶片电站的夜班.
+Situation: 天黑后，栗栗以为叶片的一切能量工作都关停。阿澄从酶和 ATP 查到呼吸与光合分别在哪些条件下进行。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 绿色叶片实验台的两条同起终点模型小路有不同高度的中间坡，学生让样品车走低坡作酶作用类比。
+PANEL 2 (ROW 1 RIGHT): 微缩细胞工位中同样的能量筹码在生成站和耗能站之间交换，阿澄把一叠大储备与几枚流通筹码分开。
+PANEL 3 (ROW 2 LEFT): 透明对照实验架放同量生物材料的不同供氧容器，旁边是密封二氧化碳检测和产物记录。
+PANEL 4 (ROW 2 RIGHT): 叶片微观世界里光照到叶绿体的片层，基质中用不同筹码示意碳同化，窗外夜色与白天作时间对照。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

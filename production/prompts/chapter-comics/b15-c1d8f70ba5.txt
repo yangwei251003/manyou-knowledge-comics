@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 体液调节. Story: 早餐后的血糖调度室.
+Situation: 栗栗吃完早餐，打算让血糖一直保持刚吃饱的高度。阿澄用调度台演示升高和回落怎样触发不同信号。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 人体展台的内分泌部位用小灯点亮，一枚激素信号沿血液模型传到带对应接口的目标细胞。
+PANEL 2 (MIDDLE): 早餐托盘旁血糖水位模型先升后趋稳，学生分别取出促进储存和促进释放的调度卡。
+PANEL 3 (BOTTOM): 运动后两条控制路线通向人体模型，一条是短的神经线路，一条经循环到达较远处，阿澄对照时间。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

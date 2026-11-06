@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 生物的进化. Story: 岛上的鸟嘴档案.
+Situation: 岛上鸟嘴大小不同。栗栗说鸟为了吃硬种子主动把嘴变硬，阿澄沿证据、种群变化与隔离调查。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 野外馆将化石层、骨骼同源结构图样和序列色带并置，学生比对相似与差异。
+PANEL 2 (ROW 1 RIGHT): 同一岛上多种鸟喙形态在不同食物情境下取食，学生记录哪些个体更常留下后代。
+PANEL 3 (ROW 2 LEFT): 两座岛上鸟群被水域隔开，阿澄在种群表中比较多代的色标比例，并测试接触后的繁殖条件。
+PANEL 4 (ROW 2 RIGHT): 岛上植物花形、传粉鸟嘴和不同栖息地在同一远景中相互联系，狐把档案归到三个层级。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

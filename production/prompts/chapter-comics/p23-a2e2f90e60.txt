@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 分子动理论. Story: 看不见的舞会.
+Situation: 显微镜下的小颗粒不停抖。栗栗以为它有一双腿，阿澄用观察和量级估算推断谁在碰它。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 显微观察桌上水滴内的小颗粒有几段杂乱位置记录，旁边扩散中的有色水作对照。
+PANEL 2 (ROW 1 RIGHT): 浅盘水面上出现薄油膜轮廓，学生将透明方格纸放在盘下估面积，栗栗拿一滴示意模型。
+PANEL 3 (ROW 2 LEFT): 许多彩色粒子模型按速度区间分到几个长短不一的队列，阿澄比较加热前后的整体分布。
+PANEL 4 (ROW 2 RIGHT): 两个有弹性连接的模型球在不同间距下互相作用，阿澄在桌上分别整理运动和相对位置的筹码。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

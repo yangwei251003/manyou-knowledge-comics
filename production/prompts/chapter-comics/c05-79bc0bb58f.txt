@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 化工生产中的重要非金属元素. Story: 给工厂烟囱做体检.
+Situation: 模型工厂的雾气让栗栗误以为只是水汽。阿澄沿含硫、含氮物质的转化与材料选择查清工艺。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 化工展的封闭含硫工段从进料、吸收到尾气处理有分区，学生查看前后样品而不打开设备。
+PANEL 2 (MIDDLE): 含氮工段的催化装置、肥料成品和废气监测放在同一展线，学生分开输入氮源与排出物。
+PANEL 3 (BOTTOM): 学生在不同无机材料样板中挑耐热陶瓷、玻璃观察窗和硅电子片，栗栗为展台装好部件。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

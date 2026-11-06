@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 电磁振荡与电磁波. Story: 从杂音中捞出一首歌.
+Situation: 旧收音机只有沙沙声。栗栗调大音量，阿澄请它找振荡、发射与选台的不同任务。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 透明演示盒中的线圈与电容器模型相邻，两组彩色能量筹码轮流集中在两件元件旁。
+PANEL 2 (ROW 1 RIGHT): 发射杆模型旁是延伸向远方的同色波纹带，学生隔玻璃观察，并未画具体场矢量。
+PANEL 3 (ROW 2 LEFT): 栗栗缓慢转动收音机调谐旋钮，阿澄用几条不同间距的波形纸带指示从多路信号挑一路。
+PANEL 4 (ROW 2 RIGHT): 工作桌上并排收音机、红外遥控器、棱镜和医学成像的封闭展示盒，栗栗听到完整节目。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

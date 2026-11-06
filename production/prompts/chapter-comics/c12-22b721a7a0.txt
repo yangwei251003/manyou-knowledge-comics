@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 化学反应与电能. Story: 铁桥救援队的电路箱.
+Situation: 海边铁桥模型一侧先锈了。栗栗想把电池接到任何地方，阿澄先辨电子从哪来，再选防护方案。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 低压电化学演示台的两半电池与外部小表，阿澄指着分隔的电极与溶液通道，装置为概念示意。
+PANEL 2 (MIDDLE): 有外加电源的封闭电解展台与无外电源的电池展台对照，学生观察一枚表面镀层样片。
+PANEL 3 (BOTTOM): 海边桥模型的湿润处和干燥处并列，阿澄用隔绝涂层与连接牺牲金属的模型展示防护。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.
+
+ImageGen revision:
+Edit only the top third of this 3-panel educational comic. Keep the existing composition, framing, gutters, all other panels, and main characters. The left beaker with gray zinc strip must have CLEAR COLORLESS solution. The right beaker with copper-colored strip must have BLUE solution. Keep the U-shaped salt bridge dipping into both beakers. The dark lead from the gray zinc strip ends at the dark terminal on the gauge, and the red lead from the copper strip ends at the red terminal. No new text or labels. Preserve the complete comic page.

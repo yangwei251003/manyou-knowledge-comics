@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 地球的运动. Story: 同一天的两封季节来信.
+Situation: 栗栗收到一封说夏天、一封说冬天的来信，日期却相同。阿澄用地球仪和日影模型找出两地为何不同。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 开场，画清故事的起因和主角遇到的困难。
+栗栗收到一封说夏天、一封说冬天的来信，日期却相同。阿澄用地球仪和日影模型找出两地为何不同。
+PANEL 2 (MIDDLE): 天文教室里阿澄转动一只倾斜轴地球仪，旁边另一演示位置保留平行轴的小模型，灯作太阳，图上无真实边界。
+PANEL 3 (BOTTOM): 工作台两个同样高的日晷小杆被不同斜度的平行灯束照亮，影长不同，学生对照不同昼长的时间盘。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

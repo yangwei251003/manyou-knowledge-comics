@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 细胞的基本结构. Story: 细胞邮局的一件包裹.
+Situation: 阿澄收到一份微缩邮局的交接单。栗栗把所有工作都交给细胞核，包裹却找不到出门路线。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 细胞邮局外墙的剖面以流动的双层模型和通道蛋白形状表示，普通包裹按条件选择入口。
+PANEL 2 (MIDDLE): 细胞内部空间中几处工作站由装包、转运、整理和送出等动作串联，具体器官标签留给网页。
+PANEL 3 (BOTTOM): 邮局中心有核膜包围的信息室，孔道和染色质在放大观察模型中分开，栗栗把信息单交到外侧。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

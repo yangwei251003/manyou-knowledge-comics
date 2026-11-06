@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 圆锥曲线的方程. Story: 失灵的三座信标.
+Situation: 栗栗误把三种轨道都叫椭圆。阿澄带它用绳、信标和一条墙重新找出每条曲线的约定。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 俯看沙地，两根相隔的桩用环绳牵住粉笔，阿澄拉紧绳圈描出闭合椭圆。
+PANEL 2 (MIDDLE): 荒原的双信标分立左右，学生在右侧用两条测距绳比较远近，另一侧有对应的行走足迹。
+PANEL 3 (BOTTOM): 从上方看沙滩，一枚焦点灯位于竖直墙线右侧，学生比较探测点到灯的线段与垂直通向墙的线段。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

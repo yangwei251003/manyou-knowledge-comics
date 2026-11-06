@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 物质及其变化. Story: 谁把水变浑了.
+Situation: 科学节的水样台突然变浑。栗栗把所有透明液体叫作“水”，阿澄给它三种查案方法。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 白瓷桌上一排封闭透明样品，有清液、带光路的分散系和正在沉降的悬浊液，阿澄逐一分类。
+PANEL 2 (MIDDLE): 隔着防护罩，两杯无色试液在小容器里出现白色沉淀，桌旁只有用颜色区分的离子筹码。
+PANEL 3 (BOTTOM): 阿澄把一枚电子颜色筹码从一种物质模型移到另一种旁，栗栗翻开氧化数记录卡。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

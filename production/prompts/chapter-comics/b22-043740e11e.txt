@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 发酵工程. Story: 会冒泡的发酵厨房.
+Situation: 栗栗看见两只容器都冒泡，以为同一种微生物在做饭。阿澄沿原料、菌种、培养和质量控制查回车间。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 传统发酵展台分开面团、果品发酵和酸味制品的密封样品，学生在记录卡比条件。
+PANEL 2 (MIDDLE): 教学实验室中密封培养皿有分散菌落和成片生长对照，阿澄观察空白对照与计数板。
+PANEL 3 (BOTTOM): 放大的封闭发酵罐有搅拌与传感监测，车间将合格产物与废液分别流向后处理区。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

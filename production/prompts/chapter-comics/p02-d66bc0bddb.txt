@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 匀变速直线运动的研究. Story: 给小车拍四张快照.
+Situation: 栗栗要让小车准时撞响终点铃，却只会数轮子。阿澄用等时间拍照，把速度和位移读出来。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 校园实验台上带光电门的小车沿斜直轨运行，阿澄观察一条带等时刻点迹的纸带。
+PANEL 2 (ROW 1 RIGHT): 小车进入另一段直轨，桌上铺着间隔一样的时钟卡和逐渐增长的速度尺。
+PANEL 3 (ROW 2 LEFT): 透明板上把上升直线下面划成梯形，旁边是小车的两次位置照片与直线轨道。
+PANEL 4 (ROW 2 RIGHT): 实验结束在安全透明真空管旁，一轻一重两小物体从同高释放，学生观察接近同一水平线的两物体。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

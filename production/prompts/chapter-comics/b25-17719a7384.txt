@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 生物技术的安全性与伦理问题. Story: 科技展的三张通行证.
+Situation: 展览收到三份争议项目卡。栗栗想用一个“安全”章盖到底，阿澄请它分别看证据、伦理与禁止边界。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 圆桌上学生比较转基因食品样品的具体性状、实验记录和环境观察卡，展品不涉及任何真实商品。
+PANEL 2 (MIDDLE): 讨论厅用空椅子与无人物细节的胚胎模型讨论生殖性克隆，阿澄把科研目标和生育应用的卡片分开。
+PANEL 3 (BOTTOM): 科技展最后一处以封闭警戒柜和各国合作握手的剪影表达防范，学生将危险项目卡封存。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

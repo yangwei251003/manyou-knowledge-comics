@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 集合与常用逻辑用语. Story: 数轴游园会的三道门.
+Situation: 阿澄给游园会设计入场规则。栗栗偷偷把三张一样的票当成三位客人，门口一下堵住了。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 入园闸机前，小狐狸拿着三张相同颜色和图案的票，学生把票按图形归入不同托盘。
+PANEL 2 (ROW 1 RIGHT): 俯视票务桌，两只透明盒子一大一小，小盒内的蓝色圆卡也都登记在大盒名单里，旁边放一只完全空的盒。
+PANEL 3 (ROW 2 LEFT): 操场上两盏圆形聚光灯部分重叠，狐站在重叠处，几张图形票分散在灯内灯外。
+PANEL 4 (ROW 2 RIGHT): 单向检票通道前，戴蓝色徽章的客人都有通行证，另有一位持通行证但无蓝徽章的客人。
+PANEL 5 (ROW 3 LEFT): 夕阳下最后一次检票，学生在一排合格卡中翻出一张破损卡，狐狸吹口哨叫停。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

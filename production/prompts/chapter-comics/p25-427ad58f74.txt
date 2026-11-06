@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 热力学定律. Story: 给保温箱查一笔热账.
+Situation: 送到山顶的点心凉了，栗栗指着保温箱说能量丢了。阿澄用热量、功和内能把去处逐项找出来。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 两个封闭模型杯，一只由热水浴加热，另一只由手摇搅拌升温，学生查看温度变化。
+PANEL 2 (ROW 1 RIGHT): 有活塞的透明模型气缸与暖水浴同桌，学生把进入系统的热筹码与压活塞的功筹码分别摆好。
+PANEL 3 (ROW 2 LEFT): 点心盒、外界空气和温度计放在同一个大框里，阿澄在两个对象之间移动同一份热筹码。
+PANEL 4 (ROW 2 RIGHT): 热杯和冷杯接触后温差变小，旁边有需要接电的迷你冰箱给出相反的温差维持过程。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

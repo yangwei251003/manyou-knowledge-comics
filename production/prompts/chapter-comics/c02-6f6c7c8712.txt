@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 海水中的重要元素——钠和氯. Story: 一粒海盐的旅行箱.
+Situation: 海洋展要给海盐写来源与用途。栗栗把盐、金属钠和氯气混成一件展品，阿澄把它们重新分柜。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 海盐晶粒与密封展示的钠金属样品分在不同展柜，阿澄对照两张性质记录，画面不做现场危险操作。
+PANEL 2 (MIDDLE): 有防护罩的水处理流程模型旁放氯的几种密封样品，学生指向使用后的废气吸收装置。
+PANEL 3 (BOTTOM): 海盐展桌上电子秤、容量瓶与同尺寸粒子筹码罐分列，栗栗试图逐粒数盐晶，阿澄把它拦下。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

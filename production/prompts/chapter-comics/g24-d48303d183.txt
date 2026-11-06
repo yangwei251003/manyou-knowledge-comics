@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 保障国家安全的资源、环境战略与行动. Story: 把绿色愿望写成能复查的行动.
+Situation: 栗栗在城市模型上贴满绿色星星。阿澄邀请居民、管理者和邻区一起写可执行、可复查的行动单。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 街区方案把节能通勤、资源回用和河岸修复摆在一起，学生以使用前后的记录检查具体做法。
+PANEL 2 (MIDDLE): 管理沙盘把空间分区、监测仪器和项目准入记录分列，阿澄追踪一项治理目标如何落到行动。
+PANEL 3 (BOTTOM): 虚构跨境海湾两边观测员对接同一套水质记录，并在会议桌共同安排监测站和协同行动。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

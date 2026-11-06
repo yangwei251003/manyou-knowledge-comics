@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 一元二次函数、方程和不等式. Story: 小围栏的大菜园.
+Situation: 学校发下等长的围栏，栗栗想围一条很长的胡萝卜跑道。阿澄要帮它在预算内多种一点。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 园艺棚的天平两盘同时加同样的配重，学生举起一张双面方向箭头卡。
+PANEL 2 (MIDDLE): 花园地面俯视，等长围栏的一种细长布局和一种方形布局用不同颜色绳子画在同一土面。
+PANEL 3 (BOTTOM): 把收成模型画在地面透明白板上，一条开口向下抛物线穿过水平基线，狐把边界点的两个旗子插稳。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

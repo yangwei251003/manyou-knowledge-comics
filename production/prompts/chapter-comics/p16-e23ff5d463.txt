@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 机械波. Story: 码头传来的水波密码.
+Situation: 栗栗在码头敲了一下水槽，远处的小漂标摇起来却没被运走。阿澄用这条线索接收水波信号。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 透明浅水槽的一端上下扰动，远处小浮子在近似固定位置上下起伏，水面波纹向外扩展。
+PANEL 2 (ROW 1 RIGHT): 水槽两张时刻照片并列，学生用尺量同一照片相邻波峰，又用时钟对照一个浮子的周期。
+PANEL 3 (ROW 2 LEFT): 俯看波纹经过水槽挡板的窄缝后向另一侧展开，旁边斜边分隔深浅水区域。
+PANEL 4 (ROW 2 RIGHT): 两处等频波源在水面发出重叠波纹，阿澄用高低反光找持续起伏较小的带。
+PANEL 5 (ROW 3 LEFT): 码头边经过的提示铃小车由远到近再离开，栗栗捂耳听到先尖后低的声音。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

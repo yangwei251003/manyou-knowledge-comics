@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 交变电流. Story: 把山里的电送到海边.
+Situation: 山间风机亮了近处小灯，海边模型城仍很暗。栗栗想把输电线换成更长一根，阿澄带它先算输电账。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 手摇发电机透明机壳内单线圈在固定磁极间转动，学生观察电表指针来回偏转。
+PANEL 2 (ROW 1 RIGHT): 同一只小电阻加热片在两套低压装置中，学生用可见温度计比较相同时间的热效果。
+PANEL 3 (ROW 2 LEFT): 变压器剖面模型用铁芯连起两组线圈，学生对比两侧绕线的疏密，画面无接线图。
+PANEL 4 (ROW 2 RIGHT): 山间发电站到海边城镇之间有架空输电塔，城镇端有变电站，狐望着亮灯的街区。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

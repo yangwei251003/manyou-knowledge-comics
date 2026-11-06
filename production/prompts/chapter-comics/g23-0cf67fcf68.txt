@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 环境安全与国家安全. Story: 一条污染羽流的追踪图.
+Situation: 港湾观测员发现异常。栗栗只在岸边捡垃圾，阿澄把污染、生态屏障与气候风险的传递链一起画出来。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 虚构海湾模型有取水口、居民区和脆弱栖息地，学生从一次异常信号追踪可能的跨区域影响。
+PANEL 2 (ROW 1 RIGHT): 水流示意槽从上游排放点经过不同停留区和下游取样站，阿澄把源头控制和中途治理分开。
+PANEL 3 (ROW 2 LEFT): 山地林带、河流廊道与湿地连接成生态网络，小动物通过走廊移动，学生比较被切断的另一方案。
+PANEL 4 (ROW 2 RIGHT): 海岸社区同时建设减排设备与适应性防护设施，学生用不同色筹码比较长期排放和近期暴露。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

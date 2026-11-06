@@ -23,7 +23,7 @@ function persist(){try{localStorage.setItem('manu-v1',JSON.stringify(saved));}ca
 function toast(t){$('#toast').textContent=t;$('#toast').classList.add('show');setTimeout(()=>$('#toast').classList.remove('show'),3000);}
 const getSub=id=>subjects.find(s=>s.id===id)||subjects[0];
 const allPoints=()=>curriculum.subjects.flatMap(s=>(s.chapters||[]).flatMap(c=>(c.points||[]).map(p=>({...p,subject:s.id,chapter:c.title}))));
-function header(active='home'){return `<header class="site-header"><a class="brand" href="#home" aria-label="漫游知识首页"><img src="./assets/favicon.svg" width="38" height="38" alt=""><span>漫游知识<small>KNOWLEDGE, IN MOTION.</small></span></a><nav aria-label="主导航"><a class="${active==='home'?'active':''}" href="#home">发现知识</a><a class="${active==='map'?'active':''}" href="#map">五科课程</a><a class="${active==='videos'?'active':''}" href="#videos">短视频</a><a class="${active==='study'?'active':''}" href="#study">我的学习</a></nav><a class="edition" href="#about"><span class="green-dot"></span>广东 · 2027届 <span class="edition-label">共建版</span></a></header>`;}
+function header(active='home'){return `<header class="site-header"><a class="brand" href="#home" aria-label="漫游知识首页"><img src="./assets/favicon.svg" width="38" height="38" alt=""><span>漫游知识<small>KNOWLEDGE, IN MOTION.</small></span></a><nav aria-label="主导航"><a class="${active==='home'?'active':''}" href="#home">发现知识</a><a class="${active==='map'?'active':''}" href="#map">五科课程</a><a class="${active==='comics'?'active':''}" href="#comics">漫画</a><a class="${active==='videos'?'active':''}" href="#videos">短视频</a><a class="${active==='study'?'active':''}" href="#study">我的学习</a></nav><a class="edition" href="#about"><span class="green-dot"></span>广东 · 2027届 <span class="edition-label">共建版</span></a></header>`;}
 function footer(){return `<footer class="site-footer"><a class="brand" href="#home">漫游知识<span class="footer-tag">让知识有画面，让理解有来路。</span></a><div><a href="#about">关于与制作边界</a><a href="#coverage">覆盖与制作台账 ↗</a></div><p>26册教材映射 · 114个教材章节 + 地理跨章工具 · 原创复习稿，教师教审尚未进行</p></footer>`;}
 function subjectChips(selected,all=true){return `<div class="subject-tabs" role="group" aria-label="选择学科">${all?`<button data-filter="all" class="subject-tab ${selected==='all'?'selected':''}">全部学科</button>`:''}${subjects.map(s=>`<button data-filter="${s.id}" class="subject-tab ${selected===s.id?'selected':''}" style="--subject:${s.color};--subject-bg:${s.bg}"><span>${s.icon}</span>${s.name}</button>`).join('')}</div>`;}
 function home(){courseLibrary.home();}
@@ -81,7 +81,7 @@ function route(){
  else if(page==='chapter')courseLibrary.chapter(id,section);
  else if(page==='formulas')courseLibrary.formulaPage(id);
  else if(page==='routes')courseLibrary.routePage(id);
- else if(page==='comics')courseLibrary.comicPage();
+ else if(page==='comics')courseLibrary.comicPage(id);
  else if(page==='videos')courseLibrary.videoPage();
  else if(page==='coverage')courseLibrary.coverage();
  else if(page==='lesson')lessonPage(id);
@@ -91,6 +91,14 @@ function route(){
  else notFound();
  window.scrollTo(0,0);
 }
+document.querySelector('.skip-link').addEventListener('click',event=>{
+ const main=document.getElementById('main');
+ if(!main)return;
+ event.preventDefault();
+ main.tabIndex=-1;
+ main.focus({preventScroll:true});
+ main.scrollIntoView({block:'start'});
+});
 window.addEventListener('hashchange',route);document.addEventListener('visibilitychange',()=>{if(document.hidden)stopPlay();});
 window.matchMedia('(prefers-reduced-motion: reduce)').addEventListener('change',e=>{if(e.matches){stopPlay();motionEnabled=false;if(location.hash.startsWith('#lesson/')&&currentLesson)renderPanel();}});
 document.addEventListener('keydown',e=>{if(!currentLesson||!location.hash.startsWith('#lesson/')||/INPUT|TEXTAREA|SELECT/.test(e.target.tagName)||pointDialog?.open)return;if(e.key==='ArrowRight'){stopPlay();setStep(lessonStep+1);}if(e.key==='ArrowLeft'){stopPlay();setStep(lessonStep-1);}});

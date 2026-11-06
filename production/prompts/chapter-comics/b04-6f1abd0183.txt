@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 细胞的物质输入和输出. Story: 细胞门口的两条快递线.
+Situation: 货物聚在细胞门口。栗栗想给每件货都付 ATP，阿澄分清顺着梯度走和需要额外条件的路线。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 开场，画清故事的起因和主角遇到的困难。
+货物聚在细胞门口。栗栗想给每件货都付 ATP，阿澄分清顺着梯度走和需要额外条件的路线。
+PANEL 2 (MIDDLE): 膜模型两侧同色小粒子疏密不同，一些小粒子通过膜，一些从开放通道通过，配一套可透水袋。
+PANEL 3 (BOTTOM): 细胞边界的两处对照展位分别用搬运车比拟逆梯度泵、用膜泡包住大包裹比拟胞吞胞吐。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

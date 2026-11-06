@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 基因的本质. Story: 哪一卷才是遗传档案.
+Situation: 实验馆把蛋白外壳和核酸档案放在同一箱。栗栗觉得外壳最大就一定携带指令，阿澄用证据逐份拆开。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 展台分列转化实验的细菌培养皿和噬菌体感染的封闭模型，学生比较被分开追踪的两种成分。
+PANEL 2 (ROW 1 RIGHT): 两条彩色梯链组成双螺旋模型，学生将一对互补形状的卡扣接在两条骨架之间。
+PANEL 3 (ROW 2 LEFT): 复制工作台的旧双链模型分开，每一条旧带旁各装配一条新颜色带，形成两套新旧配对。
+PANEL 4 (ROW 2 RIGHT): 阿澄打开一条长DNA档案，分别给有效信息段和相邻非编码区域插入不同用途的夹签，栗栗用放大镜找段落。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

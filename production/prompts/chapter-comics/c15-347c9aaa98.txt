@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 晶体结构与性质. Story: 晶体旅店的四种房型.
+Situation: 材料馆收到几块透明样品，栗栗想凭亮度分晶体。阿澄把组成微粒和连接方式一层层查出来。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 规则重复的透明积木房间与无序玻璃团并列，学生移动一块最小重复格示意晶胞。
+PANEL 2 (ROW 1 RIGHT): 样品窗一侧分子小团彼此分隔，另一侧连接成连续的共价网架，两种模型可从外到内观察。
+PANEL 3 (ROW 2 LEFT): 材料馆一侧是交替的两色离子阵列，另一侧是金属导体与自由电子海的定性模型。
+PANEL 4 (ROW 2 RIGHT): 透明展柜里一个中心球周围围着形状互补的配体模型，旁边两件形状契合的主客体拼件。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

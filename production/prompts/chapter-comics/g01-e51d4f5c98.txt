@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 宇宙中的地球. Story: 给地球写一张星际地址.
+Situation: 天文馆要寄出一张地球明信片。栗栗只写“蓝色星球”，阿澄带它补齐天体系统、太阳、历史与内部圈层。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 星空展大厅用由近及远的几个不同展台展示地月系统、太阳系与银河系的层级，角色从地球仪旁往外走。
+PANEL 2 (ROW 1 RIGHT): 观测窗外日光照亮太阳能板，另一侧封闭展屏展示太阳活动与极光情境，学生把两类资料分开。
+PANEL 3 (ROW 2 LEFT): 博物馆墙壁上从不同层位露出不同化石轮廓，阿澄沿剖面向上比较，栗栗举起年代卡。
+PANEL 4 (ROW 2 RIGHT): 明信片台旁切开的地球模型展示外薄内深的固体地球分层，外侧有海洋、空气和生命的情境图。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 基因突变及其他变异. Story: 档案哪里改动了.
+Situation: 细胞档案室找出三份不同的改动。栗栗全记成“一个字写错”，阿澄把改变放回各自的尺度。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 一张编码纸带的一处色块被替换，另一张保留原有色块但改变几段组合，学生逐一比对。
+PANEL 2 (MIDDLE): 较粗的染色体模型有片段移位和整体增减的两种对照，学生先在同一尺度分类。
+PANEL 3 (BOTTOM): 匿名家系记录桌上同一性状在几代成员间出现，阿澄用图形筹码排出不同解释，栗栗停止给单人下结论。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

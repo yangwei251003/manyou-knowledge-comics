@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 地表形态的塑造. Story: 一条河在岩石上留下的签名.
+Situation: 栗栗看到峡谷就归给河流。阿澄请它顺着岩石、构造和河流的时间顺序，看看谁先塑形、谁再改造。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 地学馆用地壳抬升岩块、地表风化碎片与河流搬运沉积的小型连续场景，学生从源头追踪颗粒。
+PANEL 2 (MIDDLE): 两份透明地层剖面模型分别展示弯曲岩层和沿断裂错动的岩层，阿澄指着拱起结构与被侵蚀的顶部。
+PANEL 3 (BOTTOM): 虚构河流沿上游峡谷、中游弯道、下游宽平沉积区蜿蜒而过，学生比较弯道内外岸的地形。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

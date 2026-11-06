@@ -1,0 +1,17 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 原子结构和波粒二象性. Story: 光点留下的五份口供.
+Situation: 一块感光板突然没有响应。栗栗想把光只当成小球，阿澄打开原子档案，查每个实验到底支持哪条说法。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 天文实验展中不同温度的黑体炉孔呈现不同颜色，桌上用一格一格光筹码表示离散能量交换。
+PANEL 2 (ROW 1 RIGHT): 封闭光电管分别受到强红光和较弱紫光照射，学生查看发射信号，画面保持仪器示意。
+PANEL 3 (ROW 2 LEFT): 粒子散射展台前一块极薄金属箔，屏上多数光点近直行方向，少数远离中心，仪器有安全封罩。
+PANEL 4 (ROW 2 RIGHT): 棱镜后的氢气放电展出现离散彩色谱线，学生在另一块玻璃上摆离散能级阶梯模型。
+PANEL 5 (ROW 3 LEFT): 电子衍射封闭装置的屏出现同心亮暗环，栗栗把粒子筹码与波纹纸并排。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.
+
+ImageGen revision:
+Edit only the top-right panel of this six-panel educational comic. Preserve 2 columns × 3 rows, all other panels, faces, props and gutters. The left phototube is illuminated by the visibly bright deep-red lamp below threshold. Its monitor must show only one thin flat horizontal green line at the baseline, without any step, spike or glow to suggest emission. The right phototube receives violet light above threshold; its monitor retains a clear step up. Keep the two devices distinct. Keep all other panels unchanged. No text or numbers.

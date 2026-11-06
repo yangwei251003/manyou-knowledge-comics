@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 复数. Story: 需要转弯的数字.
+Situation: 栗栗的寻宝地图只有一条直轨。第二道机关要转一个直角，阿澄决定给数字再添一个方向。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 实数轨道旁展开一张正交网格，学生把同一枚定位旗在水平轴两侧做上下镜像。
+PANEL 2 (MIDDLE): 俯看工作台上的旋转机关，学生把一支向右箭头绕共同起点逆时针转到朝上。
+PANEL 3 (BOTTOM): 探照灯轮盘上同一支箭被放长并转向，栗栗沿光束找到钥匙。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

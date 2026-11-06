@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 电磁感应与电磁波初步. Story: 灯塔发来的暗号.
+Situation: 海边模型灯塔熄了，栗栗想靠一块磁铁让灯一直亮。阿澄带它找出从磁场到信号的关键变化。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 木桌上条形磁铁旁散布几只小指南针，学生移动一枚指南针观察不同位置方向。
+PANEL 2 (ROW 1 RIGHT): 学生改变一只方形线框面对磁极的倾角，栗栗用一块亮色板表示线框的有效投影。
+PANEL 3 (ROW 2 LEFT): 一块磁铁正被移入连接灵敏表的线圈，另一个并列样机磁铁停在原处。
+PANEL 4 (ROW 2 RIGHT): 海岸一端无线电发射天线与另一端的小接收机分别架在山坡，狐狸听见接收提示声。
+PANEL 5 (ROW 3 LEFT): 夜色中阿澄将一束彩光引到感应面，栗栗把若干同颜色小光珠放入托盘作离散类比。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

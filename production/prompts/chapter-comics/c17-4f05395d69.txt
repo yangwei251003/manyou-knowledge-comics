@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 烃. Story: 碳骨架赛车场.
+Situation: 栗栗看见三辆都由碳氢积木拼成的小车，决定给它们同一张通行证。阿澄按连接和反应路线重新分组。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 维修桌上直链和支链积木车由可转动的单连接件组成，学生把模型绕单键转动。
+PANEL 2 (MIDDLE): 第二辆积木车的某个连接处用较刚性的双线连接，旁边有两个小连接件准备加入。
+PANEL 3 (BOTTOM): 最后一辆车用稳定的六元环轮毂表示芳香骨架，阿澄在环边和侧链两处分别放可替换的小旗。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

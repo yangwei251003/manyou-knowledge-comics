@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 成对数据的统计分析. Story: 冰饮销量的嫌疑人.
+Situation: 栗栗发现冰饮卖得多时泳池也更热闹，准备给泳池记一笔功劳。阿澄先检查这两本账。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 两本日记账旁的散点卡片形成倾斜点云，窗外有明显的炎热晴天，学生观察第三个因素。
+PANEL 2 (MIDDLE): 透明散点板上一条直线穿过点云附近，学生从点到线量竖直残差，栗栗举起平方纸片。
+PANEL 3 (BOTTOM): 四格柜把泳池来客按两类身份与两类购买结果分类，学生比较实放筹码与透明预期筹码。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

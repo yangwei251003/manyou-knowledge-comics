@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 一元函数的导数及其应用. Story: 坡道计时员的一瞬间.
+Situation: 山地小车在弯坡上忽快忽慢。栗栗拿整段平均速度报喜，阿澄想知道过线那一瞬发生了什么。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 透明观察窗上的弯曲轨迹取两个靠近的点，学生移动其中一个小磁点，让跨过两点的细杆贴近局部方向。
+PANEL 2 (MIDDLE): 车间内两个串接齿轮级传递转动，栗栗数第一层变化，阿澄继续追第二层。
+PANEL 3 (BOTTOM): 山坡侧视，学生在高点和低点之间逐段比局部斜率方向，栗栗同时站在坡端的检查点。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

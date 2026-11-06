@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 组成细胞的分子. Story: 一间细胞的补给清单.
+Situation: 栗栗给“细胞城”订了一车白糖。阿澄把仓库分出材料、水盐、燃料、工作件和信息五个柜。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 补给站内彩色小积木被按元素和组合方式分箱，学生从同一批材料拼出几件不同样品。
+PANEL 2 (ROW 1 RIGHT): 一侧是浸在水里的细胞模型，另一侧用海绵束缚的水与自由水小滴比拟不同状态，并有盐分筹码。
+PANEL 3 (ROW 2 LEFT): 储藏室把糖链与脂质的不同模型放在能量和结构两个货位，栗栗用小车运来油滴图标。
+PANEL 4 (ROW 2 RIGHT): 氨基酸串珠在工作台折成立体工具，学生把变形的工具与被剪成短段的链分别放置。
+PANEL 5 (ROW 3 LEFT): 信息柜里双股和单股的彩色编码带并列，学生用碱基次序卡帮助找回丢失的订单。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

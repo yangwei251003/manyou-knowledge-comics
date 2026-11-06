@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 自然环境的整体性与差异性. Story: 拔掉一片林，变了哪些事.
+Situation: 栗栗把山坡的一块树片从模型上拿走，发现河道也变了。阿澄让它再沿海岸、内陆和海拔梯度走一遍。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 开场，画清故事的起因和主角遇到的困难。
+栗栗把山坡的一块树片从模型上拿走，发现河道也变了。阿澄让它再沿海岸、内陆和海拔梯度走一遍。
+PANEL 2 (MIDDLE): 同一虚构山坡的有林和扰动后裸地对比，土壤、径流和下游水色分别呈现，学生按链条观察。
+PANEL 3 (BOTTOM): 一张跨湿润海岸到较干内陆的横向地景与一座分海拔带的高山并列，阿澄用不同观测框框选。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

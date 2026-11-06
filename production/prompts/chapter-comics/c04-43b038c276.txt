@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 物质结构 元素周期律. Story: 原子街区的搬家规则.
+Situation: 栗栗给原子住户按质量从轻到重排门牌。阿澄发现邻居的化学性格对不上，决定按结构重排。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 桌面像一座分层街区，学生把彩色原子住户卡按规律放进周期表形状的空格，卡面无文字。
+PANEL 2 (MIDDLE): 一排大小渐变的原子轮廓筹码在两条横纵对照轨道上移动，学生只比较同一方向的一组。
+PANEL 3 (BOTTOM): 阿澄用带电积木的吸引模型和两只共享同一对筹码的模型对照两种成键关系。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

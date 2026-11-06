@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 传感器. Story: 会自己开灯的书柜.
+Situation: 栗栗希望走近书柜才亮灯。阿澄把“看见人”和“执行开灯”拆成两件事，避免一阵阳光就误触发。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 书柜样机旁有光、温度与压力三种探测小部件，阿澄用手遮住光探头观察指示灯。
+PANEL 2 (MIDDLE): 工作台上遮光板和温热杯隔开作用于不同小元件，学生比较光敏和热敏器件的输出响应。
+PANEL 3 (BOTTOM): 阿澄在书柜把探测、低压控制盒与灯分开放置，栗栗用手在探头前试出两种不同触发条件。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

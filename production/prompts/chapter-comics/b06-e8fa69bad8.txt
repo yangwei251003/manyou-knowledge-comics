@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 细胞的生命历程. Story: 一批同样的细胞领到不同工牌.
+Situation: 栗栗给新生细胞发了完全一样的工作单。阿澄发现，有的要分裂，有的要专职工作，有的还要按程序离开。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 细胞分裂展台上依次摆出复制准备、染色体排列与分开的几个大形状模型，避免精确条数。
+PANEL 2 (MIDDLE): 微缩组织城中同源起点的细胞模型走进肌肉、神经和表皮三个工作站，各自更换工作工具。
+PANEL 3 (BOTTOM): 组织修复场景中一只旧细胞按有序拆件退场，旁边把非正常受损模型分开记录。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.
+
+ImageGen revision:
+Edit the provided 3-horizontal-panel biology comic. Preserve the girl, fox, 3-panel borders, the bottom two panels, and all other models. In the TOP panel, replace only the second-from-right clear oval mitosis anaphase model. It is the clear oval between the 4 X chromosome metaphase model and the two daughter cell models. Inside that oval show exactly FOUR separated simple chromatids moving toward the top pole (two violet, two rose), and exactly FOUR toward the bottom pole (two violet, two rose). No extra rods, no X shapes in this particular model, no text. Match the count of four X shapes in the previous model. All other art stays as is.

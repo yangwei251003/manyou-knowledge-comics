@@ -1,0 +1,15 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 电能 能量守恒定律. Story: 会累的电池.
+Situation: 夜市模型的电池看着还有电，一开大灯电压却掉了。阿澄把电源内部也画进能量账本。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 实验台上同一个小电源接一盏灯和一台小电机两种演示负载，学生观察发光、转动与发热。
+PANEL 2 (ROW 1 RIGHT): 带电池和可调负载的低压台架，学生先断开负载再接上，比较同一只表的读数。
+PANEL 3 (ROW 2 LEFT): 学生沿纵向截距和斜率观察一张没有数值的下斜直线数据图，电池在旁。
+PANEL 4 (ROW 2 RIGHT): 天亮后两人把照明任务拆成太阳能供电、储能和节能三种设备，栗栗关掉没用的灯。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.
+
+ImageGen revision:
+Edit the supplied finished four-panel comic to correct a science drawing. Preserve the exact four equal panels in a 2 by 2 grid, all artwork in the other three panels, the characters and the energy story. Replace only TOP RIGHT: two close shots stacked in the same quadrant, showing the same closed battery tester with a mechanical gauge built into its housing. Opaque enclosure hides all internal circuitry. The top shot shows the mechanical load switch open and the gauge needle relatively high. The bottom shot shows switch closed and the needle lower. Clearly show same tester and load switch, no exposed wires, no claimed numerical data. No letters, words, or symbols anywhere. Keep warm inked print texture and existing cream gutters.

@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 分子结构与性质. Story: 同样的键，为什么性格不同.
+Situation: 栗栗拿两根极性键就给整个分子盖了“极性”章。阿澄转动空间模型，要它先看各方向能不能抵消。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 原子模型演示柜里两种轨道重叠外形分别呈轴向和侧向，学生用透明色片比较重叠区域。
+PANEL 2 (MIDDLE): 桌上放对称直线形和折线形分子模型，阿澄用小球代表中心附近的价层电子对。
+PANEL 3 (BOTTOM): 两支相反方向的纸箭在对称模型旁互相抵消，折线模型的两支同色小箭留下合方向，狐狸侧头观察。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.
+
+ImageGen revision:
+Edit the MIDDLE panel only of this three-row comic. Keep the same 3 rows and the upper and lower art intact. In the middle panel the straight molecule model on the LEFT has only its central gray sphere and its two red terminal spheres; remove every yellow bead and bead post from this model. The bent molecule model on the RIGHT keeps its V shaped bonds to the two red terminal spheres. Add exactly TWO little pairs of yellow beads ABOVE its central gray sphere, a pair at upper left and another pair at upper right, as schematic lone-pair markers. The student's hands gesture at these models, not holding extra beads. No letters, captions or other changes.

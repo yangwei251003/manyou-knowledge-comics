@@ -1,0 +1,16 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 三角函数. Story: 摩天轮的影子彩排.
+Situation: 夜场灯光要追着座舱跑，栗栗的口令却每转一圈就乱。阿澄用一个圆、两条影子和三只旋钮排练。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 8 equal rectangular frames. 2 column(s) by 4 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 从上方看巨型圆形排练台，学生拉出同圆半径的一段等长柔绳贴在圆弧边，狐狸沿圆边走。
+PANEL 2 (ROW 1 RIGHT): 圆盘上的亮点向水平和竖直两条互相垂直的标尺投影，学生分别接住两块影子筹码。
+PANEL 3 (ROW 2 LEFT): 舞台圆盘的灯点与竖直镜面对称成一对，另有一枚实体灯片可绕圆心转半周。
+PANEL 4 (ROW 2 RIGHT): 圆周座舱的竖直影子随传送纸带逐点留下连续平滑的波线，学生拉开纸带。
+PANEL 5 (ROW 3 LEFT): 两只同轴转盘先后旋转，阿澄用两层透明箭头叠出总角，狐拿标尺比投影。
+PANEL 6 (ROW 3 RIGHT): 调音台三个没有刻字的旋钮分别对应三条不同形态的彩灯带，学生对比波高、疏密和整体水平位置。
+PANEL 7 (ROW 4 LEFT): 真正的摩天轮亮灯，栗栗的座舱上升经过视窗，阿澄在控制台核对时钟和座舱高度。
+PANEL 8 (ROW 4 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

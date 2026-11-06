@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 走近细胞. Story: 显微镜里的第一位居民.
+Situation: 水滴里有个影子动了一下。栗栗找来整块叶子想看清，阿澄先把镜头对准能独立完成生命活动的单位。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 开场，画清故事的起因和主角遇到的困难。
+水滴里有个影子动了一下。栗栗找来整块叶子想看清，阿澄先把镜头对准能独立完成生命活动的单位。
+PANEL 2 (MIDDLE): 显微台上叶片切片和一滴池水分别制片，窗中一个独立单细胞生物与叶片多个相连细胞作对照。
+PANEL 3 (BOTTOM): 两张观察片并列，一张显示带明显细胞核的真核细胞，一张显示没有膜包围细胞核的细菌轮廓，角色调镜头。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

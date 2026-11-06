@@ -1,8 +1,10 @@
 import assert from 'node:assert/strict';
 import {readFile,access} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
 import {courseSubjects,chapters,sections,knowledge,formulas,routes,pilotAssets} from '../content/courses.js';
 import {conicState,magneticState,solarState,photoState} from '../src/precision-models.js';
 import {legacyChapterMap} from '../content/legacy-links.js';
+import {storyFor} from '../content/stories/index.js';
 const root=new URL('../',import.meta.url);
 const {books}=JSON.parse(await readFile(new URL('content/books.json',root),'utf8'));
 const old=JSON.parse(await readFile(new URL('content/curriculum.json',root),'utf8'));
@@ -37,6 +39,49 @@ for(const r of routes){
 }
 assert.equal(new Set(routes.flatMap(r=>r.path)).size,chapters.length,'Some chapters are absent from all thematic routes');
 for(const [id,a] of Object.entries(pilotAssets)){assert(chapters.some(c=>c.id===id));await access(new URL(a.file,root));}
+
+const {generator, artworks} = JSON.parse(await readFile(new URL('content/chapter-comic-art.json', root), 'utf8'));
+assert.equal(generator, 'built-in image_gen');
+assert.equal(Object.keys(artworks).length, chapters.length, 'Every chapter needs an approved comic page');
+const comicHashes = new Set();
+let previewBytes = 0;
+const comicSectionIds = [];
+const comicKnowledgeIds = [];
+let storyPanelCount = 0;
+for (const chapter of chapters) {
+ const story = storyFor(chapter);
+ const art = artworks[chapter.id];
+ assert(story?.title && story.premise && art?.review, `Missing chapter comic or visual review ${chapter.id}`);
+ assert.equal(art.panelBounds.length, story.panels.length, `Panel count mismatch ${chapter.id}`);
+ assert.deepEqual(art.sectionIds, chapter.sections.map(section => section.id));
+ for (const [left, top, right, bottom] of art.panelBounds) {
+  assert(left >= 0 && top >= 0 && left < right && top < bottom && right <= art.width && bottom <= art.height,
+    `Invalid crop bounds ${chapter.id}`);
+ }
+ for (const panel of story.panels) {
+  assert(panel.visual && panel.discovery, `Empty scene ${chapter.id}`);
+  if (!panel.section) continue;
+  assert(panel.question, `Missing story dialogue ${panel.section.id}`);
+  comicSectionIds.push(panel.section.id);
+  comicKnowledgeIds.push(...panel.section.knowledge.map(point => point.id));
+ }
+ const bytes = await readFile(new URL(art.file, root));
+ assert.equal(bytes.toString('ascii', 8, 12), 'WEBP', `Invalid WebP ${chapter.id}`);
+ assert.equal(bytes.length, art.bytes);
+ assert.equal(createHash('sha256').update(bytes).digest('hex'), art.sha256, `Media hash mismatch ${chapter.id}`);
+ const preview = await readFile(new URL(art.preview.file, root));
+ assert.equal(preview.toString('ascii', 8, 12), 'WEBP', `Invalid preview ${chapter.id}`);
+ assert.equal(preview.length, art.preview.bytes);
+ assert(preview.length < bytes.length, `Preview exceeds original ${chapter.id}`);
+ assert.equal(createHash('sha256').update(preview).digest('hex'), art.preview.sha256, `Preview hash mismatch ${chapter.id}`);
+ previewBytes += preview.length;
+ assert(!comicHashes.has(art.originalSha256), `Chapter reuses another original image ${chapter.id}`);
+ comicHashes.add(art.originalSha256);
+ assert((await readFile(new URL(art.prompt, root), 'utf8')).trim(), `Missing prompt ${chapter.id}`);
+ storyPanelCount += story.panels.length;
+}
+assert.deepEqual(comicSectionIds, sections.map(section => section.id));
+assert.deepEqual(comicKnowledgeIds, knowledge.map(point => point.id));
 // Independent calculations for selected high-risk formulas and authored examples.
 assert.equal((60*(10+2)),720); // acceleration vs apparent weight
 assert.equal(.01*100/.2,5); // N times flux change, not N times total flux
@@ -60,5 +105,5 @@ assert.equal(solarState(30,10).height,70);assert.equal(solarState(-30,10).height
 assert.equal(photoState(10,2).net,8);assert.equal(photoState(0,2).net,-2);
 const videoManifest=JSON.parse(await readFile(new URL('production/video-manifest.json',root),'utf8'));
 for(const v of videoManifest.videos){await access(new URL(v.file,root));await access(new URL(v.poster,root));await access(new URL(v.captions,root));assert(v.rendered&&v.duration>0);}
-const summary={checkedAt:new Date().toISOString(),textbookBooks:26,textbookChapters:chapters.filter(c=>!c.book.endsWith('tools')).length,supplementaryChapters:1,sections:sections.length,knowledge:knowledge.length,relations:formulas.length,originalChapterExamples:chapters.length,actualComicPages:Object.keys(pilotAssets).length,actualVideoFiles:videoManifest.videos.length,fullVideoListeningReview:false,teacherReview:'not-performed',realStudentStudy:'not-performed'};
+const summary={checkedAt:new Date().toISOString(),textbookBooks:26,textbookChapters:chapters.filter(c=>!c.book.endsWith('tools')).length,supplementaryChapters:1,sections:sections.length,knowledge:knowledge.length,relations:formulas.length,originalChapterExamples:chapters.length,chapterComicPages:comicHashes.size,storyPanels:storyPanelCount,storySections:comicSectionIds.length,storyKnowledgeNotes:comicKnowledgeIds.length,previewBytes,additionalFocusedComics:Object.keys(pilotAssets).length,actualVideoFiles:videoManifest.videos.length,fullVideoListeningReview:false,teacherReview:'not-performed',realStudentStudy:'not-performed'};
 console.log(JSON.stringify(summary,null,2));

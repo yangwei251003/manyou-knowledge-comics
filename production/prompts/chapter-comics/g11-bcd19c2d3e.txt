@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 环境与发展. Story: 城市更新的三本账.
+Situation: 栗栗要在河岸填出一大片商场。阿澄拿环境、民生和长远用地三本账一起讨论。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 城市河道上游工地、排水口与下游水体变化在同一虚构剖面中相连，学生对比不同时间的样本。
+PANEL 2 (MIDDLE): 两套河岸规划模型分别呈现高强度开发和保留缓冲带并改造公共空间，角色用三类筹码评估。
+PANEL 3 (BOTTOM): 展览用虚构区划拼图展示城市群协作与海岸空间管理，阿澄将实际目标、区域条件和执行措施分别归档。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

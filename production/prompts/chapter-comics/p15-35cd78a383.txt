@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 机械振动. Story: 钟塔慢了一拍.
+Situation: 模型钟塔的报时落后。栗栗越推越猛，阿澄先查振动的周期与能量，再决定如何校时。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 工作台小弹簧振子在光滑直槽中往复，阿澄标出居中的平衡位置，栗栗盯着左右极端位置。
+PANEL 2 (ROW 1 RIGHT): 透明轨道旁贴出振子几次等间隔快照，学生把其中一个重复状态与下一次相同状态配对。
+PANEL 3 (ROW 2 LEFT): 学生给振子的平衡位置与两个端点分别摆出动能和势能的彩色筹码，狐观察快慢。
+PANEL 4 (ROW 2 RIGHT): 钟塔检修平台上摆着一只细绳小摆角的摆球，阿澄换用较长的悬线对照。
+PANEL 5 (ROW 3 LEFT): 学生用刻度尺从悬点量到球心，旁边由计时员在小角往复过程中记录多个完整周期。
+PANEL 6 (ROW 3 RIGHT): 钟塔旁的秋千模型被阿澄有节奏地轻推，栗栗看见接近同节拍时摇幅变大。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

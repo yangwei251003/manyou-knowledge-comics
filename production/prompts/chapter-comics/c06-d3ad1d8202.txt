@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 化学反应与能量. Story: 一场反应的冷热和快慢.
+Situation: 科学节的冷热实验到点没变化。栗栗说吸热就不可能发生，阿澄把能量、速度和限度分开核对。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 开场，画清故事的起因和主角遇到的困难。
+科学节的冷热实验到点没变化。栗栗说吸热就不可能发生，阿澄把能量、速度和限度分开核对。
+PANEL 2 (MIDDLE): 两个隔热模型杯用不同颜色热筹码表示吸热和放热，外有温度计，学生先测环境。
+PANEL 3 (BOTTOM): 同一反应的两个封闭模型容器用不同速度的筹码移动演示，最后各有两类筹码共存。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 化学与可持续发展. Story: 给校园补给站做一份绿账.
+Situation: 栗栗给所有包装换成绿色，宣布完成环保任务。阿澄请它从原料、使用和废物三段算清楚。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 校园展台上从矿石、原油分馏模型、海水到产品的不同路线并列，学生比较原料流向。
+PANEL 2 (MIDDLE): 学生把清洁用品、肥料和药品在独立柜格按安全用途归置，狐狸把一只无标识瓶交给老师。
+PANEL 3 (BOTTOM): 两条微型生产线各产出同量成品，一侧有多余废物筹码，另一侧把更多进料用进目标产品。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

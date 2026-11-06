@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 地图判读与区域定位（跨章工具）. Story: 迷路的地图摄影队.
+Situation: 栗栗把一张地图顺时针转了半圈，仍喊“上边就是北”。阿澄用四步带摄影队找到正确观察点。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 桌上经纬网地球仪、可转方向的虚构地图和比例尺短杆分列，角色先找参考方向与基准位置。
+PANEL 2 (ROW 1 RIGHT): 手工山地模型切出一条剖面，同时在俯视板上有疏密不同的闭合等高线与山谷沟槽。
+PANEL 3 (ROW 2 LEFT): 地图桌上只画虚构海岸轮廓、山河和经纬带，阿澄把相似的空间特征与真实地图另册对照。
+PANEL 4 (ROW 2 RIGHT): 摄影队来到目标山坡，桌上三张卡分列观察记录、机制草图和方案对照，狐狸给每张选出一条证据。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

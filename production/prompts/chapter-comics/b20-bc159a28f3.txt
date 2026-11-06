@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 生态系统及其稳定性. Story: 湿地里一张走不回头的能量票.
+Situation: 栗栗把能量票和物质票混进同一回收箱。阿澄带它沿湿地的食物网、物质循环和信息路线走一圈。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 湿地剖景显示植物、取食者、枯枝分解和水土阳光，学生在观察窗外画出研究边界。
+PANEL 2 (ROW 1 RIGHT): 河岸营养层级用从植物到不同取食者的几摞逐层变小的金色能量筹码示意，外围有散出的热纹。
+PANEL 3 (ROW 2 LEFT): 枯叶经分解回到土壤的湿地观察场景，与植物重新获取物质的根系剖面相连，颜色区别于能量筹码。
+PANEL 4 (ROW 2 RIGHT): 湿地观察员在不打扰动物的位置观察鸟鸣、花香与求偶动作，栗栗把三种信号记到不同卡片。
+PANEL 5 (ROW 3 LEFT): 遭遇小扰动的多物种湿地和简化水池并列，学生在一段时间内复查恢复状态。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

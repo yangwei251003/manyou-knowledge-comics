@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 烃的衍生物. Story: 官能团换乘站.
+Situation: 合成地图上同一辆“碳骨架列车”停在不同站台。栗栗想一路直达，阿澄给每次换乘配上条件。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 换乘站模型里一枚可替换的卤素色积木被从碳骨架旁取下，旁边另有脱去部件形成新连接的路线板。
+PANEL 2 (ROW 1 RIGHT): 两个模型车分别把同色羟基标记贴在一般碳和芳香环上，学生把它们停到不同检验窗。
+PANEL 3 (ROW 2 LEFT): 柜台上羰基结构样件分别放在链端与链内，学生对照受控的氧化检验和还原条件卡，瓶子均封闭。
+PANEL 4 (ROW 2 RIGHT): 羧酸与酯的两个积木模型旁摆可取下的小连接件，阿澄把成品和水解产物分托盘归置。
+PANEL 5 (ROW 3 LEFT): 终点的大图板用可移动的几条路线连接目标样品和原料箱，狐划掉一条会伤到别的官能团的支线。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

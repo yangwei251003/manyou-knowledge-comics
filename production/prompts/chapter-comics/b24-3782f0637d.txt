@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 基因工程. Story: 给细胞寄一封能读懂的信.
+Situation: 栗栗把一段信息塞进细胞就想收成品。阿澄先配工具、选择送信载体，再检查收件方有没有正确读出来。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 工具台上的环形载体模型有可打开的拼接处，学生用不同形状的小工具比拟切割与连接。
+PANEL 2 (ROW 1 RIGHT): 桌上的流程依次展示获得目的片段、构建载体、导入受体、分开筛选和表达检测样品。
+PANEL 3 (ROW 2 LEFT): 应用展示窗中药用蛋白生产与作物性状研究分开，学生拿两份验证记录分别核对产物。
+PANEL 4 (ROW 2 RIGHT): 阿澄从目标蛋白的一个需要改变的表面部位出发，比对结构模型和上游序列信息带。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 水溶液中的离子反应与平衡. Story: 透明烧杯里的暗流.
+Situation: 四杯水看着一样，栗栗想用一条酸碱口诀全猜出来。阿澄带它沿溶液中同时存在的平衡寻找证据。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 水溶液展桌上两种离子化程度的粒子磁贴模型和导电检测装置并列，学生比较散开的筹码比例。
+PANEL 2 (ROW 1 RIGHT): 学生对不同清液分别使用指示色卡和电子测量仪，狐抱住一只同温对照杯。
+PANEL 3 (ROW 2 LEFT): 几杯不同盐溶液在检查台上，学生把可能与水作用的离子筹码从观察者筹码中挑出。
+PANEL 4 (ROW 2 RIGHT): 透明杯底有固体沉淀，阿澄将溶液离子筹码与底部晶粒分别摆放，栗栗拿走一类筹码。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

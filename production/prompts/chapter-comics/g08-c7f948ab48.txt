@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 乡村和城镇. Story: 旧街的新用途.
+Situation: 一条老街要更新，栗栗想把每栋房都换成一样的店。阿澄沿居住、交通和文化痕迹设计改造。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 虚构城镇俯瞰商业街、住区和工业仓储的分布，学生将租金、道路与人流图层叠放。
+PANEL 2 (MIDDLE): 旧镇与扩展新区的对照远景，住区向外扩展并伴随通勤和公共服务需求，狐比较不同年份照片。
+PANEL 3 (BOTTOM): 老街骑楼式遮雨廊和当地活动被保留，旁边新站与公共空间融入街景，学生听居民讲使用习惯。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

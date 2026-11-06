@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 指数函数与对数函数. Story: 找不到楼层的升降梯.
+Situation: 一座图书塔按倍率扩容，旧电梯只会显示藏书倍数。栗栗要找到存放同一本书的新楼层。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 图书塔模型每升一层，一组积木书架按固定比例扩展。
+PANEL 2 (ROW 1 RIGHT): 透明电梯井里，两列小灯从相同高度出发，一列间距逐渐扩大，另一列逐渐收紧。
+PANEL 3 (ROW 2 LEFT): 栗栗抱着一箱书反向操作电梯拨盘，阿澄把几组比例筹码依次配对。
+PANEL 4 (ROW 2 RIGHT): 两张透明坐标片在斜向镜面两边配对，阿澄交换一对标记点的横纵位置。
+PANEL 5 (ROW 3 LEFT): 检修小车在一排有冷热两色提示灯的格子中不断折半搜索，最终停在一扇书库门。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 统计. Story: 谁代表整座运动场.
+Situation: 运动会想增加休息点，栗栗只采访了跑得最快的一队。阿澄带着它重做调查。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 体育场看台上不同颜色队伍对应不同抽样箱，学生依各组规模抽取圆形牌。
+PANEL 2 (MIDDLE): 数据筹码放在一条平衡板上，一组靠近中间，另一组两边分散。
+PANEL 3 (BOTTOM): 办公桌前匿名调查卡化成不同大小的分布筹码，学生在纸上划分总体和样本。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

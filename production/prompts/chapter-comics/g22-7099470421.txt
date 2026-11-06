@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 资源安全与国家安全. Story: 守住补给线的四间仓库.
+Situation: 暴雨堵住一条运输线，栗栗才发现仓库满也可能断供。阿澄从总供给、能源、粮食和海洋空间四处查韧性。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 仓库沙盘有多条供应路线，其中一条被落石阻断，学生比较储备、替代路线和需求端调节。
+PANEL 2 (ROW 1 RIGHT): 能源模型同框有传统电源、风光发电、储能与跨区电网，阿澄用不同季节的负荷卡测试。
+PANEL 3 (ROW 2 LEFT): 虚构农业区有保留耕地、灌排、水土质量观察和粮食仓，学生从田间追到运输储存。
+PANEL 4 (ROW 2 RIGHT): 海岸空间沙盘上渔业、港口、航线与生态保护区分开布局，地图是虚构地景，学生协调多种需求。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

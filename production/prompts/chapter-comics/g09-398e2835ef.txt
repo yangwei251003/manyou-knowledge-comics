@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 产业区位因素. Story: 同一条街的三张选址单.
+Situation: 栗栗把菜园、加工厂和咖啡店都放到地图正中。阿澄给三位经营者分别找最适合的地点。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 河谷菜地与近郊温室并排，学生从坡面、水源、土壤、路网和冷链车判断选择。
+PANEL 2 (MIDDLE): 加工厂模型在港口原料、劳动力社区与配送网络之间比较，阿澄移动小厂房棋子。
+PANEL 3 (BOTTOM): 商业街地图上社区小店与面向更大客流的中心服务点分开，学生观察步行圈和换乘站。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

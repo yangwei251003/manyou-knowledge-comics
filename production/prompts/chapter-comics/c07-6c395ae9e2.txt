@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 有机化合物. Story: 便当盒里的有机线索.
+Situation: 栗栗把饮料、塑料盒和午餐全贴上同一个“有机”标签。阿澄带它从碳骨架走到物质性质。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 餐桌旁用少量彩色积木搭直链、支链和环状的碳骨架示意，阿澄对照同一盒积木的不同连接。
+PANEL 2 (ROW 1 RIGHT): 一串小扣件首尾连成柔长的链，旁边是薄塑料膜与密闭有机反应模型。
+PANEL 3 (ROW 2 LEFT): 两只密封样品瓶配醇与酸的模型卡，学生在旁把一张香味样品封好作展品。
+PANEL 4 (ROW 2 RIGHT): 便当桌上米饭、蛋类与油滴模型分别放在三个托盘，阿澄用不同“拆件”卡追踪水解。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

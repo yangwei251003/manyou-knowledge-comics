@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 合成高分子. Story: 给雨衣换一身分子骨架.
+Situation: 雨衣样片一加热就变样，栗栗以为所有塑料都能反复熔融。阿澄从聚合方式追到实际材料。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 开场，画清故事的起因和主角遇到的困难。
+雨衣样片一加热就变样，栗栗以为所有塑料都能反复熔融。阿澄从聚合方式追到实际材料。
+PANEL 2 (MIDDLE): 高分子作坊两组积木装配路线，一组由不饱和单元连成长链，一组连接时有小部件移出，均为无符号模型。
+PANEL 3 (BOTTOM): 雨衣材料测试台上柔性长链模型与交联网络模型分别受热和拉伸，学生为新样片挑选用途。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

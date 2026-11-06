@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 电磁感应. Story: 一块让车慢下来的铜板.
+Situation: 滑车从磁轨经过时，明明没碰刹车却慢了。栗栗想找隐藏摩擦，阿澄沿磁通变化查出电流去了哪里。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 学生让条形磁铁接近和离开一只连接灵敏表的线圈，两个不同状态用前景与投影示意。
+PANEL 2 (ROW 1 RIGHT): 同一磁铁和线圈旁，学生比较同样位移的快推和慢推，桌上放着计时器。
+PANEL 3 (ROW 2 LEFT): 相同摆臂一边挂整块铜板，另一边挂开槽铜板，二者依次扫过两磁极间的空隙。
+PANEL 4 (ROW 2 RIGHT): 两只不接触的线圈并排，阿澄切换一侧低压电路，栗栗观察另一侧表头的短暂变化。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 立体几何初步. Story: 纸城建筑师.
+Situation: 阿澄和栗栗用一叠卡纸建迷你车站。评审要看实物、看图纸，还要查屋顶和立柱。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 纸模桌上一张展开的立方体纸网正被学生折回，狐拿夹子对齐相邻棱。
+PANEL 2 (ROW 1 RIGHT): 同一纸城模型和正面、侧面、斜视草图并排，阿澄从侧面举起观察框。
+PANEL 3 (ROW 2 LEFT): 同底同高的透明圆锥和直圆柱在沙盘上，学生用圆锥向圆柱倒沙。
+PANEL 4 (ROW 2 RIGHT): 透明面板穿过立方体模型，栗栗沿着两根方向不同且不相交的立体棱试图牵线。
+PANEL 5 (ROW 3 LEFT): 地铁模型直轨在透明屋顶之下，轨道方向与屋顶内的直杆一致而不在屋顶内。
+PANEL 6 (ROW 3 RIGHT): 学生用竖直立柱与地面两条相交轨线做直角检验，狐狸用小水平尺模仿验收。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

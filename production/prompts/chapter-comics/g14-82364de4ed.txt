@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 大气的运动. Story: 天气播报员忘了看上游.
+Situation: 栗栗站在窗边看见乌云就要播报一周天气。阿澄让它把过境系统、全球环流和当地气候分三张图看。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 观测台把气团交界剖景和地面天气站的过境前后照片并排，阿澄比对温度、风和降雨，不画未经标注的锋线符号。
+PANEL 2 (MIDDLE): 气候馆用分层地球仪和几条可移动的纬向彩带示意气压带、风带，学生移动太阳直射提示卡。
+PANEL 3 (BOTTOM): 虚构地中海式海岸的夏季干燥与冬季降雨作同地点季节对照，学生将两张控制条件卡轮换。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

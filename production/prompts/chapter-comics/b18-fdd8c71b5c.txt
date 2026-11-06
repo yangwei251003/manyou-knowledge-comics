@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 种群及其动态. Story: 池塘里到底有多少邻居.
+Situation: 栗栗隔岸数了几只青蛙就要报全池数量。阿澄先选抽样方法，再观察一年里种群为什么涨跌。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 池塘岸边学生在植物区放随机样方，在动物观察板上比对标记个体与再次遇见的个体。
+PANEL 2 (MIDDLE): 两只池塘模型一个资源充足，一个有有限空间，学生对照种群记录的陡增与趋稳两种曲线草图。
+PANEL 3 (BOTTOM): 同一池塘的不同季节观测卡上食物、水位和天敌有变化，学生分别记录出生、死亡、迁入和迁出。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

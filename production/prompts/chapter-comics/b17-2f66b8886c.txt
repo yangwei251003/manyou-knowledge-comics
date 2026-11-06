@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 植物生命活动的调节. Story: 歪向窗边的豆苗.
+Situation: 学校温室的豆苗全朝窗边弯。栗栗想让每盆都多喝同一种生长剂，阿澄用对照分清信号和剂量。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 温室对照架一组幼苗从一侧受光，另一组受均匀光，学生观察顶端与弯曲位置。
+PANEL 2 (ROW 1 RIGHT): 两盘种子分别处于萌发和休眠观察状态，几组不同用途的植物信号模型卡分列，阿澄比对同品种。
+PANEL 3 (ROW 2 LEFT): 温室里阿澄用多个独立小盆安排一组有对照的浓度梯度实验，狐狸只负责记录植株变化。
+PANEL 4 (ROW 2 RIGHT): 暖室末端有长短光照的两间培养柜与有无低温经历的样苗，学生记录花期差异。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 随机变量及其分布. Story: 抽奖摊的风险账本.
+Situation: 两个抽奖摊看起来都划算，栗栗只盯最高奖。阿澄把每种结果、概率和风险摊到同一张桌上。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 透明色片只罩住符合条件的一排抽奖结果，学生在小区域内重新摆筹码。
+PANEL 2 (ROW 1 RIGHT): 多种奖券被投进几只相同收益的分类盒，狐把两张不同图案但同奖值的券合并。
+PANEL 3 (ROW 2 LEFT): 两个平衡板中点相同，一组奖筹靠近中心，一组分得很开。
+PANEL 4 (ROW 2 RIGHT): 两只抽球箱并排，一边抽完还放回，另一边红球留在桌上。
+PANEL 5 (ROW 3 LEFT): 摊位收市，阿澄把两块面积相同的钟形透明图片重叠，狐拉开一张较宽的图片。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

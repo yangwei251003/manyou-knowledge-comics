@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 免疫调节. Story: 免疫巡逻队遇到认错的人.
+Situation: 模拟身体防线收到陌生标记。栗栗想让所有巡逻员同时攻击，阿澄先查识别、记忆和误伤。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 入口是皮肤和黏膜样的城墙，里面不同免疫细胞模型巡逻，学生分出防御、监视和清除工作。
+PANEL 2 (ROW 1 RIGHT): 微缩防线两处工位分别展示抗体与抗原结合、细胞识别受感染细胞，旁有记忆档案柜。
+PANEL 3 (ROW 2 LEFT): 巡逻大厅把无害花粉的过强响应、对自身的误识别和巡逻员不足放在三个独立案例柜。
+PANEL 4 (ROW 2 RIGHT): 训练用的无害标记模型进入免疫档案柜，下一次相同形状出现时，柜中已有对应记忆卡。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

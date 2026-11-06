@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 人体的内环境与稳态. Story: 细胞街区的水路维修.
+Situation: 细胞街区的住户报告门外环境变了。栗栗要把所有液体倒进同一池，阿澄先查它们各在哪条水路。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 开场，画清故事的起因和主角遇到的困难。
+细胞街区的住户报告门外环境变了。栗栗要把所有液体倒进同一池，阿澄先查它们各在哪条水路。
+PANEL 2 (MIDDLE): 透明街区剖面中血管、细胞间隙和细细的淋巴回收管分开，阿澄追踪一枚从血管到细胞附近的物质筹码。
+PANEL 3 (BOTTOM): 维修控制台在外界条件改变后调节流量，学生对照小幅波动的平衡表，狐狸扶稳回路。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

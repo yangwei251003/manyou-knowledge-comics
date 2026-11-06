@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 圆周运动. Story: 转盘上的逃跑点心.
+Situation: 栗栗把点心放在转盘边，转快以后点心滑走了。阿澄请它从速度方向和真正的受力查起。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 俯看木质圆转盘，内外两个同角位置的点在同一时刻转过相同角度，狐狸盯着外圈的点心。
+PANEL 2 (ROW 1 RIGHT): 固定在绳端的轻球绕桌心运动，短绳清楚绷紧并连到中心，手不接触球。
+PANEL 3 (ROW 2 LEFT): 圆轨道相邻两点摆着两支长度相同、方向略有变化的切线箭头，学生拿透明片重合两箭的起点。
+PANEL 4 (ROW 2 RIGHT): 安全护栏内的微缩弯道上，玩具车在弯道外侧滑离，路边摆出内低外高的倾斜模型。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

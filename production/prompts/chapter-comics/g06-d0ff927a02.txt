@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 自然灾害. Story: 暴雨前撤走哪一组展品.
+Situation: 山谷营地准备迎接一场强降雨。栗栗只盯着雨量，阿澄把灾害过程、暴露对象与避险地图一起核对。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 虚构沿海观测站窗外有强雨云与高海浪，学生对比暴雨、台风等天气过程的观测图，画面无真实预警数据。
+PANEL 2 (ROW 1 RIGHT): 虚构山坡有湿润岩土、坡脚沟谷与潜在失稳区的剖景，阿澄站在安全处观察，不进入灾害现场。
+PANEL 3 (ROW 2 LEFT): 营地撤离演练中两人把监测站、避险路线和安置点的道具分工摆好，远处人员有序离开低地。
+PANEL 4 (ROW 2 RIGHT): 调度桌将不同时刻的影像、定位点和风险区域图层透明叠放，阿澄选择受影响的道路。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

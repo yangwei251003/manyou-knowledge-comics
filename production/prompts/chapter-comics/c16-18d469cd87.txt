@@ -1,0 +1,15 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 有机化合物的结构特点与研究方法. Story: 无名香料的分子档案.
+Situation: 展台收到一瓶封存的有机物样品，标签脱落。栗栗凭气味猜名字，阿澄用结构线索与谱图逐步排除。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 开场，画清故事的起因和主角遇到的困难。
+展台收到一瓶封存的有机物样品，标签脱落。栗栗凭气味猜名字，阿澄用结构线索与谱图逐步排除。
+PANEL 2 (MIDDLE): 桌上两套同数量的碳骨架积木搭成直链与支链，另一组对照模型在连接位置和空间排列上不同。
+PANEL 3 (BOTTOM): 实验台上封闭的分离样品瓶、质谱轮廓、红外轮廓和磁共振轮廓依次摆放，学生把证据卡拼成档案。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.
+
+ImageGen revision:
+Edit only the TOP frame of this three-horizontal-panel comic. Keep all other frames and gutters, same palette, girl and fox. The girl on the left holds a CLOSED sample jar far away from her face, at chest height, with a clearly screwed-on lid. Delete any steam, scent trail, or suggestion she is sniffing an unknown lab sample. Her eyes are open as she holds up the sealed sample for inspection. The right part of that frame with the student checking her instrument remains. No text.

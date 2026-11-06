@@ -1,0 +1,5309 @@
+{
+  "generator": "built-in image_gen",
+  "artworks": {
+    "b01": {
+      "file": "assets/comics/chapters/b01-618f18bb3f.webp",
+      "bytes": 609398,
+      "sha256": "34650d86bc0b1835a420ee9b3ce5d41f08fa042b31b545cfcf0c08b7cce9b8fe",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "618f18bb3f5c33cb6125de529a354add7f69c39b8fe3c7811f41b1311e0fe64b",
+      "preview": {
+        "file": "assets/comics/chapters/b01-618f18bb3f-preview.webp",
+        "bytes": 98186,
+        "sha256": "740407d6c0d49fb52537bf4fef5fe459d8acb3af53e3ad65565a5e8623a8dc5c"
+      },
+      "prompt": "production/prompts/chapter-comics/b01-618f18bb3f.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          506
+        ],
+        [
+          0,
+          516,
+          1024,
+          1013
+        ],
+        [
+          0,
+          1025,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b01-s01",
+        "b01-s02"
+      ],
+      "review": "三格观察故事齐全。草履虫样单细胞、叶片多细胞与有核细胞和细菌分开，视野大小不用于比较真实比例。"
+    },
+    "b02": {
+      "file": "assets/comics/chapters/b02-18deba4b8b.webp",
+      "bytes": 644354,
+      "sha256": "9a85fc25fb67ca92a9245e8870460cf9814a04cf3491e4975bf0ee95a3137cec",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "18deba4b8b2a3a6c57ef61502f2bb39948e30a1ae82ed2c81fff1ae0dde4da80",
+      "preview": {
+        "file": "assets/comics/chapters/b02-18deba4b8b-preview.webp",
+        "bytes": 110096,
+        "sha256": "8038b796ff31c0a5e9ab3e9491d36e3d38db4927f0c57633f823c97a899293b1"
+      },
+      "prompt": "production/prompts/chapter-comics/b02-18deba4b8b.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          509
+        ],
+        [
+          518,
+          0,
+          1024,
+          509
+        ],
+        [
+          0,
+          517,
+          508,
+          1023
+        ],
+        [
+          518,
+          517,
+          1024,
+          1023
+        ],
+        [
+          0,
+          1030,
+          508,
+          1536
+        ],
+        [
+          518,
+          1030,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b02-s01",
+        "b02-s02",
+        "b02-s03",
+        "b02-s04",
+        "b02-s05"
+      ],
+      "review": "六格补给清单齐全。积木、水与盐、糖脂、蛋白结构、核酸信息和仓库收尾各有场景，均为类比。"
+    },
+    "b03": {
+      "file": "assets/comics/chapters/b03-47b9f7c886.webp",
+      "bytes": 613758,
+      "sha256": "fbe25061f71b3a486893ad0274cbaae19275df6357124f48a9fe33b1e2a99fb0",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "47b9f7c886a94475765faae0459e282ca1b8358b12e0fc217ead30f44a49a9c8",
+      "preview": {
+        "file": "assets/comics/chapters/b03-47b9f7c886-preview.webp",
+        "bytes": 98442,
+        "sha256": "813dcc0df687fb64d5fd25dd71a6390c9770e5e7dfd903e48980b81e8e385911"
+      },
+      "prompt": "production/prompts/chapter-comics/b03-47b9f7c886.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          449
+        ],
+        [
+          0,
+          459,
+          1024,
+          918
+        ],
+        [
+          0,
+          927,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b03-s01",
+        "b03-s02",
+        "b03-s03"
+      ],
+      "review": "三格邮局边界、细胞器转运、核孔档案齐全。包裹角色与实际通道选择性区别已写入对白。"
+    },
+    "b04": {
+      "file": "assets/comics/chapters/b04-6f1abd0183.webp",
+      "bytes": 640986,
+      "sha256": "8120b606c8e0f4ac48ebcde62e4972350165fa14b82216caceef328c21567d3c",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "6f1abd0183888bfc2aec5ad826d9bda3a4f62975b72ae338fab00310208715e2",
+      "preview": {
+        "file": "assets/comics/chapters/b04-6f1abd0183-preview.webp",
+        "bytes": 105332,
+        "sha256": "74eab46bb5307e7cde57c592df2176ea29c7af657bff6013f810e8f6a1929cf1"
+      },
+      "prompt": "production/prompts/chapter-comics/b04-6f1abd0183.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          504
+        ],
+        [
+          0,
+          516,
+          1024,
+          979
+        ],
+        [
+          0,
+          990,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b04-s01",
+        "b04-s02"
+      ],
+      "review": "三格开场、被动、主动与囊泡齐全。不同运输对照可辨，粒子图形不代替确定物质、梯度与能量条件。"
+    },
+    "b05": {
+      "file": "assets/comics/chapters/b05-1e3989c1df.webp",
+      "bytes": 581604,
+      "sha256": "48fc025d9a3f9b1eabda60d079a9c82f3710f77eba460b88d68edf4874551f5c",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "1e3989c1dfa7e051b44d4272b13eca87a90c2c42e84eabdd2785a0301cf043db",
+      "preview": {
+        "file": "assets/comics/chapters/b05-1e3989c1df-preview.webp",
+        "bytes": 94470,
+        "sha256": "6fa602fc09dfa97f4b97d80053903b298596e50187030fb3f015aee47a527cfb"
+      },
+      "prompt": "production/prompts/chapter-comics/b05-1e3989c1df.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          762
+        ],
+        [
+          519,
+          0,
+          1024,
+          762
+        ],
+        [
+          0,
+          773,
+          507,
+          1536
+        ],
+        [
+          519,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b05-s01",
+        "b05-s02",
+        "b05-s03",
+        "b05-s04"
+      ],
+      "review": "四格叶片故事齐全。酶的低坡路线同起终点，ATP筹码、气体实验、叶绿体内两阶段可辨。气泡作为待解释现象。"
+    },
+    "b06": {
+      "file": "assets/comics/chapters/b06-e8fa69bad8.webp",
+      "bytes": 498414,
+      "sha256": "925f8b7f7a246bcda0d40891633d7d624f06984bd2aabb0f86b88759bd47e335",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "e8fa69bad83c26662a3bb7957df19b00642655f052a61278e480650a661e00c0",
+      "preview": {
+        "file": "assets/comics/chapters/b06-e8fa69bad8-preview.webp",
+        "bytes": 96518,
+        "sha256": "1a63365a28ab3271093c341e74f4d8ff85298206003a8e17ddbf20e5e1484187"
+      },
+      "prompt": "production/prompts/chapter-comics/b06-e8fa69bad8.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          505
+        ],
+        [
+          0,
+          516,
+          1024,
+          1013
+        ],
+        [
+          0,
+          1024,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b06-s01",
+        "b06-s02",
+        "b06-s03"
+      ],
+      "review": "复核返修图。中期4条X形染色体居中，后期8条子染色体向两极各分4条。另两格为细胞分化和有序凋亡的情景类比。"
+    },
+    "b07": {
+      "file": "assets/comics/chapters/b07-31ebabc194.webp",
+      "bytes": 677900,
+      "sha256": "c52fec0dadfb9ad6b036de94cae9494064e3f55710642a21fc26db0b62afdc2b",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "31ebabc1943c3f648eafd96df93620441d768d942ee0c08fdeb14a19e9f016fb",
+      "preview": {
+        "file": "assets/comics/chapters/b07-31ebabc194-preview.webp",
+        "bytes": 111116,
+        "sha256": "2b32dd5323b79dee8454616c00d09235f09e5136097a07dfe7f71f18626e8200"
+      },
+      "prompt": "production/prompts/chapter-comics/b07-31ebabc194.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          453
+        ],
+        [
+          0,
+          462,
+          1024,
+          991
+        ],
+        [
+          0,
+          998,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b07-s01",
+        "b07-s02"
+      ],
+      "review": "三格豌豆园齐全。花色、种子和条件对照为情景，样本与遗传比例不从画面数出。"
+    },
+    "b08": {
+      "file": "assets/comics/chapters/b08-dc147a8b05.webp",
+      "bytes": 620702,
+      "sha256": "99ff28b359be22a8edc315b0851a852da1b377935578f8fa5299521f532f1a23",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "dc147a8b05f2d70dae17e61963ac488520e9287182c5363fedfbf4caede1c36d",
+      "preview": {
+        "file": "assets/comics/chapters/b08-dc147a8b05-preview.webp",
+        "bytes": 97074,
+        "sha256": "94c90805432b44252d0ece77960a6f4bc4ce16333cee299dc037ce100ca89543"
+      },
+      "prompt": "production/prompts/chapter-comics/b08-dc147a8b05.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          506
+        ],
+        [
+          0,
+          515,
+          1024,
+          1013
+        ],
+        [
+          0,
+          1022,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b08-s01",
+        "b08-s02",
+        "b08-s03"
+      ],
+      "review": "三格行李分发、固定基因位点、家系假设齐全。末格红筹码明确为待排除的父传子X假设，准确计数保留专题图与科学模型。"
+    },
+    "b09": {
+      "file": "assets/comics/chapters/b09-642f85508c.webp",
+      "bytes": 597774,
+      "sha256": "68ef047e99913d6b9cba7788f8a2895240903589b37018006242a1538953e49f",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "642f85508c479677b8db9dd22d3d9670b2adcf826ea60edbe53c2fc44d35ffb0",
+      "preview": {
+        "file": "assets/comics/chapters/b09-642f85508c-preview.webp",
+        "bytes": 95642,
+        "sha256": "3e8f6107d45882ce7d8024cab84e3f54967ca9db34422109435cd59e9914d298"
+      },
+      "prompt": "production/prompts/chapter-comics/b09-642f85508c.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          763
+        ],
+        [
+          518,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          773,
+          507,
+          1536
+        ],
+        [
+          518,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b09-s01",
+        "b09-s02",
+        "b09-s03",
+        "b09-s04"
+      ],
+      "review": "四格档案故事齐全。分离蛋白与遗传材料、双链互补、新旧带配对及信息片段可辨，碱基规则以文字为准。"
+    },
+    "b10": {
+      "file": "assets/comics/chapters/b10-299512f726.webp",
+      "bytes": 640212,
+      "sha256": "28a8fe3b4385d0060f486a87488ce222c2e9d1485d027fd1abec152f4a91350b",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "299512f7263cc9480a0335e8a7e58d1c9d8af942cb0de4e94248ab101c196507",
+      "preview": {
+        "file": "assets/comics/chapters/b10-299512f726-preview.webp",
+        "bytes": 105908,
+        "sha256": "68e72174c8a5952874791cb1bfd4ab1051701cbc0050d861577592ef2f7e14c8"
+      },
+      "prompt": "production/prompts/chapter-comics/b10-299512f726.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          509
+        ],
+        [
+          0,
+          515,
+          1024,
+          1018
+        ],
+        [
+          0,
+          1025,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b10-s01",
+        "b10-s02"
+      ],
+      "review": "三格复制疑问、核内信息向核糖体转运、性状对照齐全。开场打印机是情节，转录RNA和翻译产物由本格文字区分。"
+    },
+    "b11": {
+      "file": "assets/comics/chapters/b11-5778101ebf.webp",
+      "bytes": 578176,
+      "sha256": "90a46e1be958166d9c4e2ef0597dd52e1eb2c1eb00db6c7a2eef8a0615cbd20b",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "5778101ebffe939e8daf00f8230ea6382af84af517fc88e5a0503730a31358ca",
+      "preview": {
+        "file": "assets/comics/chapters/b11-5778101ebf-preview.webp",
+        "bytes": 92912,
+        "sha256": "24caded83eef60021010eeb96e015dc66d586c1d2be6d868795b974791baece2"
+      },
+      "prompt": "production/prompts/chapter-comics/b11-5778101ebf.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          511
+        ],
+        [
+          0,
+          517,
+          1024,
+          1021
+        ],
+        [
+          0,
+          1027,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b11-s01",
+        "b11-s02",
+        "b11-s03"
+      ],
+      "review": "三格序列、染色体尺度、家系齐全。变异案例均为模型，家系图不作为真实患者或确定诊断数据。"
+    },
+    "b12": {
+      "file": "assets/comics/chapters/b12-3f9fde05fb.webp",
+      "bytes": 690662,
+      "sha256": "10a6c731ffbe4d476fd18f93e7bcb0b9906d3b035e8d4103c1f24eb6d925e98f",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "3f9fde05fb51b6806f30138f7bcacff4747b4e39f9e02c5ce56dc14cf2a009fd",
+      "preview": {
+        "file": "assets/comics/chapters/b12-3f9fde05fb-preview.webp",
+        "bytes": 118032,
+        "sha256": "cece7c7d054021eaca6f3dfe63e5d165d1e7e5a9c57b459b30e83c6dd8972de2"
+      },
+      "prompt": "production/prompts/chapter-comics/b12-3f9fde05fb.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          763
+        ],
+        [
+          519,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          773,
+          508,
+          1536
+        ],
+        [
+          519,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b12-s01",
+        "b12-s02",
+        "b12-s03",
+        "b12-s04"
+      ],
+      "review": "四格进化证据、繁殖差异、岛间隔离及多样性齐全。鸟喙为适应对照，不作真实岛屿种群统计。"
+    },
+    "b13": {
+      "file": "assets/comics/chapters/b13-79ee8a3bc3.webp",
+      "bytes": 646952,
+      "sha256": "fedb98672d2f766daaa29af1aa3cddbf4459beee69686da65b57a0b924a8de3f",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "79ee8a3bc387e6cba5d96d5cdcf664496d4003208b808f3d3ba496537ce4c228",
+      "preview": {
+        "file": "assets/comics/chapters/b13-79ee8a3bc3-preview.webp",
+        "bytes": 98826,
+        "sha256": "71e4bcf1f7ae3da2d93080af7c29c0d873d6624a9d3d272b50e8de8bd82c5f25"
+      },
+      "prompt": "production/prompts/chapter-comics/b13-79ee8a3bc3.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          498
+        ],
+        [
+          0,
+          509,
+          1024,
+          964
+        ],
+        [
+          0,
+          975,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b13-s01",
+        "b13-s02"
+      ],
+      "review": "对照水路顺序，查血管、组织液、回流通道及稳态控制台。示意仪表没有量纲。"
+    },
+    "b14": {
+      "file": "assets/comics/chapters/b14-1260ffd4d2.webp",
+      "bytes": 552712,
+      "sha256": "c94c76f911785c7bf0956aaae2fd0cc59aab0d3d3a578465aac27fb740453085",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "1260ffd4d2216bb39b0f782eabaeecf06a7d01a655e321f952abf5d1c2f543b7",
+      "preview": {
+        "file": "assets/comics/chapters/b14-1260ffd4d2-preview.webp",
+        "bytes": 92982,
+        "sha256": "7f6c8f47868dfa2bd41e688ef0c0a20395f07fe5a47b70b8d4dd3e38cbc334e1"
+      },
+      "prompt": "production/prompts/chapter-comics/b14-1260ffd4d2.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          508
+        ],
+        [
+          516,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          516,
+          508,
+          1016
+        ],
+        [
+          516,
+          516,
+          1024,
+          1016
+        ],
+        [
+          0,
+          1024,
+          508,
+          1536
+        ],
+        [
+          516,
+          1024,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b14-s01",
+        "b14-s02",
+        "b14-s03",
+        "b14-s04",
+        "b14-s05"
+      ],
+      "review": "核对神经中枢、反射装置、突触间隙、分级调节和高级功能各格。末格回到热杯故事。"
+    },
+    "b15": {
+      "file": "assets/comics/chapters/b15-c1d8f70ba5.webp",
+      "bytes": 485490,
+      "sha256": "b2d96dec2920f2128a59dc0f2299cf3775f9f931dce857998dbe9965d94669fc",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "c1d8f70ba5f7962dab33ca85ed1aadbaa6006a48ec0bd6a7368f100c4b1b8c33",
+      "preview": {
+        "file": "assets/comics/chapters/b15-c1d8f70ba5-preview.webp",
+        "bytes": 84730,
+        "sha256": "5493592b638ddf136fd4cf7e6268435ddfae6390f4771f5d69f0c1ecb13c5095"
+      },
+      "prompt": "production/prompts/chapter-comics/b15-c1d8f70ba5.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          507
+        ],
+        [
+          0,
+          515,
+          1024,
+          1011
+        ],
+        [
+          0,
+          1020,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b15-s01",
+        "b15-s02",
+        "b15-s03"
+      ],
+      "review": "核对血液运输与受体、早餐后的血糖升高和运动的两类调节通路。回落过程以文字说明。"
+    },
+    "b16": {
+      "file": "assets/comics/chapters/b16-99872c8e41.webp",
+      "bytes": 675984,
+      "sha256": "3bffc528e1670ac217eb775472e3c0ac707e42f63152a6ab2a29f2d8a48d1f9d",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "99872c8e412cd6d2208b26ea0d86d2193bd766743cb9254678002b873e63cdd6",
+      "preview": {
+        "file": "assets/comics/chapters/b16-99872c8e41-preview.webp",
+        "bytes": 107452,
+        "sha256": "29bdb1376a6e6e7e190c000fec852f079df369350c5487958e49bcbab7359835"
+      },
+      "prompt": "production/prompts/chapter-comics/b16-99872c8e41.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          509,
+          764
+        ],
+        [
+          517,
+          0,
+          1024,
+          764
+        ],
+        [
+          0,
+          771,
+          509,
+          1536
+        ],
+        [
+          517,
+          771,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b16-s01",
+        "b16-s02",
+        "b16-s03",
+        "b16-s04"
+      ],
+      "review": "核对多道防线、两类特异性免疫、免疫失调和疫苗。右下双视图合成一个对照格。"
+    },
+    "b17": {
+      "file": "assets/comics/chapters/b17-2f66b8886c.webp",
+      "bytes": 529898,
+      "sha256": "1ca746f8668a936eeef24cc802f70e6497723c9ad746944e4913aafd66e4192a",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "2f66b8886c4d76b534f084e171ad7dbee8db160c9a158ef9259a0e870647368b",
+      "preview": {
+        "file": "assets/comics/chapters/b17-2f66b8886c-preview.webp",
+        "bytes": 100218,
+        "sha256": "1ad2c0a253ff5fc407b15f89bda7afa9710400ff621fcbb05b5fad8e7ee16ed8"
+      },
+      "prompt": "production/prompts/chapter-comics/b17-2f66b8886c.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          509,
+          763
+        ],
+        [
+          518,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          772,
+          509,
+          1536
+        ],
+        [
+          518,
+          772,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b17-s01",
+        "b17-s02",
+        "b17-s03",
+        "b17-s04"
+      ],
+      "review": "对照单侧光、种子状态、梯度处理、光周期与低温四处实验情景。比较条件见对白。"
+    },
+    "b18": {
+      "file": "assets/comics/chapters/b18-fdd8c71b5c.webp",
+      "bytes": 669420,
+      "sha256": "be9985c57a89ce63fb5a6bcd2d981cc20ab113719afc71a2866ddf72e645dab2",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "fdd8c71b5c18e0481b84ae3bcf6949b0f02ce810f825e09d28adbce839025b36",
+      "preview": {
+        "file": "assets/comics/chapters/b18-fdd8c71b5c-preview.webp",
+        "bytes": 114092,
+        "sha256": "54b57c27369023ac27f24f121bdc91d73387c9676a350cf7fd4c626bee55ecb4"
+      },
+      "prompt": "production/prompts/chapter-comics/b18-fdd8c71b5c.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          543
+        ],
+        [
+          0,
+          551,
+          1024,
+          1006
+        ],
+        [
+          0,
+          1012,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b18-s01",
+        "b18-s02",
+        "b18-s03"
+      ],
+      "review": "核对样方与标记记录、J形与S形趋势、季节记录三格。曲线是定性草图。"
+    },
+    "b19": {
+      "file": "assets/comics/chapters/b19-d9b1a8db4b.webp",
+      "bytes": 727690,
+      "sha256": "849ab8ee9c0bbaf49864231547c704a00a7fd2e0ffe9d305e47f64ed7346ac65",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "d9b1a8db4b53c2463ebddb23c55ffc027d220ba3fabafd96c1332b7fd1a40bcc",
+      "preview": {
+        "file": "assets/comics/chapters/b19-d9b1a8db4b-preview.webp",
+        "bytes": 120464,
+        "sha256": "ee717a2652b4aae550dd529e570958669c6991af919feea171ed51f3ad45ed99"
+      },
+      "prompt": "production/prompts/chapter-comics/b19-d9b1a8db4b.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          515,
+          1024,
+          1020
+        ],
+        [
+          0,
+          1026,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b19-s01",
+        "b19-s02",
+        "b19-s03"
+      ],
+      "review": "查群落垂直分层、荒漠到森林地景、裸岩与保留土壤两处演替起点。"
+    },
+    "b20": {
+      "file": "assets/comics/chapters/b20-bc159a28f3.webp",
+      "bytes": 722048,
+      "sha256": "888faa453f33cbb6e172c11040da7239571bcd6976453ab3536cae575a2abf90",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "bc159a28f3ee4b2b35a7cc6b88773eddab6e751ce747a2e94cc29f343cd47376",
+      "preview": {
+        "file": "assets/comics/chapters/b20-bc159a28f3-preview.webp",
+        "bytes": 127572,
+        "sha256": "7637eb40a913190c268f5fc68cb8577d370fe93eb162bf2cca205756c9b2f283"
+      },
+      "prompt": "production/prompts/chapter-comics/b20-bc159a28f3.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          509,
+          455
+        ],
+        [
+          517,
+          0,
+          1024,
+          455
+        ],
+        [
+          0,
+          462,
+          509,
+          999
+        ],
+        [
+          517,
+          462,
+          1024,
+          999
+        ],
+        [
+          0,
+          1007,
+          509,
+          1536
+        ],
+        [
+          517,
+          1007,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b20-s01",
+        "b20-s02",
+        "b20-s03",
+        "b20-s04",
+        "b20-s05"
+      ],
+      "review": "逐格核对食物网、生物与非生物环境、能量耗散、物质回归、信号、扰动对照和收尾。收尾用循环标签引出辨误。"
+    },
+    "b21": {
+      "file": "assets/comics/chapters/b21-35e32ae77b.webp",
+      "bytes": 813282,
+      "sha256": "71115da7abcfb0eccb5ce0122d219923cac5c96c2976cd0781ce4f924b0a9007",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "35e32ae77bac3cde8f79afda7dfc2ffba7b82ba93c4b87fc595aa185f4992937",
+      "preview": {
+        "file": "assets/comics/chapters/b21-35e32ae77b-preview.webp",
+        "bytes": 135934,
+        "sha256": "cdef0749013946224c2bdfa58654546129ca7950cf4109a6c39cec962616cfbf"
+      },
+      "prompt": "production/prompts/chapter-comics/b21-35e32ae77b.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          504
+        ],
+        [
+          0,
+          517,
+          1024,
+          1018
+        ],
+        [
+          0,
+          1031,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b21-s01",
+        "b21-s02",
+        "b21-s03"
+      ],
+      "review": "核对流域分点采样、湿地原位和种质保存、试验区复查三格。"
+    },
+    "b22": {
+      "file": "assets/comics/chapters/b22-043740e11e.webp",
+      "bytes": 602472,
+      "sha256": "12db3f3004868864e5ad02db3dbcee4ce3dfc2a772ddb06ce895b22dbe0aa510",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "043740e11e201537a76e19992c1a6bb4bb4307ef169c0b75059117f5edcf8cdc",
+      "preview": {
+        "file": "assets/comics/chapters/b22-043740e11e-preview.webp",
+        "bytes": 101342,
+        "sha256": "fba78a6b6ff4ebcf4abef181b9f214934e9609f346bbcf36d1efc7e190ad7b99"
+      },
+      "prompt": "production/prompts/chapter-comics/b22-043740e11e.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          505
+        ],
+        [
+          0,
+          517,
+          1024,
+          1019
+        ],
+        [
+          0,
+          1030,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b22-s01",
+        "b22-s02",
+        "b22-s03"
+      ],
+      "review": "核对密封发酵样品、菌落与对照、放大发酵罐。菌落单位在知识卡说明。"
+    },
+    "b23": {
+      "file": "assets/comics/chapters/b23-8a86cb6274.webp",
+      "bytes": 567650,
+      "sha256": "848847cb13b06ec8d049e30ac829c342a08cca16d122b7e4b36ccf782de205b1",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "8a86cb627441bb8f65b456d8287446bc48bd0385de0e6dfff0f1597806c89303",
+      "preview": {
+        "file": "assets/comics/chapters/b23-8a86cb6274-preview.webp",
+        "bytes": 92408,
+        "sha256": "56806d1d6ea9abcfab87654e5bba40db9ff46457228ebbe776df0dcfbeb801e0"
+      },
+      "prompt": "production/prompts/chapter-comics/b23-8a86cb6274.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          518
+        ],
+        [
+          0,
+          526,
+          1024,
+          1041
+        ],
+        [
+          0,
+          1050,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b23-s01",
+        "b23-s02",
+        "b23-s03"
+      ],
+      "review": "核对植物培养顺序、动物细胞三种技术模型及胚胎与受体三个场景。"
+    },
+    "b24": {
+      "file": "assets/comics/chapters/b24-3782f0637d.webp",
+      "bytes": 540354,
+      "sha256": "c42b398608a5d04521c6104ab9c595c5154d16e9696e502c9e1e1873983a9e10",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "3782f0637d33127104ca5c3fdeea25117ae6432f881241c17ff69dfac08b120e",
+      "preview": {
+        "file": "assets/comics/chapters/b24-3782f0637d-preview.webp",
+        "bytes": 89542,
+        "sha256": "14906ef741ff168474aaab4c88ab3debece4c8ffe00daba7e41827a2e3bc6dbe"
+      },
+      "prompt": "production/prompts/chapter-comics/b24-3782f0637d.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          763
+        ],
+        [
+          518,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          773,
+          507,
+          1536
+        ],
+        [
+          518,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b24-s01",
+        "b24-s02",
+        "b24-s03",
+        "b24-s04"
+      ],
+      "review": "核对载体拼接、导入与检测、作物和蛋白产物、蛋白质结构与序列。具体条件从知识卡读取。"
+    },
+    "b25": {
+      "file": "assets/comics/chapters/b25-17719a7384.webp",
+      "bytes": 540428,
+      "sha256": "6279f2ea4177c95537741a052b242861b3b401937783d3b8b172f44bedfd28ab",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "17719a738443fa94f8a58faba7b55c1eb81333bcc492ab6491350d26451e2818",
+      "preview": {
+        "file": "assets/comics/chapters/b25-17719a7384-preview.webp",
+        "bytes": 87780,
+        "sha256": "b53984e48a1841559955035bc81c2a20fe98abfd5910fa8cb7f5d6d2706cfce0"
+      },
+      "prompt": "production/prompts/chapter-comics/b25-17719a7384.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          517,
+          1024,
+          1021
+        ],
+        [
+          0,
+          1029,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "b25-s01",
+        "b25-s02",
+        "b25-s03"
+      ],
+      "review": "核对食品和环境证据、研究与生育用途、反对生物武器三格。案例为展览虚构。"
+    },
+    "c01": {
+      "file": "assets/comics/chapters/c01-5668595a73.webp",
+      "bytes": 493938,
+      "sha256": "431a6ff4dd2275d47b3affcf309993874cbe2ee217147bcaaa2ac501324033c0",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "5668595a739dba27680330e3c157aeb9c075da0a3f76850621f2cdaefbc00f2c",
+      "preview": {
+        "file": "assets/comics/chapters/c01-5668595a73-preview.webp",
+        "bytes": 83092,
+        "sha256": "3ecb699b76ce3daafb343b09866b3232f83cd00ef8c05b9acb6b6d13ac0665c5"
+      },
+      "prompt": "production/prompts/chapter-comics/c01-5668595a73.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          514
+        ],
+        [
+          0,
+          524,
+          1024,
+          1025
+        ],
+        [
+          0,
+          1033,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c01-s01",
+        "c01-s02",
+        "c01-s03"
+      ],
+      "review": "三格物质分类、沉淀反应与电子转移齐全，玻璃罩实验是情节示意，未用图中颜色决定物质。"
+    },
+    "c02": {
+      "file": "assets/comics/chapters/c02-6f6c7c8712.webp",
+      "bytes": 563648,
+      "sha256": "82d801cc505150a60fd228571ca4f8f0004e8bfc48a01effd9da4d04a5d3f845",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "6f6c7c87127149af0dca77a79446f59ab16e9ed70ee354b0ac611cba46894c0b",
+      "preview": {
+        "file": "assets/comics/chapters/c02-6f6c7c8712-preview.webp",
+        "bytes": 92306,
+        "sha256": "93f101c0509afb781ff3b9592199c9b39fee98fef87a47c23401cd2da6a60e4a"
+      },
+      "prompt": "production/prompts/chapter-comics/c02-6f6c7c8712.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          503
+        ],
+        [
+          0,
+          513,
+          1024,
+          1012
+        ],
+        [
+          0,
+          1022,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c02-s01",
+        "c02-s02",
+        "c02-s03"
+      ],
+      "review": "三格海盐展齐全。盐和金属钠分柜，含氯物质置于封闭水处理展示，称量与物质的量区分。"
+    },
+    "c03": {
+      "file": "assets/comics/chapters/c03-03df9d8315.webp",
+      "bytes": 503646,
+      "sha256": "8ea4570f6ff57c18428fa9cd8298a71bbde0e7e6057b82f9a848a43dcef72de7",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "03df9d8315a9a5b19a2869e9f13f3c755aa7e267aa78913d1093b66355b81669",
+      "preview": {
+        "file": "assets/comics/chapters/c03-03df9d8315-preview.webp",
+        "bytes": 91496,
+        "sha256": "d3cacdf04480f180068a8b7e09dd9ed6351fd4021aac87d8f62f95a61abf09f3"
+      },
+      "prompt": "production/prompts/chapter-comics/c03-03df9d8315.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          514
+        ],
+        [
+          0,
+          524,
+          1024,
+          1010
+        ],
+        [
+          0,
+          1020,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c03-s01",
+        "c03-s02"
+      ],
+      "review": "三格含开场。铁盐颜色作待检样品线索，不按颜色唯一判价态，后格比较金属部件用途。"
+    },
+    "c04": {
+      "file": "assets/comics/chapters/c04-43b038c276.webp",
+      "bytes": 545476,
+      "sha256": "36a13e841d6825fd22eb29ca249010e55934aecf98d6e2a68dd3c75a5f45d910",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "43b038c2769c2506d6104789e6f686a150ec58531db2f7e725dc5286e6e921ad",
+      "preview": {
+        "file": "assets/comics/chapters/c04-43b038c276-preview.webp",
+        "bytes": 90696,
+        "sha256": "0b1a3a2dc852a85e3a6a5ffdb93b26c04b99bdcb3dc1e59737457ec44d963cf1"
+      },
+      "prompt": "production/prompts/chapter-comics/c04-43b038c276.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          571
+        ],
+        [
+          0,
+          580,
+          1024,
+          1008
+        ],
+        [
+          0,
+          1016,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c04-s01",
+        "c04-s02",
+        "c04-s03"
+      ],
+      "review": "三格街区、半径模型、成键模型齐全。格子和筹码未作为实际周期表与原子尺寸，已明确同周期半径趋势。"
+    },
+    "c05": {
+      "file": "assets/comics/chapters/c05-79bc0bb58f.webp",
+      "bytes": 548964,
+      "sha256": "ec0f5cd435173e9220d7a80a827f7bd4ac7f6855080176cfdb4cd31205a725f3",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "79bc0bb58f5f043c0781457ee01412b6b7f261154f23a98b0105fa990808003e",
+      "preview": {
+        "file": "assets/comics/chapters/c05-79bc0bb58f-preview.webp",
+        "bytes": 91556,
+        "sha256": "668be01d33bff3fb42bb388ded6c1ffffb2d23538fa4d3e5521580839cebabe7"
+      },
+      "prompt": "production/prompts/chapter-comics/c05-79bc0bb58f.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          531
+        ],
+        [
+          0,
+          542,
+          1024,
+          1025
+        ],
+        [
+          0,
+          1034,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c05-s01",
+        "c05-s02",
+        "c05-s03"
+      ],
+      "review": "三格化工观察齐全。硫、氮工段及材料功能是缩景，工厂道具不作为可执行反应装置。"
+    },
+    "c06": {
+      "file": "assets/comics/chapters/c06-d3ad1d8202.webp",
+      "bytes": 587488,
+      "sha256": "47287dbdf1cc6ffe21ee1d0cffc6c10a54ba2f71d2b80c18c9903fd1bec5550a",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "d3ad1d8202a65d6cfa7afbb0a107f35ad61cce2c4aec39b7360139ccf2363dd3",
+      "preview": {
+        "file": "assets/comics/chapters/c06-d3ad1d8202-preview.webp",
+        "bytes": 102030,
+        "sha256": "de5db6da03eea8a74c0795c3de2c85a8965a316f154bcb3412d601d014a3812f"
+      },
+      "prompt": "production/prompts/chapter-comics/c06-d3ad1d8202.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          528
+        ],
+        [
+          0,
+          537,
+          1024,
+          998
+        ],
+        [
+          0,
+          1006,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c06-s01",
+        "c06-s02"
+      ],
+      "review": "三格热量、速度与限度齐全。彩色筹码为定性演示，平衡条件和催化剂作用见对白。"
+    },
+    "c07": {
+      "file": "assets/comics/chapters/c07-6c395ae9e2.webp",
+      "bytes": 574760,
+      "sha256": "f6a55edc73c2ef48c1ce269ee0117269fd19466f1d14daafe7e1cdde7fc69b73",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "6c395ae9e22e87d0eeff0abb9fb8e7f31970a6dca862c005e5231261093a79d4",
+      "preview": {
+        "file": "assets/comics/chapters/c07-6c395ae9e2-preview.webp",
+        "bytes": 96252,
+        "sha256": "db43f444054159a8e43330bb28c5123e0e82e892734cd9ecaca6a338bc95b5a9"
+      },
+      "prompt": "production/prompts/chapter-comics/c07-6c395ae9e2.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          765
+        ],
+        [
+          518,
+          0,
+          1024,
+          765
+        ],
+        [
+          0,
+          773,
+          507,
+          1536
+        ],
+        [
+          518,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c07-s01",
+        "c07-s02",
+        "c07-s03",
+        "c07-s04"
+      ],
+      "review": "四格积木骨架、聚合链、醇酸对照和营养物质齐全。分子装饰只作类比，不用于数原子或写结构式。"
+    },
+    "c08": {
+      "file": "assets/comics/chapters/c08-6cf4cfe3d1.webp",
+      "bytes": 567126,
+      "sha256": "da0d24b5c42582054c1dbe681dd4bb10212b4874c3fca6bf8d9b7d8563545891",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "6cf4cfe3d13db614cda351033673d9c692db13d9b71be47bde5dfe1bbf697cc9",
+      "preview": {
+        "file": "assets/comics/chapters/c08-6cf4cfe3d1-preview.webp",
+        "bytes": 93610,
+        "sha256": "4c8e17c76ed685a0addff46a6015bd04823f6ba3c6f2d5b4a2a25c5d7832ca04"
+      },
+      "prompt": "production/prompts/chapter-comics/c08-6cf4cfe3d1.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          525
+        ],
+        [
+          0,
+          535,
+          1024,
+          1024
+        ],
+        [
+          0,
+          1034,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c08-s01",
+        "c08-s02",
+        "c08-s03"
+      ],
+      "review": "三格补给站齐全。绿色外观不作评价证据，末格已明确比较同产量或单位产品的废物与能耗。"
+    },
+    "c09": {
+      "file": "assets/comics/chapters/c09-18b750b3c3.webp",
+      "bytes": 639352,
+      "sha256": "170dbba1916f21eb9cea519048441ceb427ef74432a3e911c79345e43226d3de",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "18b750b3c3b170d61f7bf14408f3230a00657a6ccd2c2eb7e08d84931147a631",
+      "preview": {
+        "file": "assets/comics/chapters/c09-18b750b3c3-preview.webp",
+        "bytes": 96590,
+        "sha256": "2cfde32ad33a3b164aa71ef8d5cd479c67848200f90eb088ac62d638cf0f2d23"
+      },
+      "prompt": "production/prompts/chapter-comics/c09-18b750b3c3.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          507
+        ],
+        [
+          0,
+          515,
+          1024,
+          1019
+        ],
+        [
+          0,
+          1027,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c09-s01",
+        "c09-s02"
+      ],
+      "review": "三格含开场。量热与两条同端点路线分格清楚，反应焓符号与加减原则来自对应对白。"
+    },
+    "c10": {
+      "file": "assets/comics/chapters/c10-277f4baba6.webp",
+      "bytes": 444522,
+      "sha256": "2b36094c1939ecc96e5c43c9331440f35ce5cf277911120cb875786514ae7be8",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "277f4baba65d406d01a299d7a5584c880cc787bdf4ee494dc8f8b3f40c8b922c",
+      "preview": {
+        "file": "assets/comics/chapters/c10-277f4baba6-preview.webp",
+        "bytes": 92240,
+        "sha256": "750b6ff329151e5d064bf85acc5f578a6c8d9650badf0a44c7aea01f0cfa3fd6"
+      },
+      "prompt": "production/prompts/chapter-comics/c10-277f4baba6.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          762
+        ],
+        [
+          519,
+          0,
+          1024,
+          762
+        ],
+        [
+          0,
+          773,
+          507,
+          1536
+        ],
+        [
+          519,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c10-s01",
+        "c10-s02",
+        "c10-s03",
+        "c10-s04"
+      ],
+      "review": "复核返修后的双向传送带，两个车道箭头相反。其余各格分别显示速率、活化能及反应条件改变。"
+    },
+    "c11": {
+      "file": "assets/comics/chapters/c11-2e049ffe87.webp",
+      "bytes": 499244,
+      "sha256": "89fbe58a4070dfa638325e1a997297639d052b6d32afee7e37d87d884f853b81",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "2e049ffe87dcaa43f4a3d6e52972d574b9c86badc5b30971cb5e746195cbf0c1",
+      "preview": {
+        "file": "assets/comics/chapters/c11-2e049ffe87-preview.webp",
+        "bytes": 87442,
+        "sha256": "128084f7befd0b50734706fbca22bbf3057074ca3cbbd93ccb17ffeb3f5acef2"
+      },
+      "prompt": "production/prompts/chapter-comics/c11-2e049ffe87.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          764
+        ],
+        [
+          517,
+          0,
+          1024,
+          764
+        ],
+        [
+          0,
+          772,
+          508,
+          1536
+        ],
+        [
+          517,
+          772,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c11-s01",
+        "c11-s02",
+        "c11-s03",
+        "c11-s04"
+      ],
+      "review": "四格依次呈现电离、酸碱、盐类水解、沉淀平衡。各液体用途分开，酸碱与溶度积结论依据网页条件。"
+    },
+    "c12": {
+      "file": "assets/comics/chapters/c12-22b721a7a0.webp",
+      "bytes": 459208,
+      "sha256": "7e212d37d936e5f92850ae99cf064ea4860d4de6e66b605c857319347516cc37",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "22b721a7a02a03717a28e4d721f41162fe5798d862f03ce9ac3ad324ac6fc241",
+      "preview": {
+        "file": "assets/comics/chapters/c12-22b721a7a0-preview.webp",
+        "bytes": 90022,
+        "sha256": "674353e3c55eab527f0b9795378ef0a359ce8187a8250dd56931bd93e7ee9428"
+      },
+      "prompt": "production/prompts/chapter-comics/c12-22b721a7a0.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          516,
+          1024,
+          1021
+        ],
+        [
+          0,
+          1028,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c12-s01",
+        "c12-s02",
+        "c12-s03"
+      ],
+      "review": "复核返修后的锌灰、铜红电极及盐桥，电路箱为待接线的教学道具。三格分别对应原电池、电解池和铁桥防护。"
+    },
+    "c13": {
+      "file": "assets/comics/chapters/c13-b8ddb01b54.webp",
+      "bytes": 558682,
+      "sha256": "32884e0200234a824ae3d200660b803a9ef68882aa7fd0b1d2c23847e3286444",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "b8ddb01b54677c8ed7ff2d52504ef138b96fb05c31fc1f33c83ac7855fd98efe",
+      "preview": {
+        "file": "assets/comics/chapters/c13-b8ddb01b54-preview.webp",
+        "bytes": 94988,
+        "sha256": "52969a6e21ffa310d3634be801ab2f1aff9e707a1c47751403820414534d7f73"
+      },
+      "prompt": "production/prompts/chapter-comics/c13-b8ddb01b54.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          509
+        ],
+        [
+          0,
+          518,
+          1024,
+          993
+        ],
+        [
+          0,
+          1001,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c13-s01",
+        "c13-s02"
+      ],
+      "review": "三格旅馆类比齐全。楼层与珠子说明轨道和外层去电子，实际排布不用按图里的珠子数推断。"
+    },
+    "c14": {
+      "file": "assets/comics/chapters/c14-8f325972e9.webp",
+      "bytes": 373910,
+      "sha256": "4bf44990cef790351c04e5c29a5a48527d36d50ba8e53733e882deb4ff2d72a8",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "8f325972e9da053eb2246b67e884bd7de0bd4b5ac2655de40792f65dc40d077f",
+      "preview": {
+        "file": "assets/comics/chapters/c14-8f325972e9-preview.webp",
+        "bytes": 75374,
+        "sha256": "560c94b6a9d1117ab9967e3b413ce4d5f8ad9e372f8a697e2f60e9deaa303dd9"
+      },
+      "prompt": "production/prompts/chapter-comics/c14-8f325972e9.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          483
+        ],
+        [
+          0,
+          496,
+          1024,
+          980
+        ],
+        [
+          0,
+          994,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c14-s01",
+        "c14-s02",
+        "c14-s03"
+      ],
+      "review": "复核返修的直线与折线空间模型，折线中心展示两对孤电子。最后一格用抽象的键偶极箭头比较抵消与合成。"
+    },
+    "c15": {
+      "file": "assets/comics/chapters/c15-347c9aaa98.webp",
+      "bytes": 479020,
+      "sha256": "8b5e9499f927f486798da9126948572083504cb983e600ab8d79cf60cf0ec4b7",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "347c9aaa98b396128ef18108a87f988a3edad34a8c43e3e5d9e3c43588efec6e",
+      "preview": {
+        "file": "assets/comics/chapters/c15-347c9aaa98-preview.webp",
+        "bytes": 85164,
+        "sha256": "484325dea00522c77e1fa3b79ec1f38f33d9a84339ee538a85b82688fef80099"
+      },
+      "prompt": "production/prompts/chapter-comics/c15-347c9aaa98.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          764
+        ],
+        [
+          517,
+          0,
+          1024,
+          764
+        ],
+        [
+          0,
+          772,
+          508,
+          1536
+        ],
+        [
+          517,
+          772,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c15-s01",
+        "c15-s02",
+        "c15-s03",
+        "c15-s04"
+      ],
+      "review": "四格房型齐全。分子团与共价网、离子阵列与金属电子、配体与主客体均可辨，图为结构类型示意。"
+    },
+    "c16": {
+      "file": "assets/comics/chapters/c16-18d469cd87.webp",
+      "bytes": 443904,
+      "sha256": "14614c946ac1fa00a7a797489e08ded7813abbf110013b13b2dd3d36e1d29ddc",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "18d469cd87a8c92fd9f11c963bee7160aa89436c00f8f7eeaedca9adcbe30a78",
+      "preview": {
+        "file": "assets/comics/chapters/c16-18d469cd87-preview.webp",
+        "bytes": 83426,
+        "sha256": "ac76f63bb5b535433278eba937afbf55f31376a31f8ab7ad110ab38b3d430d88"
+      },
+      "prompt": "production/prompts/chapter-comics/c16-18d469cd87.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          501
+        ],
+        [
+          0,
+          510,
+          1024,
+          1009
+        ],
+        [
+          0,
+          1017,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c16-s01",
+        "c16-s02"
+      ],
+      "review": "复核返修的封闭样品，角色远离瓶口观察。其余各格以球棍和读谱情境承接研究方法。"
+    },
+    "c17": {
+      "file": "assets/comics/chapters/c17-4f05395d69.webp",
+      "bytes": 551076,
+      "sha256": "fd4f99e0ebda54449489745626682ed46980e1c53cc886092ce1b58ca0426492",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "4f05395d694e5d50ea80792f35d2379a209411a118b559675e32bfe23eb0c366",
+      "preview": {
+        "file": "assets/comics/chapters/c17-4f05395d69-preview.webp",
+        "bytes": 92822,
+        "sha256": "8bb4ece825c7065611e8bee74585a81df23fb6e4fcad127196fe2c4aed441d3f"
+      },
+      "prompt": "production/prompts/chapter-comics/c17-4f05395d69.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          515
+        ],
+        [
+          0,
+          526,
+          1024,
+          995
+        ],
+        [
+          0,
+          1006,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c17-s01",
+        "c17-s02",
+        "c17-s03"
+      ],
+      "review": "三格碳骨架车齐全。单键转动、双键处加成候选和环侧链分开表达。小车积木为连接类比。"
+    },
+    "c18": {
+      "file": "assets/comics/chapters/c18-effa4704ab.webp",
+      "bytes": 575988,
+      "sha256": "1107d537202ec53b52ca66f7e5a9a8d1cce77df6f5505f40c3932f3886180faa",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "effa4704abb8b6d6ede1803b655e3c567f6fecde16c55805fe65eaa48d684784",
+      "preview": {
+        "file": "assets/comics/chapters/c18-effa4704ab-preview.webp",
+        "bytes": 97546,
+        "sha256": "51384fb9e50d2005bc79b4a59b5ab5f1b7291825dbeeb9bce576ac9f83ad8823"
+      },
+      "prompt": "production/prompts/chapter-comics/c18-effa4704ab.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          501
+        ],
+        [
+          519,
+          0,
+          1024,
+          501
+        ],
+        [
+          0,
+          512,
+          507,
+          1013
+        ],
+        [
+          519,
+          512,
+          1024,
+          1013
+        ],
+        [
+          0,
+          1023,
+          507,
+          1536
+        ],
+        [
+          519,
+          1023,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c18-s01",
+        "c18-s02",
+        "c18-s03",
+        "c18-s04",
+        "c18-s05"
+      ],
+      "review": "六格换乘站齐全。四类官能团的条件选择、合成路线排除与收尾有各自场景，红色积木代号不当作真实原子式。"
+    },
+    "c19": {
+      "file": "assets/comics/chapters/c19-f556ee45a2.webp",
+      "bytes": 560996,
+      "sha256": "05d34ac754a5b2e8418212089280a26c338a4832e52171aef3ae3a6c47e66d9d",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "f556ee45a2501889ca181b28c3385d0f10fbc6d2b121d9cd117e1c17102032f8",
+      "preview": {
+        "file": "assets/comics/chapters/c19-f556ee45a2-preview.webp",
+        "bytes": 92030,
+        "sha256": "e31de9b1b47c173b7f8539aee4718538e53d7f324c254297b664729239ce38cd"
+      },
+      "prompt": "production/prompts/chapter-comics/c19-f556ee45a2.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          518,
+          1024,
+          1016
+        ],
+        [
+          0,
+          1025,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c19-s01",
+        "c19-s02",
+        "c19-s03"
+      ],
+      "review": "三格长链齐全。糖类、蛋白折叠与断链、DNA双链和RNA常见单链可辨，彩色符号是序列示意。"
+    },
+    "c20": {
+      "file": "assets/comics/chapters/c20-5187caa60e.webp",
+      "bytes": 492414,
+      "sha256": "fa0cd3ac10ba1d5194450f8e3c945449b08c56524a0d6aefa363f785df910af7",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "5187caa60eb0c5965ce2bc98e19ccf29654b1dfa6655f9e9e109d25db211bd1e",
+      "preview": {
+        "file": "assets/comics/chapters/c20-5187caa60e-preview.webp",
+        "bytes": 85122,
+        "sha256": "e03feaeac070af2fc704f080dea5caaaa6fbfe5e781dae3ecee82ec922ec3d42"
+      },
+      "prompt": "production/prompts/chapter-comics/c20-5187caa60e.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          499
+        ],
+        [
+          0,
+          509,
+          1024,
+          998
+        ],
+        [
+          0,
+          1007,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "c20-s01",
+        "c20-s02"
+      ],
+      "review": "三格雨衣情节齐全。聚合模型右侧有可移走的小部件，后格比较链与交联结构。模型不按具体物料定量。"
+    },
+    "g01": {
+      "file": "assets/comics/chapters/g01-e51d4f5c98.webp",
+      "bytes": 607862,
+      "sha256": "622ddeab98d01bef606378bc2b98e6c093f7f240bfe265ca282161c382a78a8b",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "e51d4f5c9862b198be455813e6e61ac12fa7f62fc326c070b2e27c702be09fb7",
+      "preview": {
+        "file": "assets/comics/chapters/g01-e51d4f5c98-preview.webp",
+        "bytes": 94900,
+        "sha256": "343f119f55becda8dd63918703ee96305b5303d131a8c97a0ef985c5ac0f697c"
+      },
+      "prompt": "production/prompts/chapter-comics/g01-e51d4f5c98.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          506,
+          763
+        ],
+        [
+          518,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          773,
+          506,
+          1536
+        ],
+        [
+          518,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g01-s01",
+        "g01-s02",
+        "g01-s03",
+        "g01-s04"
+      ],
+      "review": "依次核对天体层级、辐射与太阳活动、化石层位和圈层剖面。位置与厚度为示意。"
+    },
+    "g02": {
+      "file": "assets/comics/chapters/g02-eaffa96e5c.webp",
+      "bytes": 563686,
+      "sha256": "0f68902afdee9d8b82335ded7ce139e8eae69a84c0ed9fdd3eb07647a90c51a7",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "eaffa96e5c42e13f68a959d359e8afa04bbb009ae43cc0bd30dd83c04994a968",
+      "preview": {
+        "file": "assets/comics/chapters/g02-eaffa96e5c-preview.webp",
+        "bytes": 85326,
+        "sha256": "8ad57fbb1961dd19e563d73e37afad3a5bc1cf1c8b3be3de05a722585a52a1fd"
+      },
+      "prompt": "production/prompts/chapter-comics/g02-eaffa96e5c.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          532
+        ],
+        [
+          0,
+          540,
+          1024,
+          1045
+        ],
+        [
+          0,
+          1053,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g02-s01",
+        "g02-s02"
+      ],
+      "review": "核对故事开场、大气分层现场与昼夜海岸对照。海陆风来向与条件以对白、知识卡和定量模型为准。"
+    },
+    "g03": {
+      "file": "assets/comics/chapters/g03-bd0f499311.webp",
+      "bytes": 676394,
+      "sha256": "a4f75bc2ca5cee482448d580b7330ea2099ed332a5793b719d2fc86d107fe274",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "bd0f499311dce1b136523c23650292547944b8f54b084be22c6432e2cb473983",
+      "preview": {
+        "file": "assets/comics/chapters/g03-bd0f499311-preview.webp",
+        "bytes": 107652,
+        "sha256": "800f94589d9328b20ba99f60f4173fc0e61ae30e13ec9dbd3d804d76d7178910"
+      },
+      "prompt": "production/prompts/chapter-comics/g03-bd0f499311.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          510
+        ],
+        [
+          0,
+          518,
+          1024,
+          1050
+        ],
+        [
+          0,
+          1058,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g03-s01",
+        "g03-s02",
+        "g03-s03"
+      ],
+      "review": "核对水循环路径、采水样品与海湾的波浪、潮位和流动带。海况为虚构对照。"
+    },
+    "g04": {
+      "file": "assets/comics/chapters/g04-5d6f69cf47.webp",
+      "bytes": 715488,
+      "sha256": "752511a20811fc6af58021e8a58bb908bab3676f583d293f90a1c6dcdc6d5d32",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "5d6f69cf47fe2e5b509a28da3786ee273a75366cb76db7c31ba9d1645c2705ed",
+      "preview": {
+        "file": "assets/comics/chapters/g04-5d6f69cf47-preview.webp",
+        "bytes": 115704,
+        "sha256": "f408cf8ff76876d7ac236d5a56f3af096da5deda5a29ea98282d8e2cd31fed1f"
+      },
+      "prompt": "production/prompts/chapter-comics/g04-5d6f69cf47.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          507
+        ],
+        [
+          0,
+          514,
+          1024,
+          1013
+        ],
+        [
+          0,
+          1021,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g04-s01",
+        "g04-s02"
+      ],
+      "review": "核对开场观察、流水风沙海岸的地貌对照及从整体到局部的野外观察。"
+    },
+    "g05": {
+      "file": "assets/comics/chapters/g05-b06a9a89d7.webp",
+      "bytes": 743460,
+      "sha256": "01c25bd62c18bad7652da06f337901f8eed220e6e0a338cec359621fbb918ef2",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "b06a9a89d78e1d49448c3a494c62d280d5156351cb2a016bf724a674dbb3abec",
+      "preview": {
+        "file": "assets/comics/chapters/g05-b06a9a89d7-preview.webp",
+        "bytes": 124048,
+        "sha256": "e4272ed3a111b3ef0b238a41ddf420aeb4025741249d185b170eec341bb705da"
+      },
+      "prompt": "production/prompts/chapter-comics/g05-b06a9a89d7.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          502
+        ],
+        [
+          0,
+          511,
+          1024,
+          1021
+        ],
+        [
+          0,
+          1029,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g05-s01",
+        "g05-s02"
+      ],
+      "review": "核对盆栽开场、阴阳湿干坡植被对照和土层剖面。土壤形成条件在对白中说明。"
+    },
+    "g06": {
+      "file": "assets/comics/chapters/g06-d0ff927a02.webp",
+      "bytes": 677122,
+      "sha256": "7083b13a723ce61bdff6c7407d374df69764e03e2e99ec337ba0969aeab12303",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "d0ff927a02b5cf8b74a5f83118be967d714ff25d05af8de54072ecb1d945d0f9",
+      "preview": {
+        "file": "assets/comics/chapters/g06-d0ff927a02-preview.webp",
+        "bytes": 113754,
+        "sha256": "d7e76866efbae6fc64b34eb86170cdbdf69a1226aee440ef0db4d173c7831089"
+      },
+      "prompt": "production/prompts/chapter-comics/g06-d0ff927a02.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          763
+        ],
+        [
+          518,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          772,
+          507,
+          1536
+        ],
+        [
+          518,
+          772,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g06-s01",
+        "g06-s02",
+        "g06-s03",
+        "g06-s04"
+      ],
+      "review": "核对气象监测、坡面失稳、撤离演练与风险图层。案例为虚构地景。"
+    },
+    "g07": {
+      "file": "assets/comics/chapters/g07-2841a61945.webp",
+      "bytes": 707940,
+      "sha256": "6dc4643db0cfbe5fa7376eccf4925270ec5ff2f8b5515135a32dca18ff8c69bb",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "2841a61945583677813f7af64ecfa1318f145183cc2fcd5d8d11416ef6a0038a",
+      "preview": {
+        "file": "assets/comics/chapters/g07-2841a61945-preview.webp",
+        "bytes": 125102,
+        "sha256": "6766b864540bd9f82f2bdb8a674e072c697c927a9e6add8727e7e4317a57b7ab"
+      },
+      "prompt": "production/prompts/chapter-comics/g07-2841a61945.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          509
+        ],
+        [
+          0,
+          516,
+          1024,
+          1025
+        ],
+        [
+          0,
+          1032,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g07-s01",
+        "g07-s02",
+        "g07-s03"
+      ],
+      "review": "对照人口筹码分布、毕业生迁居与水库服务容量模型。"
+    },
+    "g08": {
+      "file": "assets/comics/chapters/g08-c7f948ab48.webp",
+      "bytes": 778468,
+      "sha256": "8189450a55a78358e96ff3cf1adfba5b4c9e1f73dbd7b0220d5b3e004b926785",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "c7f948ab487b79a12670af48e659ca0e2242bc0ccf2f1d506023c671b6379da7",
+      "preview": {
+        "file": "assets/comics/chapters/g08-c7f948ab48-preview.webp",
+        "bytes": 131536,
+        "sha256": "1e258c2ef78573a3897fb1f00b204b17b7d6c9cc4da6998562435a4ec4220c01"
+      },
+      "prompt": "production/prompts/chapter-comics/g08-c7f948ab48.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          525
+        ],
+        [
+          0,
+          532,
+          1024,
+          1003
+        ],
+        [
+          0,
+          1011,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g08-s01",
+        "g08-s02",
+        "g08-s03"
+      ],
+      "review": "对照功能区的三类图层、新旧城空间变化与骑楼街文化使用场景。"
+    },
+    "g09": {
+      "file": "assets/comics/chapters/g09-398e2835ef.webp",
+      "bytes": 746010,
+      "sha256": "12420ad324db712eb0b129dc0b28d9ae28395b01f7a853f4727c48ef01338bfe",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "398e2835ef718ba03db58f56972d301cce606b8178cd8d081528874345cd4428",
+      "preview": {
+        "file": "assets/comics/chapters/g09-398e2835ef-preview.webp",
+        "bytes": 129882,
+        "sha256": "ce721bd1200ad24334dfcf2ae13e32cb8982a259a3c35a936afa157f54c275c1"
+      },
+      "prompt": "production/prompts/chapter-comics/g09-398e2835ef.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          515,
+          1024,
+          1020
+        ],
+        [
+          0,
+          1026,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g09-s01",
+        "g09-s02",
+        "g09-s03"
+      ],
+      "review": "核对菜地选址、港口加工厂与服务点三格。每格的区位条件见知识卡。"
+    },
+    "g10": {
+      "file": "assets/comics/chapters/g10-01e0d831d0.webp",
+      "bytes": 754024,
+      "sha256": "32d1f46457f4bb7cea91e9282816094cbc1b2042e04ea2b7ee1d885f52fb65d9",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "01e0d831d0b1f9d2e97d5fbef6620b7df23d24c204911199cee6668508cffb30",
+      "preview": {
+        "file": "assets/comics/chapters/g10-01e0d831d0-preview.webp",
+        "bytes": 122018,
+        "sha256": "1707045e92e8641211773d01872574af25791241f797cf305e8eeda3b7ed269e"
+      },
+      "prompt": "production/prompts/chapter-comics/g10-01e0d831d0.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          514,
+          1024,
+          1005
+        ],
+        [
+          0,
+          1012,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g10-s01",
+        "g10-s02"
+      ],
+      "review": "核对居民诉求开场、两桥址规划与通车后两岸场景。"
+    },
+    "g11": {
+      "file": "assets/comics/chapters/g11-bcd19c2d3e.webp",
+      "bytes": 700100,
+      "sha256": "764b84415ddb863c6bffd7df6166e752f88ef06fe2028f98a4b0a86726ab6dec",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "bcd19c2d3ef0b4ef28f1ee77b1e45e31e7bfb7ff44234a89741f767cacb88d1a",
+      "preview": {
+        "file": "assets/comics/chapters/g11-bcd19c2d3e-preview.webp",
+        "bytes": 116892,
+        "sha256": "795369c7097e33d4fa3055d4e635e77feed632c4d80a8c6adf66f4e2be192e2a"
+      },
+      "prompt": "production/prompts/chapter-comics/g11-bcd19c2d3e.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          506
+        ],
+        [
+          0,
+          516,
+          1024,
+          1018
+        ],
+        [
+          0,
+          1027,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g11-s01",
+        "g11-s02",
+        "g11-s03"
+      ],
+      "review": "核对不同河水样品、两套河岸规划与区域和沿海空间协作模型。"
+    },
+    "g12": {
+      "file": "assets/comics/chapters/g12-eefcfaad17.webp",
+      "bytes": 442134,
+      "sha256": "04501eb77b5ffca56e95513a16e564a5dbb3c9928d4b33c37d70064f01fc16d2",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "eefcfaad17cd34c7c57b413fb6ac2f25b7eb087621e29a6a867832cdfac5830c",
+      "preview": {
+        "file": "assets/comics/chapters/g12-eefcfaad17-preview.webp",
+        "bytes": 80064,
+        "sha256": "f2871cf3f89d5ebdd3f8d83e2d9ee53332f66088eca4e6b7fef05664c2e6d8fb"
+      },
+      "prompt": "production/prompts/chapter-comics/g12-eefcfaad17.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          516,
+          1024,
+          1017
+        ],
+        [
+          0,
+          1025,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g12-s01",
+        "g12-s02"
+      ],
+      "review": "核对季节来信开场、倾斜地球仪与不同影长。光束场景为定性类比。"
+    },
+    "g13": {
+      "file": "assets/comics/chapters/g13-e4328cf4eb.webp",
+      "bytes": 660666,
+      "sha256": "5bef8e02b3f1233479e024aaf449afc0bad32635d0e5465adbc0d08500f5ab44",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "e4328cf4ebfeedbd5b37cc609a60e24f44094816af355800aeeb47c03957edb3",
+      "preview": {
+        "file": "assets/comics/chapters/g13-e4328cf4eb-preview.webp",
+        "bytes": 114508,
+        "sha256": "6dcc0ad340e8018b100ab4c9c922a2bd1c483fbd50f8e65883f0ae8886c7b1d3"
+      },
+      "prompt": "production/prompts/chapter-comics/g13-e4328cf4eb.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          505
+        ],
+        [
+          0,
+          515,
+          1024,
+          955
+        ],
+        [
+          0,
+          964,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g13-s01",
+        "g13-s02",
+        "g13-s03"
+      ],
+      "review": "核对抬升风化搬运地景、弯曲及错断岩层、峡谷与宽谷河曲。"
+    },
+    "g14": {
+      "file": "assets/comics/chapters/g14-82364de4ed.webp",
+      "bytes": 613558,
+      "sha256": "00848697eb8ec096361ff8b40c4a4b6c0a2d655b103d3171ce63747b42b8cd55",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "82364de4edb2482d259f8fcedff1b74b07fcbf7cd14753d93910c3118e7d0591",
+      "preview": {
+        "file": "assets/comics/chapters/g14-82364de4ed-preview.webp",
+        "bytes": 100944,
+        "sha256": "3edbc5cc656f484bdc46bb371cb04cb396d3fd8a4da1c2eb6746087b47c6d92f"
+      },
+      "prompt": "production/prompts/chapter-comics/g14-82364de4ed.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          515,
+          1024,
+          1019
+        ],
+        [
+          0,
+          1027,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g14-s01",
+        "g14-s02",
+        "g14-s03"
+      ],
+      "review": "核对天气观测、试摆的气压带风带模型及同地夏干冬雨。对白请学生纠正试摆风向。"
+    },
+    "g15": {
+      "file": "assets/comics/chapters/g15-81c45fa39f.webp",
+      "bytes": 684034,
+      "sha256": "1a84c25548f52c9cc45e78544f162a38795b71ea155bb1fb41817378332036ef",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "81c45fa39f05751f9ead96ee83c1374ee02e979f86c0bd61a40ffc4c491d40d0",
+      "preview": {
+        "file": "assets/comics/chapters/g15-81c45fa39f-preview.webp",
+        "bytes": 109172,
+        "sha256": "896e75e59d955d68b6b86f6f55f50b84c3c92f799ec918295cc3d70bb8ad7c56"
+      },
+      "prompt": "production/prompts/chapter-comics/g15-81c45fa39f.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          515,
+          1024,
+          1019
+        ],
+        [
+          0,
+          1026,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g15-s01",
+        "g15-s02",
+        "g15-s03"
+      ],
+      "review": "对照河湖含水层、冷暖洋流与沿岸上升流、海气观测。画面不代表特定海区。"
+    },
+    "g16": {
+      "file": "assets/comics/chapters/g16-4f66548c16.webp",
+      "bytes": 711812,
+      "sha256": "478d4dbbbb045ac7515dfdf8a0f46a05182b354176feae9e6f9b4e1c87cbe8e5",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "4f66548c16543cabed29392242a3c08809c5e110bb077c15e20f07d57ca362bb",
+      "preview": {
+        "file": "assets/comics/chapters/g16-4f66548c16-preview.webp",
+        "bytes": 126814,
+        "sha256": "0eb369c0496a13438375e72eb5035cb8a688ddffff143f4ed312098bd181e3a4"
+      },
+      "prompt": "production/prompts/chapter-comics/g16-4f66548c16.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          481
+        ],
+        [
+          0,
+          491,
+          1024,
+          1003
+        ],
+        [
+          0,
+          1013,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g16-s01",
+        "g16-s02"
+      ],
+      "review": "核对移走植被开场、裸地有林径流差异、海陆与高山带谱三个场景。"
+    },
+    "g17": {
+      "file": "assets/comics/chapters/g17-f62d13c1d8.webp",
+      "bytes": 727002,
+      "sha256": "9fb336f9ff646af7a2bbb97a2b8e06e4406b8c3193eb9a17a6a39956b14fa579",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "f62d13c1d89afb36a77fef8623b979db050c1b3d3eec2eba45244054b33c67bd",
+      "preview": {
+        "file": "assets/comics/chapters/g17-f62d13c1d8-preview.webp",
+        "bytes": 125830,
+        "sha256": "f8d9a15c85c7383fbf21c784857f4a49101d4f7df011fa4d2fba00f5538f8c3f"
+      },
+      "prompt": "production/prompts/chapter-comics/g17-f62d13c1d8.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          497
+        ],
+        [
+          0,
+          516,
+          1024,
+          1016
+        ],
+        [
+          0,
+          1025,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g17-s01",
+        "g17-s02"
+      ],
+      "review": "核对三套边界草图、透明分区叠层和村内外道路河流。边界为虚构。"
+    },
+    "g18": {
+      "file": "assets/comics/chapters/g18-6941a6270d.webp",
+      "bytes": 796514,
+      "sha256": "b7b24fc219c25be4dae07c41f55ab6282f16853bc2e956fc947e9dfbf037f8f4",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "6941a6270da96456b4c22453f890c35132d9007ec6a103f0ca7d1b3e8ec350d9",
+      "preview": {
+        "file": "assets/comics/chapters/g18-6941a6270d-preview.webp",
+        "bytes": 133926,
+        "sha256": "dfe19ab22e7f0460a6f878b801715d1a77b1a4a713097a5d5c2790541a416b28"
+      },
+      "prompt": "production/prompts/chapter-comics/g18-6941a6270d.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          511
+        ],
+        [
+          0,
+          518,
+          1024,
+          976
+        ],
+        [
+          0,
+          983,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g18-s01",
+        "g18-s02",
+        "g18-s03"
+      ],
+      "review": "核对矿城条件卡、两坡面治理与旧厂区转型案例。"
+    },
+    "g19": {
+      "file": "assets/comics/chapters/g19-fdbee0b8c5.webp",
+      "bytes": 720466,
+      "sha256": "e715a60226606182c5dccaac39b51cdda0579ed5132aae5826243bb8ac98ab67",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "fdbee0b8c581c1accab1a0b29ef9d487701ebd9b2211e6132f102273750175bd",
+      "preview": {
+        "file": "assets/comics/chapters/g19-fdbee0b8c5-preview.webp",
+        "bytes": 116882,
+        "sha256": "504b37094340cc83a47aa1ff915b8eee01c16189125e5e06beb05967eb6d7233"
+      },
+      "prompt": "production/prompts/chapter-comics/g19-fdbee0b8c5.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          480
+        ],
+        [
+          0,
+          490,
+          1024,
+          887
+        ],
+        [
+          0,
+          897,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g19-s01",
+        "g19-s02"
+      ],
+      "review": "核对距离圆假设、交通走廊和转型时间对照。辐射范围非实测。"
+    },
+    "g20": {
+      "file": "assets/comics/chapters/g20-a5ef95ab8f.webp",
+      "bytes": 694652,
+      "sha256": "90ae799846209e91ceb3b0dac2969a2a57d89b2318b849924c6360d44035d869",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "a5ef95ab8f49d42dfa32c6cff0cf696ef5c7dafa66cab0b2dac7979f838da1fd",
+      "preview": {
+        "file": "assets/comics/chapters/g20-a5ef95ab8f-preview.webp",
+        "bytes": 114364,
+        "sha256": "0b059c95c80d1de21467dc4ade46553af1b4ed91d234525c0b16610269218ea2"
+      },
+      "prompt": "production/prompts/chapter-comics/g20-a5ef95ab8f.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          762
+        ],
+        [
+          518,
+          0,
+          1024,
+          762
+        ],
+        [
+          0,
+          773,
+          507,
+          1536
+        ],
+        [
+          518,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g20-s01",
+        "g20-s02",
+        "g20-s03",
+        "g20-s04"
+      ],
+      "review": "核对流域调度、调配路线、产业搬迁及港口合作四格。"
+    },
+    "g21": {
+      "file": "assets/comics/chapters/g21-a07ba21719.webp",
+      "bytes": 827120,
+      "sha256": "5ea820c175f0362acb3220e5d3249a6174235de4fa89d9ad050a7dfe01c06957",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "a07ba2171965ba8b90c90690ea6456983a7ce460f649fe6a7c45d3c191b737f7",
+      "preview": {
+        "file": "assets/comics/chapters/g21-a07ba21719-preview.webp",
+        "bytes": 136900,
+        "sha256": "d80dd80378f1f905f381d31a236bc32272f7c01c0d82e36a9bff002b5f3a29fa"
+      },
+      "prompt": "production/prompts/chapter-comics/g21-a07ba21719.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          517,
+          1024,
+          1043
+        ],
+        [
+          0,
+          1052,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g21-s01",
+        "g21-s02",
+        "g21-s03"
+      ],
+      "review": "核对湿地多种服务、不同资源更新条件及流域污染观察。"
+    },
+    "g22": {
+      "file": "assets/comics/chapters/g22-7099470421.webp",
+      "bytes": 721166,
+      "sha256": "7fc90fc6d8ec84c9ac60a6fc2487fc90daab194247c06c109f517d12a18823d3",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "7099470421e6539066fe3267b25d8b2d0e7bc76dc37148869a33b1b9fc9e98a6",
+      "preview": {
+        "file": "assets/comics/chapters/g22-7099470421-preview.webp",
+        "bytes": 126486,
+        "sha256": "08962bde4477699b7088451294e96fd565f6cefc0eeca8f9becedfed233491b8"
+      },
+      "prompt": "production/prompts/chapter-comics/g22-7099470421.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          763
+        ],
+        [
+          518,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          772,
+          508,
+          1536
+        ],
+        [
+          518,
+          772,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g22-s01",
+        "g22-s02",
+        "g22-s03",
+        "g22-s04"
+      ],
+      "review": "核对备选供给路线、能源结构、粮食生产到储备与海洋空间布局。"
+    },
+    "g23": {
+      "file": "assets/comics/chapters/g23-0cf67fcf68.webp",
+      "bytes": 706508,
+      "sha256": "52a630f30627518bfea5f6cb556c103a5df134a57f3e5edf3c89fe4f546bc46b",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "0cf67fcf680dc732df0f137c1aff5b6fe51f22c5037d40e92c9e36eeb1ee8342",
+      "preview": {
+        "file": "assets/comics/chapters/g23-0cf67fcf68-preview.webp",
+        "bytes": 114376,
+        "sha256": "ccaf32053b538285c09ae9a15441304e364dc9aace3c02727ca0ad0b65833a09"
+      },
+      "prompt": "production/prompts/chapter-comics/g23-0cf67fcf68.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          509,
+          763
+        ],
+        [
+          517,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          771,
+          509,
+          1536
+        ],
+        [
+          517,
+          771,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g23-s01",
+        "g23-s02",
+        "g23-s03",
+        "g23-s04"
+      ],
+      "review": "核对污染羽流、治理试验、生态廊道和沿海减排适应两类措施。"
+    },
+    "g24": {
+      "file": "assets/comics/chapters/g24-d48303d183.webp",
+      "bytes": 764882,
+      "sha256": "6ad1e29767925c65a1061603de82d4bc57aeb31fb219b622e38f09c7aa58f0e6",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "d48303d183f70e1662d2543fd1a84098ded79bf75059c4abb9f54e40a6d26f11",
+      "preview": {
+        "file": "assets/comics/chapters/g24-d48303d183-preview.webp",
+        "bytes": 128464,
+        "sha256": "bfbfeb75230091e2a31883d51f15af0ed1849cfe8923862c22d2d10dc9ec5098"
+      },
+      "prompt": "production/prompts/chapter-comics/g24-d48303d183.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          518
+        ],
+        [
+          0,
+          527,
+          1024,
+          973
+        ],
+        [
+          0,
+          981,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g24-s01",
+        "g24-s02",
+        "g24-s03"
+      ],
+      "review": "核对街区方案、分区监测和跨区域共同监测，场景不含真实区划。"
+    },
+    "g25": {
+      "file": "assets/comics/chapters/g25-823f2871bb.webp",
+      "bytes": 646870,
+      "sha256": "7e81861eeca2e058b095452a8c3e507aa5704ef6b1d9dcd1fa5c415aaf432b99",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "823f2871bbc8c6f8de04c5255268d24b624550c7f0fdc7e2596aa555cca62ee5",
+      "preview": {
+        "file": "assets/comics/chapters/g25-823f2871bb-preview.webp",
+        "bytes": 107890,
+        "sha256": "01a5e7cd39dab2385f638aeb306b6a4dbddabc6f5613a09e4a463c888bab9d5a"
+      },
+      "prompt": "production/prompts/chapter-comics/g25-823f2871bb.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          509,
+          765
+        ],
+        [
+          517,
+          0,
+          1024,
+          765
+        ],
+        [
+          0,
+          772,
+          509,
+          1536
+        ],
+        [
+          517,
+          772,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "g25-s01",
+        "g25-s02",
+        "g25-s03",
+        "g25-s04"
+      ],
+      "review": "核对方向比例尺、等高线与剖面、区域定位与综合题表达。地图为观察情景。"
+    },
+    "m01": {
+      "file": "assets/comics/chapters/m01-48891c651b.webp",
+      "bytes": 555422,
+      "sha256": "a5eb8332ddea58b79f8e7ea93e77709cab534ac6fc143e5376debdd7b6d85e91",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "48891c651b104323c57a72d379388e91ac8b3b08035b8dc3e3b2e3c64435e26d",
+      "preview": {
+        "file": "assets/comics/chapters/m01-48891c651b-preview.webp",
+        "bytes": 96144,
+        "sha256": "36b549727cb3eef367ef43afea11ad672c5e6d2d4bfd402f084beb129cffb629"
+      },
+      "prompt": "production/prompts/chapter-comics/m01-48891c651b.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          509,
+          509
+        ],
+        [
+          517,
+          0,
+          1024,
+          509
+        ],
+        [
+          0,
+          516,
+          509,
+          1020
+        ],
+        [
+          517,
+          516,
+          1024,
+          1020
+        ],
+        [
+          0,
+          1027,
+          509,
+          1536
+        ],
+        [
+          517,
+          1027,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m01-s01",
+        "m01-s02",
+        "m01-s03",
+        "m01-s04",
+        "m01-s05"
+      ],
+      "review": "六格顺序与脚本一致。相同票号只记一次，包含与空盒、灯光交并、单向通行反例、坏票否定和开场回收均可辨识。"
+    },
+    "m02": {
+      "file": "assets/comics/chapters/m02-381ece462d.webp",
+      "bytes": 671406,
+      "sha256": "52d8f4bae497a29d598c960cc93ff2f34fba321cf710acf3d80312f58c90eca3",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "381ece462d03d63c3971cc6248a842dcb2eb24804b9db809b6666d56b4c4ae6c",
+      "preview": {
+        "file": "assets/comics/chapters/m02-381ece462d-preview.webp",
+        "bytes": 111900,
+        "sha256": "376403e31a90cbcfd1a0c14d370656161dcddc35b9395cef93928146a70eb7eb"
+      },
+      "prompt": "production/prompts/chapter-comics/m02-381ece462d.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          512
+        ],
+        [
+          0,
+          520,
+          1024,
+          1010
+        ],
+        [
+          0,
+          1019,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m02-s01",
+        "m02-s02",
+        "m02-s03"
+      ],
+      "review": "三幅园艺场景齐全。围栏草图不按比例，配套对白明确改用同一根绳才比较同周长面积。抛物线开口向下，两个交点作边界示意。"
+    },
+    "m03": {
+      "file": "assets/comics/chapters/m03-ec468f511a.webp",
+      "bytes": 468348,
+      "sha256": "861a20a6c88bc4b451c1726db60867533544bf7c90be60e30dd6250f7fed9653",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "ec468f511a0722f85c3ccf487185e169fa669b1b0f0177aa86898b1886c9a1f8",
+      "preview": {
+        "file": "assets/comics/chapters/m03-ec468f511a-preview.webp",
+        "bytes": 91534,
+        "sha256": "e8e66bddbcf30804fbb17b52ca7aeebdb9d7bcdb17b211c53e1c37c2a661856f"
+      },
+      "prompt": "production/prompts/chapter-comics/m03-ec468f511a.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          506,
+          761
+        ],
+        [
+          519,
+          0,
+          1024,
+          761
+        ],
+        [
+          0,
+          773,
+          506,
+          1536
+        ],
+        [
+          519,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m03-s01",
+        "m03-s02",
+        "m03-s03",
+        "m03-s04"
+      ],
+      "review": "核对四格次序与义卖情节。可辨识输入票据、竖轴对称U形、二维方砖与三维积木、固定费和按件成本筹码。票据画面为规则类比，函数定义、域与符号用配套对白明确。"
+    },
+    "m04": {
+      "file": "assets/comics/chapters/m04-ffe651d62b.webp",
+      "bytes": 585308,
+      "sha256": "9fa1a7fa42260238b01ebeca120411ae6dae450ec89f8162cde5c8a9ffeccef8",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "ffe651d62b54a795ea8d6da994680c223dfd285619a2f0ac0a366cd8ddf40663",
+      "preview": {
+        "file": "assets/comics/chapters/m04-ffe651d62b-preview.webp",
+        "bytes": 104320,
+        "sha256": "3addf3aaaa10f861a97220da76e3baa347808946176cfa0a4ca967a2de90c6f8"
+      },
+      "prompt": "production/prompts/chapter-comics/m04-ffe651d62b.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          440
+        ],
+        [
+          519,
+          0,
+          1024,
+          440
+        ],
+        [
+          0,
+          448,
+          507,
+          923
+        ],
+        [
+          519,
+          448,
+          1024,
+          923
+        ],
+        [
+          0,
+          932,
+          507,
+          1536
+        ],
+        [
+          519,
+          932,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m04-s01",
+        "m04-s02",
+        "m04-s03",
+        "m04-s04",
+        "m04-s05"
+      ],
+      "review": "六格图书塔情节齐全。分格高不等，按实际横向留白定位。逆映射与二分条件以对白及公式为准，灯光与曲线用于定性示意。"
+    },
+    "m05": {
+      "file": "assets/comics/chapters/m05-6ed516456b.webp",
+      "bytes": 442606,
+      "sha256": "2ffca7e6e666e3c1650d13bfcfd458f2833573957a37e9b64302f83cec4b8821",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "6ed516456bc7262c28f5cd84e04821f0ec1e675ad1e4a92a8110476a3a9e751f",
+      "preview": {
+        "file": "assets/comics/chapters/m05-6ed516456b-preview.webp",
+        "bytes": 82806,
+        "sha256": "71f9896d6221bff606b6959189cf570c32d011454450e18adb15f31c7f88d964"
+      },
+      "prompt": "production/prompts/chapter-comics/m05-6ed516456b.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          509,
+          379
+        ],
+        [
+          516,
+          0,
+          1024,
+          379
+        ],
+        [
+          0,
+          385,
+          509,
+          764
+        ],
+        [
+          516,
+          385,
+          1024,
+          764
+        ],
+        [
+          0,
+          771,
+          509,
+          1132
+        ],
+        [
+          516,
+          771,
+          1024,
+          1132
+        ],
+        [
+          0,
+          1138,
+          509,
+          1536
+        ],
+        [
+          516,
+          1138,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m05-s01",
+        "m05-s02",
+        "m05-s03",
+        "m05-s04",
+        "m05-s05",
+        "m05-s06",
+        "m05-s07"
+      ],
+      "review": "八格灯光彩排齐全。圆、投影、对称、波线、转盘、参数旋钮、座舱和亮灯结尾按顺序可辨识。角度和振幅不从画面量取。"
+    },
+    "m06": {
+      "file": "assets/comics/chapters/m06-47c191be69.webp",
+      "bytes": 646118,
+      "sha256": "478b34dfbaeb1053e3db0469173cee998ec61f220beeab4e4a03f913ed362c9d",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "47c191be693fe3f08740ae726f15a035543a0285544d4b26b89f79abdcd749ac",
+      "preview": {
+        "file": "assets/comics/chapters/m06-47c191be69-preview.webp",
+        "bytes": 109990,
+        "sha256": "20d7c2260288146ceb86a2aa3e021047b173c3e0ba2eced718f61be62405b3a2"
+      },
+      "prompt": "production/prompts/chapter-comics/m06-47c191be69.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          762
+        ],
+        [
+          518,
+          0,
+          1024,
+          762
+        ],
+        [
+          0,
+          772,
+          508,
+          1536
+        ],
+        [
+          518,
+          772,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m06-s01",
+        "m06-s02",
+        "m06-s03",
+        "m06-s04"
+      ],
+      "review": "四格纸船路线齐全。两个平移箭头同向，分段与净位移可辨，滑轨不平行，岸边三角测量有共同浮标。尺度使用网页条件。"
+    },
+    "m07": {
+      "file": "assets/comics/chapters/m07-1d694acfed.webp",
+      "bytes": 609282,
+      "sha256": "b5ac083fd6bc54f2d5dee46b31733f8768ad098c89ea5f1194dc50f11d9725e3",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "1d694acfed21d6357cd2e4682122863507377d8bd4ef3b46319056e750a809a7",
+      "preview": {
+        "file": "assets/comics/chapters/m07-1d694acfed-preview.webp",
+        "bytes": 90300,
+        "sha256": "8feb2a065a9f54776f5d8e28f2a6588bfba0f3f3513e2f77a51213f45dbc6632"
+      },
+      "prompt": "production/prompts/chapter-comics/m07-1d694acfed.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          506
+        ],
+        [
+          0,
+          514,
+          1024,
+          1007
+        ],
+        [
+          0,
+          1015,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m07-s01",
+        "m07-s02",
+        "m07-s03"
+      ],
+      "review": "三格寻宝情节齐全。坐标板实轴镜像示意、朝右到朝上的逆时针四分之一周、旋转缩放光束依次可辨。斜视坐标图不量取数值。"
+    },
+    "m08": {
+      "file": "assets/comics/chapters/m08-405a0676b6.webp",
+      "bytes": 599512,
+      "sha256": "2122934f495c524e75e7fa443cf61d00c1e76d75339f924586ad9b9403521827",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "405a0676b6a8c01e6ab99cd4c723c55ca3cf4a70f833be306892eef2105c2460",
+      "preview": {
+        "file": "assets/comics/chapters/m08-405a0676b6-preview.webp",
+        "bytes": 93828,
+        "sha256": "f09debeae623de91e683bbb2dabed9584fceabb587bd7570b44ec68d1ea06e97"
+      },
+      "prompt": "production/prompts/chapter-comics/m08-405a0676b6.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          508
+        ],
+        [
+          517,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          517,
+          508,
+          1012
+        ],
+        [
+          517,
+          517,
+          1024,
+          1012
+        ],
+        [
+          0,
+          1022,
+          508,
+          1536
+        ],
+        [
+          517,
+          1022,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m08-s01",
+        "m08-s02",
+        "m08-s03",
+        "m08-s04",
+        "m08-s05",
+        "m08-s06"
+      ],
+      "review": "六格纸城情节齐全。第4格红边实际相交，已同步修订对白和替代文字，另用立方体前底边与后右竖棱举异面反例。"
+    },
+    "m09": {
+      "file": "assets/comics/chapters/m09-12d72e1ebd.webp",
+      "bytes": 623916,
+      "sha256": "e67ee2ae1d0fb891fb7a9f197d36848e9f0b7af4fa11df196b73cc49bf6eabee",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "12d72e1ebdb6808567e7271aae778a6c89bdcaa2d6002f71f71e8ca89f9d009f",
+      "preview": {
+        "file": "assets/comics/chapters/m09-12d72e1ebd-preview.webp",
+        "bytes": 98780,
+        "sha256": "a5b5c3f486c7363fa5a94c177734dfe8fc30fc3de371c8ea0904c122f1c4f22d"
+      },
+      "prompt": "production/prompts/chapter-comics/m09-12d72e1ebd.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          516,
+          1024,
+          1021
+        ],
+        [
+          0,
+          1028,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m09-s01",
+        "m09-s02",
+        "m09-s03"
+      ],
+      "review": "三格抽样故事齐全。分组箱、中心与离散筹码、匿名调查归类可辨识，图片筹码不作为统计样本值。"
+    },
+    "m10": {
+      "file": "assets/comics/chapters/m10-73d46a3a82.webp",
+      "bytes": 563524,
+      "sha256": "f6d80ea81b80080cc2b9415f15323704fa4e1a1574407391f1ce2aad714c64ce",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "73d46a3a82cd196187544906259467df30a08927d957f861afddc9ee61a89c81",
+      "preview": {
+        "file": "assets/comics/chapters/m10-73d46a3a82-preview.webp",
+        "bytes": 93752,
+        "sha256": "4cdd6646eb0530a38504d028739eccf751a998b16a81d762ce2bf0d92dcb551d"
+      },
+      "prompt": "production/prompts/chapter-comics/m10-73d46a3a82.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          583
+        ],
+        [
+          0,
+          595,
+          1024,
+          1050
+        ],
+        [
+          0,
+          1060,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m10-s01",
+        "m10-s02",
+        "m10-s03"
+      ],
+      "review": "三格抽奖对照齐全，重叠区、摇号与不放回、长短投掷记录对应三节。筹码与硬币只表达分类和样本量。"
+    },
+    "m11": {
+      "file": "assets/comics/chapters/m11-6f80e194d8.webp",
+      "bytes": 494592,
+      "sha256": "aefeb3a84064d32fa52017dde07a5c5462243bebdb95f3adccf0292a53781886",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "6f80e194d8a006ed27590822ea191a203f4cf7bd1e48cc7119b37da3686d4b93",
+      "preview": {
+        "file": "assets/comics/chapters/m11-6f80e194d8-preview.webp",
+        "bytes": 85392,
+        "sha256": "b35f008d38863b284caddd9ad7e78cc9db7e7c0292c5c5535a51eb5180cd3fff"
+      },
+      "prompt": "production/prompts/chapter-comics/m11-6f80e194d8.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          763
+        ],
+        [
+          517,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          771,
+          508,
+          1536
+        ],
+        [
+          517,
+          771,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m11-s01",
+        "m11-s02",
+        "m11-s03",
+        "m11-s04"
+      ],
+      "review": "四格三维仓库齐全。位移箭头、三向滑轨、正交网格与法杆、水平投影可辨。角度只按网页公式求。"
+    },
+    "m12": {
+      "file": "assets/comics/chapters/m12-70cef9b7e5.webp",
+      "bytes": 656894,
+      "sha256": "701cff70cf3bebcc56547b5354a317148d841934223e02b18176fdfa411f46bf",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "70cef9b7e542fc5ed72b8b7dddc18e6b59e708439bf9ce1141ca21875a94ee6a",
+      "preview": {
+        "file": "assets/comics/chapters/m12-70cef9b7e5-preview.webp",
+        "bytes": 109658,
+        "sha256": "0448c6d4286b5b72ba10372379d1f84bc79c6202d07f93223d3e801a15d4bcfd"
+      },
+      "prompt": "production/prompts/chapter-comics/m12-70cef9b7e5.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          507
+        ],
+        [
+          518,
+          0,
+          1024,
+          507
+        ],
+        [
+          0,
+          515,
+          508,
+          1019
+        ],
+        [
+          518,
+          515,
+          1024,
+          1019
+        ],
+        [
+          0,
+          1028,
+          508,
+          1536
+        ],
+        [
+          518,
+          1028,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m12-s01",
+        "m12-s02",
+        "m12-s03",
+        "m12-s04",
+        "m12-s05"
+      ],
+      "review": "六格花车情节齐全。第5格木杆实际是割线，已按画面改为移动到相切的提问。第1格是坡度示意，竖直直线按对白说明。"
+    },
+    "m13": {
+      "file": "assets/comics/chapters/m13-2706184f5d.webp",
+      "bytes": 646452,
+      "sha256": "6f90d460ecc0cad1a0a1dd8eef8df746b40305770b54ea717f14c57874cdf8bd",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "2706184f5d601668ea79a28c235a566204d046b82d00958f906348a50531be2f",
+      "preview": {
+        "file": "assets/comics/chapters/m13-2706184f5d-preview.webp",
+        "bytes": 89756,
+        "sha256": "d4aa46eb19603c94af98508cb7b83b56946dc4fffcf1ec20c9249ca3fae6ed49"
+      },
+      "prompt": "production/prompts/chapter-comics/m13-2706184f5d.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          520
+        ],
+        [
+          0,
+          527,
+          1024,
+          1013
+        ],
+        [
+          0,
+          1020,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m13-s01",
+        "m13-s02",
+        "m13-s03"
+      ],
+      "review": "三格分别呈现两焦点、两信标和点线距离。末格绳长不等，明确为试探点而非抛物线上的点。精确关系可用章内模型复核。"
+    },
+    "m14": {
+      "file": "assets/comics/chapters/m14-a56c37732b.webp",
+      "bytes": 583326,
+      "sha256": "919c9c7bce6287a60cb641e5448495b3dee5c5430ffdea3a1c61fd6c43523058",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "a56c37732bf807fdf14bfe4921e6eb2f811121786de19db06fe706fa796e2681",
+      "preview": {
+        "file": "assets/comics/chapters/m14-a56c37732b-preview.webp",
+        "bytes": 101994,
+        "sha256": "3d541379d8986991e9b215cd46710278d2a31887d4a2ea1057ccdd8cf4868c10"
+      },
+      "prompt": "production/prompts/chapter-comics/m14-a56c37732b.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          509,
+          762
+        ],
+        [
+          517,
+          0,
+          1024,
+          762
+        ],
+        [
+          0,
+          770,
+          509,
+          1536
+        ],
+        [
+          517,
+          770,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m14-s01",
+        "m14-s02",
+        "m14-s03",
+        "m14-s04"
+      ],
+      "review": "四格灯阶与多米诺齐全。第2格两灯阶尚未首尾调换，已改对白为准备翻转而非声称图中已配好。比例不作数值。"
+    },
+    "m15": {
+      "file": "assets/comics/chapters/m15-e4f9ebab30.webp",
+      "bytes": 588224,
+      "sha256": "9e58f4f25e452aa58433f79bd90e0b67772a5b7bb775170509c455cad7925928",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "e4f9ebab301bfe2f4ca0eb5075d552e5d956137379da6436b5aaa3dbd645ca4b",
+      "preview": {
+        "file": "assets/comics/chapters/m15-e4f9ebab30-preview.webp",
+        "bytes": 96788,
+        "sha256": "a959371f543f42831eea61c170d0ef485e7d516650466ecea0dbb3669da91899"
+      },
+      "prompt": "production/prompts/chapter-comics/m15-e4f9ebab30.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          505
+        ],
+        [
+          0,
+          515,
+          1024,
+          1019
+        ],
+        [
+          0,
+          1029,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m15-s01",
+        "m15-s02",
+        "m15-s03"
+      ],
+      "review": "三格计时主题齐全。割线、两级齿轮、逐点坡度对应三节。切线定义与求导条件用对白和现有科学模型核对。"
+    },
+    "m16": {
+      "file": "assets/comics/chapters/m16-963da2d5e2.webp",
+      "bytes": 678616,
+      "sha256": "1888f25260b8763632028b501f8bc481ace32b04f8fd59691c6f0515af8858b6",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "963da2d5e2bf16afa1fceec4d6214872f7581c9444a6021255b48bff9e96f39c",
+      "preview": {
+        "file": "assets/comics/chapters/m16-963da2d5e2-preview.webp",
+        "bytes": 126828,
+        "sha256": "5d2b702096cfb604d65b96097f16d9a90f2f02ca8f55c1cc3e949b0dcb94a401"
+      },
+      "prompt": "production/prompts/chapter-comics/m16-963da2d5e2.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          516,
+          1024,
+          1022
+        ],
+        [
+          0,
+          1029,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m16-s01",
+        "m16-s02",
+        "m16-s03"
+      ],
+      "review": "三格路线、排位和分步分叉齐全。实际组合数与二项式系数以说明为准，图中桥不作精确计数。"
+    },
+    "m17": {
+      "file": "assets/comics/chapters/m17-8801101a7a.webp",
+      "bytes": 589242,
+      "sha256": "e665e9554321369e6745ac49ecaeb69fdd91ee25df20af2916896396ccf46866",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "8801101a7a7dbc23dcdb0850de861d647db03966bb1dbff67b9f5fe019538ed1",
+      "preview": {
+        "file": "assets/comics/chapters/m17-8801101a7a-preview.webp",
+        "bytes": 99166,
+        "sha256": "5d3827203350e194c528b5edf418f2268383e32123b2557175df89f95aa22d40"
+      },
+      "prompt": "production/prompts/chapter-comics/m17-8801101a7a.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          509
+        ],
+        [
+          518,
+          0,
+          1024,
+          509
+        ],
+        [
+          0,
+          517,
+          508,
+          1019
+        ],
+        [
+          518,
+          517,
+          1024,
+          1019
+        ],
+        [
+          0,
+          1028,
+          508,
+          1536
+        ],
+        [
+          518,
+          1028,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m17-s01",
+        "m17-s02",
+        "m17-s03",
+        "m17-s04",
+        "m17-s05"
+      ],
+      "review": "六格风险账本齐全，条件筛选、收益归类、均值方差、放回对照、分布形状、作出选择各有独立场景。"
+    },
+    "m18": {
+      "file": "assets/comics/chapters/m18-6f4e8f0a35.webp",
+      "bytes": 559218,
+      "sha256": "d15f6cd0742cdc8c852be76ff810c5bfb63b6ade1a34d029f1ccc4552c0092e3",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "6f4e8f0a35ea3859f9c1eeaae067c6648730b573d88c33d67ef304b96c5e2d05",
+      "preview": {
+        "file": "assets/comics/chapters/m18-6f4e8f0a35-preview.webp",
+        "bytes": 95062,
+        "sha256": "8a60ab9a29f9e99b4bffbb8b3a97770503327f64d6f3ef90d12795704adb048c"
+      },
+      "prompt": "production/prompts/chapter-comics/m18-6f4e8f0a35.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          515,
+          1024,
+          1020
+        ],
+        [
+          0,
+          1027,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "m18-s01",
+        "m18-s02",
+        "m18-s03"
+      ],
+      "review": "三格冰饮调查齐全。天气作为共同原因提示，拟合使用纵向残差，列联表用四格筹码示意，未用画面取实际样本数。"
+    },
+    "p01": {
+      "file": "assets/comics/chapters/p01-89609015ec.webp",
+      "bytes": 661628,
+      "sha256": "7c87e6a17a8ce8cae54cee8c46ac0ab7e5d4182a5ac2c213459d51ea6577e62d",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "89609015ec2649baa222ccb99213009955d9e7b3e99979e10ebe75c4c39beb1a",
+      "preview": {
+        "file": "assets/comics/chapters/p01-89609015ec-preview.webp",
+        "bytes": 103082,
+        "sha256": "5693fc8f3efc81d84f0fd0129a07618fb76b15cd06d72607ba1bdcf313129c34"
+      },
+      "prompt": "production/prompts/chapter-comics/p01-89609015ec.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          763
+        ],
+        [
+          517,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          773,
+          507,
+          1536
+        ],
+        [
+          517,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p01-s01",
+        "p01-s02",
+        "p01-s03",
+        "p01-s04"
+      ],
+      "review": "四格火车故事齐全。静坐与相对运动、路径和弦、相机位置记录、减速照片分别对应四节。"
+    },
+    "p02": {
+      "file": "assets/comics/chapters/p02-d66bc0bddb.webp",
+      "bytes": 505160,
+      "sha256": "01d5569baa5dfe4b55411c1e18ad2e7c3f0a566af81137ea8523aaf8cfe74759",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "d66bc0bddb1b6b49e10858767b382642c95b8684379c04b3ba92bef7eb2d90e4",
+      "preview": {
+        "file": "assets/comics/chapters/p02-d66bc0bddb-preview.webp",
+        "bytes": 77934,
+        "sha256": "241dcb5a9bb48a08c3f55a867727f32040a3c6bb81112d1f71bfe9d97e855465"
+      },
+      "prompt": "production/prompts/chapter-comics/p02-d66bc0bddb.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          506,
+          762
+        ],
+        [
+          518,
+          0,
+          1024,
+          762
+        ],
+        [
+          0,
+          773,
+          506,
+          1536
+        ],
+        [
+          518,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p02-s01",
+        "p02-s02",
+        "p02-s03",
+        "p02-s04"
+      ],
+      "review": "四格小车记录齐全。连续照片与点迹作等时示意，面积为正速度区间，末格在真空罩内羽毛和小球同落。"
+    },
+    "p03": {
+      "file": "assets/comics/chapters/p03-c70efa1dfe.webp",
+      "bytes": 550498,
+      "sha256": "f809395471fa3b2db6c64f354f3f91b20ddcbda24ab39e9a284effe49f5e9ead",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "c70efa1dfe04623dcaa9938ade0445ef9318ab75601e2e97830e02de6bc85f84",
+      "preview": {
+        "file": "assets/comics/chapters/p03-c70efa1dfe-preview.webp",
+        "bytes": 93520,
+        "sha256": "ba01a77c2ba6f9500ca4adca0ca03ba2790e1cdf7644150d6d237ee31a45e457"
+      },
+      "prompt": "production/prompts/chapter-comics/p03-c70efa1dfe.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          510,
+          509
+        ],
+        [
+          516,
+          0,
+          1024,
+          509
+        ],
+        [
+          0,
+          514,
+          510,
+          1022
+        ],
+        [
+          516,
+          514,
+          1024,
+          1022
+        ],
+        [
+          0,
+          1026,
+          510,
+          1536
+        ],
+        [
+          516,
+          1026,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p03-s01",
+        "p03-s02",
+        "p03-s03",
+        "p03-s04",
+        "p03-s05"
+      ],
+      "review": "六格舞台道具齐全。弹性板弯曲、静滑状态对比、分属两人的推力、两股拉力与挂点平衡、搬运收尾清晰。"
+    },
+    "p04": {
+      "file": "assets/comics/chapters/p04-4cd344445f.webp",
+      "bytes": 563226,
+      "sha256": "0d27e93aec5cb19c1f0a81ef61658511fd83e7331189e81407959287075d208c",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "4cd344445f5d0f668e2ceb03bcbfdb2dd2159c7b2fe3f644274214f5cd1c3259",
+      "preview": {
+        "file": "assets/comics/chapters/p04-4cd344445f-preview.webp",
+        "bytes": 88036,
+        "sha256": "9993d28238d305f748d01b1646b9cc5b6cd135731e839dda06e1f4eeabbf1b0b"
+      },
+      "prompt": "production/prompts/chapter-comics/p04-4cd344445f.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          504
+        ],
+        [
+          518,
+          0,
+          1024,
+          504
+        ],
+        [
+          0,
+          514,
+          508,
+          1010
+        ],
+        [
+          518,
+          514,
+          1024,
+          1010
+        ],
+        [
+          0,
+          1021,
+          508,
+          1536
+        ],
+        [
+          518,
+          1021,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p04-s01",
+        "p04-s02",
+        "p04-s03",
+        "p04-s04",
+        "p04-s05",
+        "p04-s06"
+      ],
+      "review": "六格电梯齐全。惯性、控制变量、受力和加速度、单位、分对象、秤的阶段对照，读数未从图读取。"
+    },
+    "p05": {
+      "file": "assets/comics/chapters/p05-cfa2b28ec9.webp",
+      "bytes": 448102,
+      "sha256": "81526bc890fd4778590c078c6c0926a5d5ed80664c253630ac4694a27ac97ccf",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "cfa2b28ec94df0d948f212a239f7b590c5be0007c0015de76d5623f6373e8e65",
+      "preview": {
+        "file": "assets/comics/chapters/p05-cfa2b28ec9-preview.webp",
+        "bytes": 74076,
+        "sha256": "275a1e3c85991649bd34475a8428f815130deebc170baa13ba5dc74ad13be7d7"
+      },
+      "prompt": "production/prompts/chapter-comics/p05-cfa2b28ec9.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          763
+        ],
+        [
+          518,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          774,
+          508,
+          1536
+        ],
+        [
+          518,
+          774,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p05-s01",
+        "p05-s02",
+        "p05-s03",
+        "p05-s04"
+      ],
+      "review": "四格抛体齐全。首格斜尺实际待校，已修订对白指明最高点切线水平。对比同高度释放的定性模型，时序以设定条件为准。"
+    },
+    "p06": {
+      "file": "assets/comics/chapters/p06-10b6d42739.webp",
+      "bytes": 532632,
+      "sha256": "964bca27dc794e453ceefee5245c21c07e6b2a8cfb86256fbe473e4af61f46c6",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "10b6d42739bfdf5e184ebe32a13c5f28d67f18eeb073a20f76bd9be6ab91a2ec",
+      "preview": {
+        "file": "assets/comics/chapters/p06-10b6d42739-preview.webp",
+        "bytes": 79998,
+        "sha256": "6683d31cdaa77ca75745f1a72058aecd4ed7aeddcb5c292761ff893fd91421f0"
+      },
+      "prompt": "production/prompts/chapter-comics/p06-10b6d42739.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          763
+        ],
+        [
+          518,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          773,
+          508,
+          1536
+        ],
+        [
+          518,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p06-s01",
+        "p06-s02",
+        "p06-s03",
+        "p06-s04"
+      ],
+      "review": "四格转盘齐全。绑球绳确接中心，第三格用箭头试摆而非声称切向已测准，正文明确向心方向和真实受力。"
+    },
+    "p07": {
+      "file": "assets/comics/chapters/p07-08c681ea11.webp",
+      "bytes": 544830,
+      "sha256": "0d25eed60a6c809af339e8b7764fc1aeaee7e7f222e6ac38dc90b58068a46601",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "08c681ea115ea93bac85dbdfabcd2e60907c6ddd58c66d92d228dcee63157f4d",
+      "preview": {
+        "file": "assets/comics/chapters/p07-08c681ea11-preview.webp",
+        "bytes": 89512,
+        "sha256": "04d1ee5b3c12eba339bb3efadba37967be642d1d141b2be2016cc1f1d83ac6de"
+      },
+      "prompt": "production/prompts/chapter-comics/p07-08c681ea11.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          506
+        ],
+        [
+          518,
+          0,
+          1024,
+          506
+        ],
+        [
+          0,
+          515,
+          508,
+          1019
+        ],
+        [
+          518,
+          515,
+          1024,
+          1019
+        ],
+        [
+          0,
+          1028,
+          508,
+          1536
+        ],
+        [
+          518,
+          1028,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p07-s01",
+        "p07-s02",
+        "p07-s03",
+        "p07-s04",
+        "p07-s05"
+      ],
+      "review": "六格卫星齐全。行星椭圆与偏心太阳、距离比较、轨道观测、同心轨道、校时和云图收尾齐全。引力用中心距。"
+    },
+    "p08": {
+      "file": "assets/comics/chapters/p08-e25902410a.webp",
+      "bytes": 548586,
+      "sha256": "039067311d0ffde6a29cd69e1031b982a591e658c11655d3fe84c03c3d309b89",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "e25902410aa4c4bfba9aaf37d7e9dddadfa645df1f566070bd52e9ceed6b9d78",
+      "preview": {
+        "file": "assets/comics/chapters/p08-e25902410a-preview.webp",
+        "bytes": 94956,
+        "sha256": "245f7f9e181e644974036f3617fadb837fd54e7630e7aaf5616195fa747e9377"
+      },
+      "prompt": "production/prompts/chapter-comics/p08-e25902410a.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          506,
+          503
+        ],
+        [
+          519,
+          0,
+          1024,
+          503
+        ],
+        [
+          0,
+          515,
+          506,
+          1002
+        ],
+        [
+          519,
+          515,
+          1024,
+          1002
+        ],
+        [
+          0,
+          1014,
+          506,
+          1536
+        ],
+        [
+          519,
+          1014,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p08-s01",
+        "p08-s02",
+        "p08-s03",
+        "p08-s04",
+        "p08-s05"
+      ],
+      "review": "六格轨道账单齐全。基准面、光电门、光滑和粗糙对照、观察记录和小车终景可辨。示意图不代替实测。"
+    },
+    "p09": {
+      "file": "assets/comics/chapters/p09-eac5910151.webp",
+      "bytes": 404110,
+      "sha256": "4b37da52819c684eaeb012ca0acdcf8b32dc0d828f52cc9cd64f36f8d518ebe1",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "eac59101514bd3a181b31baea0220c93b13cb20122c33f22bac7113f95431b07",
+      "preview": {
+        "file": "assets/comics/chapters/p09-eac5910151-preview.webp",
+        "bytes": 69182,
+        "sha256": "1d98544fc35063fa43b883f11d1c1b6c216c7601e310cb059e084f2d97411e18"
+      },
+      "prompt": "production/prompts/chapter-comics/p09-eac5910151.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          763
+        ],
+        [
+          518,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          772,
+          507,
+          1536
+        ],
+        [
+          518,
+          772,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p09-s01",
+        "p09-s02",
+        "p09-s03",
+        "p09-s04"
+      ],
+      "review": "四格静电展柜齐全，电荷转移、吊球装置、试探球和泄放集尘可辨。吊球处在待测状态，未把同向偏斜当成库仑力的孤立结果。"
+    },
+    "p10": {
+      "file": "assets/comics/chapters/p10-0d2a991abf.webp",
+      "bytes": 567998,
+      "sha256": "8fb38c8cc005e59b2302b60a28891d64d4e3c398ed74359791dc3d5e4b2cc921",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "0d2a991abfad1b491e210cba6c8298bbf8a523a9575312b4b7fdb09fd23112b9",
+      "preview": {
+        "file": "assets/comics/chapters/p10-0d2a991abf-preview.webp",
+        "bytes": 83318,
+        "sha256": "81bce916428945ac45a1762a6e7dea4a09ee65aba5c70eac20ecdba13cb3f87e"
+      },
+      "prompt": "production/prompts/chapter-comics/p10-0d2a991abf.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          507
+        ],
+        [
+          518,
+          0,
+          1024,
+          507
+        ],
+        [
+          0,
+          516,
+          507,
+          1019
+        ],
+        [
+          518,
+          516,
+          1024,
+          1019
+        ],
+        [
+          0,
+          1027,
+          507,
+          1536
+        ],
+        [
+          518,
+          1027,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p10-s01",
+        "p10-s02",
+        "p10-s03",
+        "p10-s04",
+        "p10-s05"
+      ],
+      "review": "六格正负粒子故事齐全。类比台阶、初末端点、板间投影、电容板、粒子落点与收尾齐全。能量正负与方向以对白条件为准。"
+    },
+    "p11": {
+      "file": "assets/comics/chapters/p11-f23a956664.webp",
+      "bytes": 452402,
+      "sha256": "4c72c85603273e0b865870afcad07f802d58e6c47ee94f5a5406d9b06381588a",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "f23a9566643f12f52277061429e92c1fc2670982e862828670bbf2bd8d781116",
+      "preview": {
+        "file": "assets/comics/chapters/p11-f23a956664-preview.webp",
+        "bytes": 94492,
+        "sha256": "faaed5e64fc4693ab8b33a02115c5b465479573eecfd848b5b1940c90be3144b"
+      },
+      "prompt": "production/prompts/chapter-comics/p11-f23a956664.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          506,
+          501
+        ],
+        [
+          518,
+          0,
+          1024,
+          501
+        ],
+        [
+          0,
+          511,
+          506,
+          1020
+        ],
+        [
+          518,
+          511,
+          1024,
+          1020
+        ],
+        [
+          0,
+          1030,
+          506,
+          1536
+        ],
+        [
+          518,
+          1030,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p11-s01",
+        "p11-s02",
+        "p11-s03",
+        "p11-s04",
+        "p11-s05"
+      ],
+      "review": "复核返修六格。串联板一灯取下、剩余灯全灭，右侧并联仅中支路暗，测阻前电池已取出。读者按对白和教材回路判断。"
+    },
+    "p12": {
+      "file": "assets/comics/chapters/p12-c23d098fea.webp",
+      "bytes": 448212,
+      "sha256": "f4ad39956cdd119282e4589241d9cbbdb7153997f03713f52980ecd98d0d0877",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "c23d098fea4ae299c9c13c77ea1e33262f91cca6c05d37eea7f080e5913dd626",
+      "preview": {
+        "file": "assets/comics/chapters/p12-c23d098fea-preview.webp",
+        "bytes": 82952,
+        "sha256": "a051694e083baf01042ccb7f3fb9aa52aff2b4b65ee90026d0e5172543f0a703"
+      },
+      "prompt": "production/prompts/chapter-comics/p12-c23d098fea.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          762
+        ],
+        [
+          519,
+          0,
+          1024,
+          762
+        ],
+        [
+          0,
+          774,
+          508,
+          1536
+        ],
+        [
+          519,
+          774,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p12-s01",
+        "p12-s02",
+        "p12-s03",
+        "p12-s04"
+      ],
+      "review": "复核返修四大格。第2格上下为断开外负载和带载两种状态，仪表外壳内的连接未画出，开路读数较高。第3格下降直线对应U–I关系。"
+    },
+    "p13": {
+      "file": "assets/comics/chapters/p13-ffad776b39.webp",
+      "bytes": 611286,
+      "sha256": "bc74000913431d0db0d9dee1294727f3bffd7328f71dbeaebf43640cee79de92",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "ffad776b39f1de818a2af726fada1ef6cbf7d2d33620beae34c1ff34ff57a1da",
+      "preview": {
+        "file": "assets/comics/chapters/p13-ffad776b39-preview.webp",
+        "bytes": 98440,
+        "sha256": "641ed99f39b206831447bbcd90d6e64c9b340d75e48803b2d0ac5d55baf28d58"
+      },
+      "prompt": "production/prompts/chapter-comics/p13-ffad776b39.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          510
+        ],
+        [
+          516,
+          0,
+          1024,
+          510
+        ],
+        [
+          0,
+          518,
+          507,
+          1018
+        ],
+        [
+          516,
+          518,
+          1024,
+          1018
+        ],
+        [
+          0,
+          1026,
+          507,
+          1536
+        ],
+        [
+          516,
+          1026,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p13-s01",
+        "p13-s02",
+        "p13-s03",
+        "p13-s04",
+        "p13-s05"
+      ],
+      "review": "六格灯塔故事齐全。指南针是探测装置，磁通以倾角投影示意，磁体运动与感应偏转可辨，传播波纹和光珠是示意。"
+    },
+    "p14": {
+      "file": "assets/comics/chapters/p14-d6883c1293.webp",
+      "bytes": 483208,
+      "sha256": "8b438b7c003468ad996a26c239edef9b425ded64c24d0afcac113801571875b1",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "d6883c1293a5a191bb3f0c0da09ba02332144cbd3a8e167014801c469465ddd8",
+      "preview": {
+        "file": "assets/comics/chapters/p14-d6883c1293-preview.webp",
+        "bytes": 83332,
+        "sha256": "57f9d8c348ff79d9577cc727d7abc3d2cae1ced84c461666648bc3d00dbea7ba"
+      },
+      "prompt": "production/prompts/chapter-comics/p14-d6883c1293.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          507
+        ],
+        [
+          518,
+          0,
+          1024,
+          507
+        ],
+        [
+          0,
+          517,
+          507,
+          1018
+        ],
+        [
+          518,
+          517,
+          1024,
+          1018
+        ],
+        [
+          0,
+          1028,
+          507,
+          1536
+        ],
+        [
+          518,
+          1028,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p14-s01",
+        "p14-s02",
+        "p14-s03",
+        "p14-s04",
+        "p14-s05",
+        "p14-s06"
+      ],
+      "review": "六格滑车故事齐全。质量、缓冲、系统边界、光电门、两种碰撞、反冲对应各节，最后滑车与包裹方向相反。"
+    },
+    "p15": {
+      "file": "assets/comics/chapters/p15-35cd78a383.webp",
+      "bytes": 586984,
+      "sha256": "6c26ada5d634e7acfa07c0930d967cf1bcf9e85848efecb940d87e94f9fbfbeb",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "35cd78a3838cc556ca0dd4c94ebb292cd8e99ea2ea5589216176d407e2eb317b",
+      "preview": {
+        "file": "assets/comics/chapters/p15-35cd78a383-preview.webp",
+        "bytes": 97398,
+        "sha256": "66527c8793b4e51f5b9ed233dcb84755af4034853a2bc877cd3c0a3b434d0167"
+      },
+      "prompt": "production/prompts/chapter-comics/p15-35cd78a383.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          494
+        ],
+        [
+          518,
+          0,
+          1024,
+          494
+        ],
+        [
+          0,
+          502,
+          508,
+          1015
+        ],
+        [
+          518,
+          502,
+          1024,
+          1015
+        ],
+        [
+          0,
+          1023,
+          508,
+          1536
+        ],
+        [
+          518,
+          1023,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p15-s01",
+        "p15-s02",
+        "p15-s03",
+        "p15-s04",
+        "p15-s05",
+        "p15-s06"
+      ],
+      "review": "六格钟塔校时齐全。弹簧照片和能量筹码作示意，摆长从悬点量到球心，末格受迫秋千与周期关系明确。"
+    },
+    "p16": {
+      "file": "assets/comics/chapters/p16-e23ff5d463.webp",
+      "bytes": 628760,
+      "sha256": "e651b248614cb11a764c9b17c7953cb4a7c987edc0f3f9c7ee327f4e2f316e6f",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "e23ff5d463bc75c9642c4654079e8f48fb7d1f7e4e7150111b472010b7a97334",
+      "preview": {
+        "file": "assets/comics/chapters/p16-e23ff5d463-preview.webp",
+        "bytes": 101406,
+        "sha256": "5cd5f8439306c7f4cc06945db1901b902acac33128540170c6f4ef7dfbb79a8e"
+      },
+      "prompt": "production/prompts/chapter-comics/p16-e23ff5d463.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          509,
+          508
+        ],
+        [
+          517,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          515,
+          509,
+          1018
+        ],
+        [
+          517,
+          515,
+          1024,
+          1018
+        ],
+        [
+          0,
+          1026,
+          509,
+          1536
+        ],
+        [
+          517,
+          1026,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p16-s01",
+        "p16-s02",
+        "p16-s03",
+        "p16-s04",
+        "p16-s05"
+      ],
+      "review": "六格水波故事齐全。源与浮子、波长测读、窄缝、叠加、移动铃、结尾对应。水面展示为定性波动。"
+    },
+    "p17": {
+      "file": "assets/comics/chapters/p17-9eed3f16ce.webp",
+      "bytes": 450240,
+      "sha256": "31db3be6a99c43011c77bed36e8f73f41aa803762162c2535b4d5fa0b249ecc6",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "9eed3f16ce776331fc4c1cebd06f2b0428d3fff241faa25748ef90f6ae4cfea8",
+      "preview": {
+        "file": "assets/comics/chapters/p17-9eed3f16ce-preview.webp",
+        "bytes": 66664,
+        "sha256": "36ea32d379a8b88f1c1193465b0e586b49cea4ba4e9a3008026a84d42bde459d"
+      },
+      "prompt": "production/prompts/chapter-comics/p17-9eed3f16ce.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          507
+        ],
+        [
+          518,
+          0,
+          1024,
+          507
+        ],
+        [
+          0,
+          515,
+          508,
+          1013
+        ],
+        [
+          518,
+          515,
+          1024,
+          1013
+        ],
+        [
+          0,
+          1020,
+          508,
+          1536
+        ],
+        [
+          518,
+          1020,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p17-s01",
+        "p17-s02",
+        "p17-s03",
+        "p17-s04",
+        "p17-s05",
+        "p17-s06"
+      ],
+      "review": "六格光路齐全。水面折射、纤芯导光、双缝亮暗条纹、量纹距、中央宽纹的单缝对照和偏振片依序可辨。"
+    },
+    "p18": {
+      "file": "assets/comics/chapters/p18-6b4fd8b7eb.webp",
+      "bytes": 353150,
+      "sha256": "80a5c1f85177bdf7f6d13f2a102805787f459a3dc0e6b0159e8eb0cb361dfb36",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "6b4fd8b7ebfae392d127893e92ef186fe81b6ef796725cf7674f32c48e1a3875",
+      "preview": {
+        "file": "assets/comics/chapters/p18-6b4fd8b7eb-preview.webp",
+        "bytes": 71700,
+        "sha256": "fac3b13b0620918fc3e436dc7fc7d931ffbb15038277c38da9247ee3ce8d4e83"
+      },
+      "prompt": "production/prompts/chapter-comics/p18-6b4fd8b7eb.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          763
+        ],
+        [
+          519,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          773,
+          507,
+          1536
+        ],
+        [
+          519,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p18-s01",
+        "p18-s02",
+        "p18-s03",
+        "p18-s04"
+      ],
+      "review": "返修四格已看。三种圆半径的屏幕不再画不相切的入射线，切向与磁力规则由文字和原有可调模型核对，末格区分质谱与回旋加速。"
+    },
+    "p19": {
+      "file": "assets/comics/chapters/p19-34fc940ae6.webp",
+      "bytes": 439530,
+      "sha256": "6aa5c1b35ddd837120b52b2a3f30e9b0421a626d10616ae393d62773d6acb18c",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "34fc940ae6216151f12a843fb822301d895dfcce4e21585683a2f7cc2428f182",
+      "preview": {
+        "file": "assets/comics/chapters/p19-34fc940ae6-preview.webp",
+        "bytes": 75698,
+        "sha256": "9a4e1b4f6b5d75d03dfa7c540350cc97467fee0ec78abefc8b844ae5676a7b13"
+      },
+      "prompt": "production/prompts/chapter-comics/p19-34fc940ae6.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          695
+        ],
+        [
+          519,
+          0,
+          1024,
+          695
+        ],
+        [
+          0,
+          705,
+          507,
+          1536
+        ],
+        [
+          519,
+          705,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p19-s01",
+        "p19-s02",
+        "p19-s03",
+        "p19-s04"
+      ],
+      "review": "四大格均可辨。前两格内上下对比磁铁方向及快慢，第3格整铜板与开槽板对比，第4格互感。快慢的电动势不从仪表插图量取。"
+    },
+    "p20": {
+      "file": "assets/comics/chapters/p20-f9b8fc364c.webp",
+      "bytes": 523352,
+      "sha256": "f611df4febe2e7b6e66b4b7ae7107fd1fb3f530d140c60176ff24b8fd473adb6",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "f9b8fc364cdb772062291b1e890e558eb75ecde094f523f85ce1a729a85fb448",
+      "preview": {
+        "file": "assets/comics/chapters/p20-f9b8fc364c-preview.webp",
+        "bytes": 88752,
+        "sha256": "60a940255e3c653e2e10146132e06bf203526239ea029ee40fb06fc95c777a37"
+      },
+      "prompt": "production/prompts/chapter-comics/p20-f9b8fc364c.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          506,
+          763
+        ],
+        [
+          519,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          773,
+          506,
+          1536
+        ],
+        [
+          519,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p20-s01",
+        "p20-s02",
+        "p20-s03",
+        "p20-s04"
+      ],
+      "review": "四格发电、热效应、铁芯双线圈和输电塔齐全。温度计画面处于对照测量过程，有效值条件明确为相同热效应。"
+    },
+    "p21": {
+      "file": "assets/comics/chapters/p21-91a1e3a1e5.webp",
+      "bytes": 584346,
+      "sha256": "35fe53c14f873d0b2bfa04a25bd0044cc56717e36f6c9aee0946b8f7b614f6ee",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "91a1e3a1e589ac3f8d97a624f07ec03a62f5be4b597ea7b6e9ee35e790233dbc",
+      "preview": {
+        "file": "assets/comics/chapters/p21-91a1e3a1e5-preview.webp",
+        "bytes": 89692,
+        "sha256": "d366056a0f4142299d52a1796448d07101689b1ea110fdd94be52bf8826b7d0c"
+      },
+      "prompt": "production/prompts/chapter-comics/p21-91a1e3a1e5.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          763
+        ],
+        [
+          518,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          773,
+          507,
+          1536
+        ],
+        [
+          518,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p21-s01",
+        "p21-s02",
+        "p21-s03",
+        "p21-s04"
+      ],
+      "review": "四格振荡、传播、调谐、波段应用齐全。光纹及筹码为模型，医疗成像外观不作为具体波段测定。"
+    },
+    "p22": {
+      "file": "assets/comics/chapters/p22-f7ddb21e65.webp",
+      "bytes": 517752,
+      "sha256": "f1fdc95c8b18eaf535ecef89300f0739622e10998f4626467cd970793b5c248d",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "f7ddb21e656cd0d44b6599cdff32a4c6f8818a2c5ff02997af14d3d44ea71f01",
+      "preview": {
+        "file": "assets/comics/chapters/p22-f7ddb21e65-preview.webp",
+        "bytes": 79766,
+        "sha256": "f70ab51f59e96c953d11ccd914045092a2661402a23ad06c71e81fe77d8bd3b6"
+      },
+      "prompt": "production/prompts/chapter-comics/p22-f7ddb21e65.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          1024,
+          506
+        ],
+        [
+          0,
+          516,
+          1024,
+          968
+        ],
+        [
+          0,
+          978,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p22-s01",
+        "p22-s02",
+        "p22-s03"
+      ],
+      "review": "三格探测器、控制变量与书柜调节齐全。第三格两个同角色表示两种触发条件，线路仅为器件情境。"
+    },
+    "p23": {
+      "file": "assets/comics/chapters/p23-a2e2f90e60.webp",
+      "bytes": 570996,
+      "sha256": "5cd4e98c7d91906289a535f5579fffee3a0fa3daf7feaa84989b3a46823b6b32",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "a2e2f90e6034804cd4a6d6e7e599c107033d90bded308003a3a2f52cde64a60c",
+      "preview": {
+        "file": "assets/comics/chapters/p23-a2e2f90e60-preview.webp",
+        "bytes": 83366,
+        "sha256": "558adcc20afcf4640fb072d35ffbc56e1de6ac6b754c2b19addd7cf2e50359c3"
+      },
+      "prompt": "production/prompts/chapter-comics/p23-a2e2f90e60.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          763
+        ],
+        [
+          518,
+          0,
+          1024,
+          763
+        ],
+        [
+          0,
+          772,
+          507,
+          1536
+        ],
+        [
+          518,
+          772,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p23-s01",
+        "p23-s02",
+        "p23-s03",
+        "p23-s04"
+      ],
+      "review": "四格布朗运动、油膜、速率分组和内能齐全。彩色轮廓为油膜范围示意，未把彩纹当单层油膜的可见结构。"
+    },
+    "p24": {
+      "file": "assets/comics/chapters/p24-d2c989be1e.webp",
+      "bytes": 648422,
+      "sha256": "735bcf848fe52f41a60ec631100607d2f199b98dc1c9eec30b983484831dc1eb",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "d2c989be1e06c6a9c277051472b7602bb413e6c61121cb5696c17966c5ece62e",
+      "preview": {
+        "file": "assets/comics/chapters/p24-d2c989be1e-preview.webp",
+        "bytes": 99736,
+        "sha256": "c58b31b03287468d8b1af8f4b40999fa675bdf10572f8f44b483b01fca40c287"
+      },
+      "prompt": "production/prompts/chapter-comics/p24-d2c989be1e.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          508
+        ],
+        [
+          519,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          518,
+          507,
+          1013
+        ],
+        [
+          519,
+          518,
+          1024,
+          1013
+        ],
+        [
+          0,
+          1023,
+          507,
+          1536
+        ],
+        [
+          519,
+          1023,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p24-s01",
+        "p24-s02",
+        "p24-s03",
+        "p24-s04",
+        "p24-s05"
+      ],
+      "review": "六格温标、等温、等压等容、晶体、液体、实验收尾可辨。温标和液柱刻度不作测值。"
+    },
+    "p25": {
+      "file": "assets/comics/chapters/p25-427ad58f74.webp",
+      "bytes": 630504,
+      "sha256": "116cb34386c7b95a7693e7aad560dfebf0712891200377b82a22cf29d29c38f4",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "427ad58f748a50e839baf7b64971bc0f222c55c5143017b6894080f5684370ec",
+      "preview": {
+        "file": "assets/comics/chapters/p25-427ad58f74-preview.webp",
+        "bytes": 101128,
+        "sha256": "1e3549a3930e05d40f6bef716ad7896d6b55e9fe56954b4fcab1c97c0cacf092"
+      },
+      "prompt": "production/prompts/chapter-comics/p25-427ad58f74.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          506,
+          762
+        ],
+        [
+          519,
+          0,
+          1024,
+          762
+        ],
+        [
+          0,
+          773,
+          506,
+          1536
+        ],
+        [
+          519,
+          773,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p25-s01",
+        "p25-s02",
+        "p25-s03",
+        "p25-s04"
+      ],
+      "review": "四格传热做功、第一定律、能量转移和第二定律齐全。冷箱接电，功正负按对白说明。"
+    },
+    "p26": {
+      "file": "assets/comics/chapters/p26-88169b6ec0.webp",
+      "bytes": 392216,
+      "sha256": "b2faa97243050bc9d1e672af30fb60d125885463f0378bf1262048d46e209c14",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "88169b6ec09e22cd8c1653edf868f863eb1f15d5c51e58925b293aa37b7a83b1",
+      "preview": {
+        "file": "assets/comics/chapters/p26-88169b6ec0-preview.webp",
+        "bytes": 76364,
+        "sha256": "bf3604aaa088889bdd374a6b665fe654e83a158535087db12376efdf79597ab6"
+      },
+      "prompt": "production/prompts/chapter-comics/p26-88169b6ec0.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          507,
+          507
+        ],
+        [
+          517,
+          0,
+          1024,
+          507
+        ],
+        [
+          0,
+          516,
+          507,
+          1015
+        ],
+        [
+          517,
+          516,
+          1024,
+          1015
+        ],
+        [
+          0,
+          1026,
+          507,
+          1536
+        ],
+        [
+          517,
+          1026,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p26-s01",
+        "p26-s02",
+        "p26-s03",
+        "p26-s04",
+        "p26-s05"
+      ],
+      "review": "返修六格已看。阈频对照中强红光下屏为平直基线，紫光有响应。谱线、能级和衍射环作定性示意。"
+    },
+    "p27": {
+      "file": "assets/comics/chapters/p27-60a961946e.webp",
+      "bytes": 537838,
+      "sha256": "cc369ee912aa435c30406270b0e616b49102891c3cf7ee24ba4d38bd2a54aa8a",
+      "width": 1024,
+      "height": 1536,
+      "originalSha256": "60a961946e705f33e6566aec4619aae9a8761f529633bd56354db3a0ad00efe6",
+      "preview": {
+        "file": "assets/comics/chapters/p27-60a961946e-preview.webp",
+        "bytes": 92174,
+        "sha256": "d0c4b4232a61d862a6412a1156ff3432f5378483f682c8deebb00f22f6e0d6c5"
+      },
+      "prompt": "production/prompts/chapter-comics/p27-60a961946e.txt",
+      "panelBounds": [
+        [
+          0,
+          0,
+          508,
+          508
+        ],
+        [
+          517,
+          0,
+          1024,
+          508
+        ],
+        [
+          0,
+          515,
+          508,
+          1019
+        ],
+        [
+          517,
+          515,
+          1024,
+          1019
+        ],
+        [
+          0,
+          1025,
+          508,
+          1536
+        ],
+        [
+          517,
+          1025,
+          1024,
+          1536
+        ]
+      ],
+      "sectionIds": [
+        "p27-s01",
+        "p27-s02",
+        "p27-s03",
+        "p27-s04",
+        "p27-s05"
+      ],
+      "review": "六格核模型、随机衰变、质量亏损、裂变聚变、粒子层级及展签修订齐全。第3格计数不等的秤已写为待更正的错误实验设计。"
+    }
+  }
+}

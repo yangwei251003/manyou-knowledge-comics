@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 空间向量与立体几何. Story: 立方仓里的无人机.
+Situation: 仓库高处的检修口够不着。栗栗想拿地图上的平面箭头指挥无人机，阿澄给它加上高度。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 透明立方仓内无人机按三段路径飞行，阿澄把两条同向箭头平移到共同参照处。
+PANEL 2 (ROW 1 RIGHT): 立方框架内三条独立方向滑轨组合定位一只小盒，栗栗从下往上看。
+PANEL 3 (ROW 2 LEFT): 无人机把三向位置标到透明正交网格上，学生将一根法向杆插在透明板的法线方向。
+PANEL 4 (ROW 2 RIGHT): 无人机斜穿一个空架，阿澄同时指着它在平面上的投影和竖直法线，狐量两角。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

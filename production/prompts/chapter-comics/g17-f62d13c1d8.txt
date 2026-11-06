@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 区域与区域发展. Story: 同一村庄有三张边界图.
+Situation: 村庄出现在流域图、通勤图和特色作物图上，三条边界都不一样。栗栗想擦掉两条，阿澄解释它们各回答什么问题。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 开场，画清故事的起因和主角遇到的困难。
+村庄出现在流域图、通勤图和特色作物图上，三条边界都不一样。栗栗想擦掉两条，阿澄解释它们各回答什么问题。
+PANEL 2 (MIDDLE): 规划桌上同一个虚构村落被三张透明薄片按自然分水、作物相似和服务联系分别圈定。
+PANEL 3 (BOTTOM): 村落模型内部耕地、道路与居民点互相联系，外部货车和河水连接周边聚落，学生追踪内外两类路径。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 静电场中的能量. Story: 电场里两种性格的乘客.
+Situation: 栗栗给正、负两种试探粒子画了同一张路线图，阿澄用一座高低台先讲清能量账，再回到真实电场。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 阿澄在高低不同的台面摆两种不同颜色的乘客模型和空白能量筹码，栗栗观察同一个位置。
+PANEL 2 (ROW 1 RIGHT): 两个固定站台之间交换能量筹码，阿澄把路线反过来对照，同一对端点不变。
+PANEL 3 (ROW 2 LEFT): 平行金属板之间摆一根垂直标尺和一根斜标尺，阿澄把斜杆在板间法向投影。
+PANEL 4 (ROW 2 RIGHT): 平行板电容器的两板由可调支架分隔，阿澄在不改变板面积的情况下改变间距。
+PANEL 5 (ROW 3 LEFT): 屏蔽的粒子束观察台，学生比较同一束粒子经过一对平行板后落到屏上的不同位置。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

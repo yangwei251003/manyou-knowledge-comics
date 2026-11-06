@@ -1,0 +1,277 @@
+.story-section {
+  --story-jade: #25564c;
+  margin-bottom: 34px;
+}
+
+.story-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+  scroll-margin-top: 18px;
+}
+
+.story-heading .button {
+  font-size: 12px;
+  min-height: 42px;
+}
+
+.story-premise {
+  margin: 10px 0 18px;
+}
+
+.chapter-story-reader {
+  overflow: hidden;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 13px;
+}
+
+.chapter-story-reader:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 3px;
+}
+
+.story-panel-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 18px;
+  font-size: 12px;
+  line-height: 1.65;
+  color: var(--story-jade);
+  background: #edf1e5;
+}
+
+.story-panel-meta span {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.story-panel-meta b {
+  text-align: right;
+}
+
+.story-frame, .comic-cover-crop {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  background: #f1eee1;
+}
+
+.story-frame {
+  width: min(100%, 490px);
+  margin: 0 auto;
+}
+
+.story-frame img, .comic-cover-crop img {
+  position: absolute;
+  display: block;
+  max-width: none;
+  object-fit: fill;
+}
+
+.story-dialogue {
+  display: grid;
+  gap: 10px;
+  padding: 17px 18px;
+  line-height: 1.85;
+}
+
+.story-dialogue p {
+  display: grid;
+  grid-template-columns: 3em 1fr;
+  gap: 10px;
+  margin: 0;
+  padding: 10px 12px;
+  border-radius: 7px;
+  background: #edf1e5;
+  overflow-wrap: anywhere;
+  font-size: 15px;
+}
+
+.story-dialogue p.fox-line {
+  background: #fff0dc;
+}
+
+.story-dialogue b {
+  color: var(--story-jade);
+  font-size: 13px;
+}
+
+.story-dialogue .fox-line b {
+  color: #95542b;
+}
+
+.story-facts {
+  margin: 0 18px 17px;
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  padding: 12px 14px;
+  font-size: 13px;
+  line-height: 1.85;
+  overflow-wrap: anywhere;
+}
+
+.story-facts summary {
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.story-facts summary span {
+  margin-left: 10px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 400;
+}
+
+.story-facts ul {
+  padding-left: 20px;
+}
+
+.story-facts li + li {
+  margin-top: 8px;
+}
+
+.story-formulas p {
+  padding: 9px 11px;
+  background: #edf1e5;
+  border-radius: 5px;
+}
+
+.story-formulas span {
+  display: block;
+  color: var(--muted);
+}
+
+.story-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 18px;
+  border-top: 1px solid var(--line);
+}
+
+.story-controls .button {
+  min-height: 44px;
+  font-size: 13px;
+}
+
+.story-controls .button:disabled {
+  opacity: .48;
+  cursor: default;
+  transform: none;
+}
+
+.story-progress {
+  color: var(--story-jade);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+
+.story-index {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.story-index button {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 8px 10px;
+  min-height: 40px;
+  text-align: left;
+  font-size: 12px;
+  background: var(--white);
+}
+
+.story-index button[aria-current="step"] {
+  background: #e4eee4;
+  border-color: #7f9b83;
+  color: var(--story-jade);
+}
+
+.story-index span {
+  margin-right: 5px;
+  color: #527365;
+  font-variant-numeric: tabular-nums;
+}
+
+.extra-chapter-comic {
+  margin: 0 0 24px;
+  padding: 12px 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.extra-chapter-comic > summary {
+  font-weight: 700;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.extra-chapter-comic .chapter-comic {
+  margin: 18px 0 0;
+}
+
+.comic-book-group {
+  margin-top: 34px;
+}
+
+.comic-book-group .comic-bookshelf {
+  margin-top: 18px;
+}
+
+.comic-book-group h3 {
+  margin: 4px 0 12px;
+  font-size: 17px;
+  line-height: 1.55;
+}
+
+.comic-cover-crop {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.comic-bookshelf .comic-cover-crop img {
+  border: 0;
+  border-radius: 0;
+}
+
+.raster-dialog.story-page-preview {
+  width: min(94vw, 720px);
+}
+
+.raster-dialog.story-page-preview > img {
+  width: auto;
+  min-width: 0;
+  max-width: 100%;
+  height: auto;
+  max-height: calc(88dvh - 76px);
+  margin-inline: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 560px) {
+  .story-frame {
+    width: min(100%, 340px);
+  }
+
+  .story-panel-meta, .story-controls, .story-dialogue {
+    padding-left: 11px;
+    padding-right: 11px;
+  }
+
+  .story-facts {
+    margin-left: 11px;
+    margin-right: 11px;
+  }
+
+  .story-controls .button {
+    padding-inline: 11px;
+  }
+}

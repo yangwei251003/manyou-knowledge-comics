@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 直线和圆的方程. Story: 花车为什么卡在门口.
+Situation: 花车要穿过圆形广场的窄门。栗栗量了斜着走的距离，阿澄发现那不是最窄处。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 游园坡道模型从低斜转向竖直，栗栗用玩具车试坡。
+PANEL 2 (ROW 1 RIGHT): 长直尺绕花车地图上一枚固定图钉转动，阿澄在旁摆出横线、竖线和斜线样条。
+PANEL 3 (ROW 2 LEFT): 从路标点向直线边界拉一根垂直短绳，并与斜着跨出的长绳并排对照。
+PANEL 4 (ROW 2 RIGHT): 阿澄用固定长度的绳围绕广场中央钉子画圆，栗栗拖着粉笔跑。
+PANEL 5 (ROW 3 LEFT): 俯视圆形广场和一根移动的直木杆，杆的一端处于接触圆周的切线位置，旁边两块圆盘可移动。
+PANEL 6 (ROW 3 RIGHT): 结尾的远景或特写。沿用本章开场的地点、道具和人物，让角色完成任务或改变做法，以可见的动作回应开场的困难。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

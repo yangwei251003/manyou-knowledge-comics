@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 平面向量及其应用. Story: 纸船导航员.
+Situation: 栗栗要把纸船停到对岸指定位置。它沿着地图贴满箭头，却忘了箭头可以搬家。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 池塘地图上两张同长同向的纸箭头被阿澄从不同位置移到同一点，栗栗护住自己的小船。
+PANEL 2 (ROW 1 RIGHT): 船的两段航程首尾相接，学生用一条直绳连接起点终点，并将另一段向岸边方向投影。
+PANEL 3 (ROW 2 LEFT): 船模工作台上有两条不共线的滑轨，学生用两个滑块的位移组合到指定位置。
+PANEL 4 (ROW 2 RIGHT): 河岸测量现场，阿澄从岸上两处向同一浮标拉出三角形视线，栗栗举起测角器。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

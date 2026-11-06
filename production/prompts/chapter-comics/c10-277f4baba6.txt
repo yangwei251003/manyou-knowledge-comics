@@ -1,0 +1,15 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 化学反应速率与化学平衡. Story: 双向工厂没有停工.
+Situation: 车间两侧箱子数半天没变。栗栗要给工人发下班铃，阿澄发现两条传送带一直都在运货。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 双向生产线的旁边摆秒表与两种容器，学生按同样时间观察不同工况下的产物累计。
+PANEL 2 (ROW 1 RIGHT): 对开传送带各有货物向相反方向移动，两端仓库持续有人进出，库存形态大致稳定。
+PANEL 3 (ROW 2 LEFT): 阿澄在两端储仓间比对能量坡道与货物排列自由度两种模型，栗栗抱着一把温度筹码。
+PANEL 4 (ROW 2 RIGHT): 学生向一侧库房临时加入货物，双向工厂从失衡状态重新调节，观察窗显示两个阶段。
+Scientific constraints: Show the described materials, outcomes and apparatus qualitatively. Avoid atom counts, structural formulae, handwritten element symbols, made-up bonds or apparatus details not requested. Use appropriate safety gear in a lab.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.
+
+ImageGen revision:
+Edit the original 4-panel comic. Change only the white painted arrow in the TOP-RIGHT panel, on the RIGHT conveyor belt with green boxes. Rotate that ONE right-belt arrow by 180 degrees so it points toward the viewer, toward the BOTTOM edge of that panel. Keep the left belt's arrow pointing away toward the back wall. The two arrows must point in opposite travel directions. Preserve the factory, boxes, people, every other panel, 2 by 2 grid, gutter positions, and all existing colors. No letters or captions.

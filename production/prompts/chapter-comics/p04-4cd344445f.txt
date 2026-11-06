@@ -1,0 +1,14 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 运动和力的关系. Story: 电梯里的体重之谜.
+Situation: 电梯一启动，栗栗脚下的秤就跳了一下。它以为自己变胖了，阿澄把电梯当成一间运动实验室。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 6 equal rectangular frames. 2 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 电梯厅前的平滑轨道上，小推车已经脱离人手仍向前滑，阿澄指着松开的手。
+PANEL 2 (ROW 1 RIGHT): 同一套水平小车装置旁放可拆砝码和测力计，阿澄一次只改变一项设置。
+PANEL 3 (ROW 2 LEFT): 电梯实验模型旁，学生用弹簧秤测拉力，观察同一小车沿轨道的加速。
+PANEL 4 (ROW 2 RIGHT): 操作台摆着米尺、计时器和标准砝码，狐狸把两张不同单位记号的空白数据卡分开。
+PANEL 5 (ROW 3 LEFT): 阿澄在电梯检修模型上分开轿厢和乘客两个模型，栗栗给单个人物贴受力标记。
+PANEL 6 (ROW 3 RIGHT): 真正的电梯到达楼层，栗栗站在秤上时先吃惊后放松，阿澄用手指示向上和向下的短暂变化。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

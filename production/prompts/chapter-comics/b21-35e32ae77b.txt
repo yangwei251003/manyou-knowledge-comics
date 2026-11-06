@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 人与环境. Story: 救湿地要先问谁住在这.
+Situation: 旧湿地水变浑，栗栗准备把所有植物拔掉重种。阿澄沿来水、栖息地与治理目标逐段调查。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 从上游道路和耕地到下游湿地的长景剖面，学生在多个水位点取样，狐沿流域找可能的人为影响。
+PANEL 2 (MIDDLE): 湿地边已有不同水深与植被的栖息地，保护牌旁是种质保存室的缩景，学生比较不同保护对象。
+PANEL 3 (BOTTOM): 治理后的试验区把缓冲植被、湿地净化和居民使用区连成一体，学生复测流入流出水样。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

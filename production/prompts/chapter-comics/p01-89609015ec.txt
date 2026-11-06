@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 运动的描述. Story: 车窗外的树在跑吗.
+Situation: 列车驶向海边。栗栗指着窗外喊树在往后跑，阿澄掏出一张行程卡，要它分清相对谁、走到哪、走多快。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 列车车厢内阿澄和栗栗相对座椅静坐，窗外行道树掠过，远处铁轨与站台静止。
+PANEL 2 (ROW 1 RIGHT): 到站后两人绕着站前小喷泉行走，地上足迹回到起点，阿澄在途中两个位置间拉直一根短绳。
+PANEL 3 (ROW 2 LEFT): 俯看平台旁小车从一列位置标记行驶，阿澄用相机捕捉单个路口的瞬间。
+PANEL 4 (ROW 2 RIGHT): 到海边最后一段，列车仍朝前行却逐渐减速。栗栗的围巾随车厢轻晃，阿澄比对相邻瞬间照片。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

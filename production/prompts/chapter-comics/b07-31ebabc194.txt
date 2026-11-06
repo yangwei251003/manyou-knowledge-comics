@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 遗传因子的发现. Story: 豌豆园的两本账.
+Situation: 栗栗以为一种性状消失后永远回不来。阿澄照着豌豆园的杂交记录找证据，再试试两对性状能不能分别算。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 开场，画清故事的起因和主角遇到的困难。
+栗栗以为一种性状消失后永远回不来。阿澄照着豌豆园的杂交记录找证据，再试试两对性状能不能分别算。
+PANEL 2 (MIDDLE): 豌豆园里亲本植株和后代样本分行摆放，阿澄用一对颜色筹码和测交托盘追踪分离，画面不声称统计比例。
+PANEL 3 (BOTTOM): 下一片豌豆园用两种可辨的种子性状分两栏记录，再用格子组合配子，栗栗把同类格并起来。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 资源、环境与区域发展. Story: 煤城的第二张名片.
+Situation: 老矿场停产，栗栗打算把山坡全部建成乐园。阿澄带它先看自然禀赋和脆弱环节，再设计可持续的新工作。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 虚构矿城桌面沙盘同时展示矿藏、坡地水源、交通和工人社区，学生把自然条件和转化条件两类卡分开。
+PANEL 2 (MIDDLE): 受侵蚀坡面有水土流失痕迹，邻坡按不同地形试设植被缓冲、护坡和居民管理，阿澄比较效果。
+PANEL 3 (BOTTOM): 矿城旧厂区被改造成维修培训、清洁产业和公共空间的试点，学生与工人对照就业和治理记录。
+Scientific constraints: Use a fictional landscape or schematic cross-section, with no real borders or unlabeled world map. Respect relative positions and the stated causal direction. Do not invent legends, compass labels or numeric data.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

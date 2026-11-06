@@ -1,0 +1,15 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 安培力与洛伦兹力. Story: 没碰墙却转弯的离子.
+Situation: 离子侦探装置的命中点偏离了。栗栗想换更强的电池，阿澄先查是哪种磁场作用在改变方向。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 屏蔽实验台上有通电直导线和开口磁铁，导线支架轻微偏转，学生改变电源接法作对照。
+PANEL 2 (ROW 1 RIGHT): 粒子仪器侧窗里一束细光显出弯曲轨迹，阿澄用光片比较轨迹切线与法向。
+PANEL 3 (ROW 2 LEFT): 模型演示屏上同中心的不同半径圆环，学生比较进入匀强场的垂直入射离子轨迹。
+PANEL 4 (ROW 2 RIGHT): 阿澄在科学馆把带分离接收屏的质谱仪展台与带两块半圆电极的回旋加速器展台并排，狐狸举着同一枚离子模型。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.
+
+ImageGen revision:
+Edit only the bottom-left panel of this four-panel educational graphic novel, keeping the other three panels and the exact 2 by 2 gutters intact. On the monitor in that panel show exactly three unlabelled concentric circular outlines, distinct small, medium and large radii, all centered on the same point. Remove ALL incoming horizontal beams, dots, velocity arrows and path entrances from that monitor. It is just a screen of comparison radius circles. Preserve the girl's pointing gesture, lab background, fox, ink linework and colors. No text.

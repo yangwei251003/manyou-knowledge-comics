@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 群落及其演替. Story: 空地怎样变成有层次的家.
+Situation: 暴雨后出现一片新地。栗栗拿一张森林照片作未来设计图，阿澄先看原来留下了什么，再找可能的演替方向。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 近景剖视同一林地从地表草本到灌木与树冠分层，旁边有受光、水分和种间关系的观察点。
+PANEL 2 (MIDDLE): 自然馆展示不同水热条件的荒漠、草原和森林缩景，学生比较典型生物适应环境的外形。
+PANEL 3 (BOTTOM): 裸岩的新地与保留土壤的旧地并排，学生用几张时间照片追踪先后出现的植被。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

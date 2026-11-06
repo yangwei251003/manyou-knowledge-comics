@@ -1,0 +1,11 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 计数原理. Story: 游园路线册印重了.
+Situation: 栗栗印了厚厚一沓路线券，很多走法却一模一样。阿澄查清什么时候分路，什么时候接关卡。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 游园入口分成两条完整线路，一条路内部还串联两处关卡，学生用彩绳区分。
+PANEL 2 (MIDDLE): 阿澄先挑三个乐手成队，再为同三人摆出三个不同座位，狐狸把座签交换。
+PANEL 3 (BOTTOM): 游乐架上每个层级都可向左右分叉，重复走法汇进三角布局的共同节点。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

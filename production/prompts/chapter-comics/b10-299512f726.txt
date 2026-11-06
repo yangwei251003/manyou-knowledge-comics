@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 基因的表达. Story: 从工单到做成一件工具.
+Situation: 栗栗搬来整套原始档案，想让车间照着它做蛋白。阿澄先传一份副本，再追工具如何影响性状。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 3 equal rectangular frames. 1 column(s) by 3 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (TOP): 开场，画清故事的起因和主角遇到的困难。
+栗栗搬来整套原始档案，想让车间照着它做蛋白。阿澄先传一份副本，再追工具如何影响性状。
+PANEL 2 (MIDDLE): 细胞邮局用一条信息带从封存档案侧传到核糖体工作台，另一组小配件接成氨基酸链。
+PANEL 3 (BOTTOM): 透明温室中相似遗传背景的植株分别置于两种环境，学生把酶作用模型与结构蛋白模型并列检查。
+Scientific constraints: Show the relevant visible structure or analogy. Keep the cell compartments and sequence of events faithful. Do not imply scale or invent labeled molecular diagrams.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

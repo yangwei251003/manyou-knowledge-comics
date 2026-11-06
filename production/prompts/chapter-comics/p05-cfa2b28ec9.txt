@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 抛体运动. Story: 两颗球谁先着地.
+Situation: 实验室的软球要越过小沟。栗栗认为横向冲得快就能在空中多停一会儿，阿澄把两次运动拆开看。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 抛起的软球在连续曝光中留下弯曲轨迹，学生用直尺沿某点切向比出运动方向。
+PANEL 2 (ROW 1 RIGHT): 玻璃方框里水平传送带向右移动，同时一个小球竖直落下，墙面标出两种独立投影。
+PANEL 3 (ROW 2 LEFT): 同一水平高度同步释放两颗同样小球，一颗从台边水平射出，另一颗直落，连续快照中同一时刻成对等高。
+PANEL 4 (ROW 2 RIGHT): 两人在河沟模型旁调高出手台，栗栗在对岸放一张可移动接球网。
+Scientific constraints: Use a clear schematic scene or an observable experiment. Do not invent measurement values, extra force arrows, field lines or wiring. Keep the described qualitative direction and object motion exact.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.

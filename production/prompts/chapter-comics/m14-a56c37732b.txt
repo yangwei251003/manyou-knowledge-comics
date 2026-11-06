@@ -1,0 +1,12 @@
+Use case: illustration-story.
+Asset: one complete silent comic page for Chinese senior high school revision.
+Chapter: 数列. Story: 灯阶到底要几盏灯.
+Situation: 山路艺术节要求每级台阶按规律布灯。栗栗只记得最后一阶，阿澄要它算出全部电池。
+Style: a polished inked graphic novel on warm ivory, with subtle print grain, varied camera angles and expressive hands and faces. Same thoughtful Chinese teen girl with dark short bob, cream tee and teal jacket, and her small expressive orange fox partner in a teal scarf. Use environment-specific props and colors. The setting should convey the particular story, not a row of generic classroom portraits.
+Layout: portrait 2:3. Exactly 4 equal rectangular frames. 2 column(s) by 2 row(s), rigid regular grid, thin ivory gutters at equal fractions of the canvas. Read left to right, top to bottom. Fill each frame completely. No title region, extra subpanel, decorative border, speech balloon or watermark.
+PANEL 1 (ROW 1 LEFT): 夜色里每阶放着一组小灯，阿澄把前几阶灯数汇进总计盒。
+PANEL 2 (ROW 1 RIGHT): 两条等差灯阶一正一反叠在一起，配对后边缘齐平，狐把两排灯带扣住。
+PANEL 3 (ROW 2 LEFT): 学生对齐两列按倍数变化的灯片，第二列向后错一格，让中间同样的灯块相对。
+PANEL 4 (ROW 2 RIGHT): 山路口一列木制多米诺牌，阿澄轻推第一块并检查每块之间的触达距离。
+Scientific constraints: Use concrete manipulatives or clear qualitative shapes. Only draw a graph when the panel specifically asks for it. Keep geometric relationships faithful.
+Render art only. No letters, words, numbers or formulas anywhere. All dialogue and precise notation are supplied in HTML. Clearly distinguish the scene of every panel. Keep important subjects away from the gutters.
